@@ -11,7 +11,7 @@
   "about_phone": "crwdns19981:0crwdne19981:0",
   "about_phone-number": "crwdns19982:0crwdne19982:0",
   "asset-catalog_title": "crwdns19983:0crwdne19983:0",
-  "asset-catalog_start-trade": "crwdns19984:0crwdne19984:0",
+  "asset-catalog_start-trade": "crwdns22253:0crwdne22253:0",
   "asset-catalog_session": "crwdns19985:0crwdne19985:0",
   "asset-catalog_time-EUR/GBP": "crwdns19986:0crwdne19986:0",
   "asset-catalog_text-EUR/GBP": "crwdns19987:0crwdne19987:0",
@@ -730,5 +730,5 @@
   "strategy_correction": "crwdns20700:0crwdne20700:0",
   "strategy_fibonacci": "crwdns20701:0crwdne20701:0",
   "ec_title": "crwdns20702:0crwdne20702:0",
-  "privacy.body": "crwdns22250:0crwdne22250:0"
+  "privacy_body": "crwdns22255:0crwdne22255:0"
 }
