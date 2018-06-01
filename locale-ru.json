@@ -262,6 +262,7 @@
   "payments_pick-own-sum1": "Хотите выбрать сумму сами?",
   "payments_pick-own-sum2": "Введите значение в поле",
   "payments_popular-choice": "Популярный выбор",
+  "payments_system-loading": "Загрузка платежной системы",
   "payments_bonus": "Бонус",
   "payments_success-title": "Депозит внесен",
   "payments_success-body": "Спасибо! Ваш депозит внесен на ваш счет.<br>Это сообщение закроется автоматически. Если этого не происходит нажмите на кнопку:",
