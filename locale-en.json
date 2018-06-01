@@ -760,5 +760,6 @@
   "reg-success_text": "In order to complete your registration, please click the confirmation link in the email that we have sent to you.",
   "reg-success_footer": "If you have any questions please contact our client support: +35722052784",
   "home_login-button-get-bonus": "Get Bonus",
-  "table-swipe": "Прокручивайте таблицу пальцем вправо или влево"
+  "table-swipe": "Прокручивайте таблицу пальцем вправо или влево",
+  "modal_close": "Закрыть"
 }
