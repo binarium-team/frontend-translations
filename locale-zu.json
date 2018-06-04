@@ -262,6 +262,7 @@
   "payments_pick-own-sum1": "crwdns20225:0crwdne20225:0",
   "payments_pick-own-sum2": "crwdns20226:0crwdne20226:0",
   "payments_popular-choice": "crwdns20227:0crwdne20227:0",
+  "payments_system-loading": "crwdns23256:0crwdne23256:0",
   "payments_bonus": "crwdns20228:0crwdne20228:0",
   "payments_success-title": "crwdns20229:0crwdne20229:0",
   "payments_success-body": "crwdns20230:0crwdne20230:0",
@@ -446,12 +447,14 @@
   "menu_profile-security": "crwdns23167:0crwdne23167:0",
   "menu_trading-history": "crwdns20400:0crwdne20400:0",
   "menu_quit": "crwdns20401:0crwdne20401:0",
+  "menu_about": "crwdns23257:0crwdne23257:0",
   "menu_account-types": "crwdns20402:0crwdne20402:0",
   "header_support": "crwdns20403:0crwdne20403:0",
   "footer_chat": "crwdns20404:0crwdne20404:0",
   "footer_phone": "crwdns20405:0crwdne20405:0",
   "footer_skype": "crwdns20406:0crwdne20406:0",
-  "risk-warning": "crwdns20407:0crwdne20407:0",
+  "risk-warning": "crwdns23258:0crwdne23258:0",
+  "risk-warning-2": "crwdns23259:0crwdne23259:0",
   "contacts_address": "crwdns23168:0crwdne23168:0",
   "contacts_phone": "crwdns20409:0crwdne20409:0",
   "contacts_skype": "crwdns20410:0crwdne20410:0",
@@ -757,5 +760,6 @@
   "reg-success_text": "crwdns23203:0crwdne23203:0",
   "reg-success_footer": "crwdns23204:0crwdne23204:0",
   "home_login-button-get-bonus": "crwdns23205:0crwdne23205:0",
-  "table-swipe": "crwdns23250:0crwdne23250:0"
+  "table-swipe": "crwdns23250:0crwdne23250:0",
+  "modal_close": "crwdns23260:0crwdne23260:0"
 }
