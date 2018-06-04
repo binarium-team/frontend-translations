@@ -262,6 +262,7 @@
   "payments_pick-own-sum1": "Want to pick up you own amount?",
   "payments_pick-own-sum2": "Use the input field",
   "payments_popular-choice": "Popular choice",
+  "payments_system-loading": "Загрузка платежной системы",
   "payments_bonus": "Bonus",
   "payments_success-title": "Deposit successful",
   "payments_success-body": "Thank you! Your deposit has been deposited to your account.<br><br>This message will close automatically. If this does not happen, click the button:",
@@ -446,12 +447,14 @@
   "menu_profile-security": "Security",
   "menu_trading-history": "Trading history",
   "menu_quit": "Exit",
+  "menu_about": "About company",
   "menu_account-types": "Account types",
   "header_support": "Support +357(22)052784",
   "footer_chat": "Online chat",
   "footer_phone": "+357(22)052784",
   "footer_skype": "binarium.com",
-  "risk-warning": "<p><strong>Risk disclosure.</strong> Trading operations made on Binarium platform involve a significant risk of loss of a capital. Please, read carefully the general trading conditions on our website before making any investments. You are given the right of personal, non-commercial use of the information located on this site. The right to use is limited, not exclusive. The company's activities are conducted outside the Russian Federation. The place of conclusion of the agreement is the Republic of Cyprus. For more information, please contact customer support: <a href=\"mailto:support@binarium.com\">support@binarium.com</a> or +357(22)052784</p>",
+  "risk-warning": "<p><strong>Risk disclosure.</strong> Trading operations made on Binarium platform involve a significant risk of loss of a capital. Please, read carefully the general trading conditions on our website before making any investments. You are given the right of personal, non-commercial use of the information located on this site. The right to use is limited, not exclusive. The company's activities are conducted outside the Russian Federation. The place of conclusion of the agreement is the Republic of Cyprus.</p>",
+  "risk-warning-2": "<p>For more information, please contact customer support: <a href=\"mailto:support@binarium.com\">support@binarium.com</a> or +357(22)052784</p>",
   "contacts_address": "BINARIUM LIMITED St. Vincent and the Grenadines, Suite 305, Griffin Corporate Centre, P.O. Box 1510, Beachmont, Kingstown, St. Vincent and the Grenadines. 1599 СTD 2016.",
   "contacts_phone": "+357(22)052784",
   "contacts_skype": "Binarium",
@@ -757,5 +760,6 @@
   "reg-success_text": "In order to complete your registration, please click the confirmation link in the email that we have sent to you.",
   "reg-success_footer": "If you have any questions please contact our client support: +35722052784",
   "home_login-button-get-bonus": "Get Bonus",
-  "table-swipe": "Прокручивайте таблицу пальцем вправо или влево"
+  "table-swipe": "Прокручивайте таблицу пальцем вправо или влево",
+  "modal_close": "Закрыть"
 }
