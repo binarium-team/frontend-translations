@@ -262,7 +262,7 @@
   "payments_pick-own-sum1": "Want to pick up you own amount?",
   "payments_pick-own-sum2": "Use the input field",
   "payments_popular-choice": "Popular choice",
-  "payments_system-loading": "Загрузка платежной системы",
+  "payments_system-loading": "Loading payment system",
   "payments_bonus": "Bonus",
   "payments_success-title": "Deposit successful",
   "payments_success-body": "Thank you! Your deposit has been deposited to your account.<br><br>This message will close automatically. If this does not happen, click the button:",
@@ -609,7 +609,7 @@
   "welcome_real-bonus-value-2": "100% bonus starting from 30€",
   "welcome_real-bonus-value-3": "100% bonus starting from 1500₽",
   "welcome_form-required": "You are required to fill in all the requested fields.",
-  "welcome_form-phone": "Telephone number (with a country code)",
+  "welcome_form-phone": "Phone number (with a country code)",
   "welcome_invalid-name-pattern": "Incorrect name format",
   "welcome_invalid-name-length": "Min length {{length}} symbols",
   "welcome_invalid-surname-pattern": "Incorrect surname format",
@@ -760,6 +760,6 @@
   "reg-success_text": "In order to complete your registration, please click the confirmation link in the email that we have sent to you.",
   "reg-success_footer": "If you have any questions please contact our client support: +35722052784",
   "home_login-button-get-bonus": "Get Bonus",
-  "table-swipe": "Прокручивайте таблицу пальцем вправо или влево",
-  "modal_close": "Закрыть"
+  "table-swipe": "Please scroll left or right",
+  "modal_close": "Close"
 }
