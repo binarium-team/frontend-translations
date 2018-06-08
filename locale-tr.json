@@ -262,7 +262,7 @@
   "payments_pick-own-sum1": "Kendi miktarınızı almak ister misiniz?",
   "payments_pick-own-sum2": "Giriş alanını kullan",
   "payments_popular-choice": "Popüler seçim",
-  "payments_system-loading": "Загрузка платежной системы",
+  "payments_system-loading": "Loading payment system",
   "payments_bonus": "Bonus",
   "payments_success-title": "Mevduat başarılı",
   "payments_success-body": "Teşekkürler! Depozito hesabınıza yatırıldı.<br><br>Bu mesaj otomatik olarak kapanacak. Kapanmazsa düğmeye tıklayın:",
@@ -609,7 +609,7 @@
   "welcome_real-bonus-value-2": "30€'dan başlayarak %100 bonus",
   "welcome_real-bonus-value-3": "1500₽'dan başlayarak %100 bonus",
   "welcome_form-required": "İstenilen bütün alanları doldurmanız gerekmektedir.",
-  "welcome_form-phone": "Telefon numarası (ülke kodu ile birlikte)",
+  "welcome_form-phone": "Phone number (with a country code)",
   "welcome_invalid-name-pattern": "Hatalı isim biçemi",
   "welcome_invalid-name-length": "Minimum {{length}} sembol uzunluğunda",
   "welcome_invalid-surname-pattern": "Hatalı soyadı biçemi",
@@ -760,6 +760,6 @@
   "reg-success_text": "In order to complete your registration, please click the confirmation link in the email that we have sent to you.",
   "reg-success_footer": "If you have any questions please contact our client support: +35722052784",
   "home_login-button-get-bonus": "Get Bonus",
-  "table-swipe": "Прокручивайте таблицу пальцем вправо или влево",
-  "modal_close": "Закрыть"
+  "table-swipe": "Please scroll left or right",
+  "modal_close": "Close"
 }
