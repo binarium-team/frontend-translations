@@ -761,5 +761,9 @@
   "reg-success_footer": "If you have any questions please contact our client support: +35722052784",
   "home_login-button-get-bonus": "Get Bonus",
   "table-swipe": "Please scroll left or right",
-  "modal_close": "Close"
+  "modal_close": "Close",
+  "gdpr_title": "Your privacy is important to us",
+  "gdpr_text": "<p>We’re happy to announce that we’re in full compliance with GDPR meaning you get more control over data you shared with us and what we in turn to do with it.</p><p>To continue using our services in future please confirm you are consent for the processing of your personal data for any and all purposes and on all the conditions set forth in this Policy.</p><p>I have read the <a target=\"_blank\" href=\"/main/privacy\">Data Protection Policy</a> (hereinafter referred to as \"Policy\") on Your website https://binarium.com and I hereby present to the company BINARIUM LIMITED, HE 321566 (the \"Company\") my consent for the processing of my personal data for any and all purposes and on all the conditions set forth in this Policy.<br><br>I undertake to fulfill all the User`s obligations provided by the Policy including but not limited to the provision of an immediate notification to the Company if there are any changes to my personal data.</p>",
+  "gdpr_disagree": "I do not accept terms of private policy",
+  "gdpr_agree": "Agree and proceed"
 }
