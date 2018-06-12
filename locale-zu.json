@@ -262,7 +262,7 @@
   "payments_pick-own-sum1": "crwdns20225:0crwdne20225:0",
   "payments_pick-own-sum2": "crwdns20226:0crwdne20226:0",
   "payments_popular-choice": "crwdns20227:0crwdne20227:0",
-  "payments_system-loading": "crwdns23256:0crwdne23256:0",
+  "payments_system-loading": "crwdns23261:0crwdne23261:0",
   "payments_bonus": "crwdns20228:0crwdne20228:0",
   "payments_success-title": "crwdns20229:0crwdne20229:0",
   "payments_success-body": "crwdns20230:0crwdne20230:0",
@@ -609,7 +609,7 @@
   "welcome_real-bonus-value-2": "crwdns20558:0crwdne20558:0",
   "welcome_real-bonus-value-3": "crwdns20559:0crwdne20559:0",
   "welcome_form-required": "crwdns20560:0crwdne20560:0",
-  "welcome_form-phone": "crwdns20561:0crwdne20561:0",
+  "welcome_form-phone": "crwdns23262:0crwdne23262:0",
   "welcome_invalid-name-pattern": "crwdns20562:0crwdne20562:0",
   "welcome_invalid-name-length": "crwdns20563:0{{length}}crwdne20563:0",
   "welcome_invalid-surname-pattern": "crwdns20564:0crwdne20564:0",
@@ -760,6 +760,6 @@
   "reg-success_text": "crwdns23203:0crwdne23203:0",
   "reg-success_footer": "crwdns23204:0crwdne23204:0",
   "home_login-button-get-bonus": "crwdns23205:0crwdne23205:0",
-  "table-swipe": "crwdns23250:0crwdne23250:0",
-  "modal_close": "crwdns23260:0crwdne23260:0"
+  "table-swipe": "crwdns23263:0crwdne23263:0",
+  "modal_close": "crwdns23264:0crwdne23264:0"
 }

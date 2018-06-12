@@ -262,7 +262,7 @@
   "payments_pick-own-sum1": "Wollen Sie Ihren eigenen Betrag wählen?",
   "payments_pick-own-sum2": "Nutzen Sie das Eingabefeld",
   "payments_popular-choice": "Beliebte Auswahl",
-  "payments_system-loading": "Загрузка платежной системы",
+  "payments_system-loading": "Loading payment system",
   "payments_bonus": "Bonus",
   "payments_success-title": "Einzahlung erfolgreich",
   "payments_success-body": "Vielen Dank! Ihre Einzahlung wurde Ihrem Konto gutgeschrieben.<br><br>Diese Nachricht schließt automatisch. Sollte dies nicht passieren, klicken Sie auf diese Schaltfläche:",
@@ -609,7 +609,7 @@
   "welcome_real-bonus-value-2": "100 % Bonus beginnt bei 30 Euro",
   "welcome_real-bonus-value-3": "100 % Bonus beginnt bei 1500 Rubel",
   "welcome_form-required": "Bitte füllen Sie alle erforderlichen Felder aus.",
-  "welcome_form-phone": "Telefonnummer (mit Ländercode)",
+  "welcome_form-phone": "Phone number (with a country code)",
   "welcome_invalid-name-pattern": "Ungültiges Namensformat",
   "welcome_invalid-name-length": "Mindestlänge {{length}} Zeichen",
   "welcome_invalid-surname-pattern": "Ungültiges Namensformat",
@@ -760,6 +760,6 @@
   "reg-success_text": "In order to complete your registration, please click the confirmation link in the email that we have sent to you.",
   "reg-success_footer": "If you have any questions please contact our client support: +35722052784",
   "home_login-button-get-bonus": "Get Bonus",
-  "table-swipe": "Прокручивайте таблицу пальцем вправо или влево",
-  "modal_close": "Закрыть"
+  "table-swipe": "Please scroll left or right",
+  "modal_close": "Close"
 }
