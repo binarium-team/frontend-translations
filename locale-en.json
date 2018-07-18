@@ -400,7 +400,7 @@
   "withdrawal_error-method-required": "Payment method is required",
   "withdrawal_error-sum-balance-limit": "Insufficient funds",
   "withdrawal_error-sum-max-limit": "This value should be {{ limit }} or less",
-  "withdrawal_error-sum-min-limit": "This value shoud be {{ limit }} or more",
+  "withdrawal_error-sum-min-limit": "This value should be {{ limit }} or more",
   "withdrawal_method": "Funds withdrawal method",
   "withdrawal_pick-a-method": "Choose payment method",
   "withdrawal_submit-button": "Withdraw funds",
