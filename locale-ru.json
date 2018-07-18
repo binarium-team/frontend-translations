@@ -276,6 +276,8 @@
   "payments_error-promotion": "Промо-код недействителен",
   "payments_error-promotion-expired": "Cрок действия промо-кода истёк",
   "payments_error-promotion-range": "Бонус действует для депозитов от {{min}} до {{max}}. Если хотите внести другую сумму, удалите промо-код",
+  "payments_error-promotion-type-1": "Доступен только для первого депозита",
+  "payments_error-promotion-type-2": "Доступен только для второго и последующих депозитов",
   "payments_total-pay": "Сумма к оплате",
   "payments_total-deposit": "Получите на счет",
   "payments_deposit-button": "Внести депозит",
