@@ -328,7 +328,7 @@
   "profile_social-setup": "เชื่อมโยง",
   "profile_change": "เปลี่ยน",
   "profile_warning": "ข้อมูลที่แก้ไขได้ จะพบได้ในช่องที่สามารถเปลี่ยนแปลงได้<br><br>หากด้วยเหตุผลใดก็ตาม ที่คุณต้องการเปลี่ยนแปลงข้อมูลที่ถูกล็อกไว้ กรุณาติดต่อฝ่ายบริการของเรา: <a href=\"mailto:support@binarium.com\">support@binarium.com</a>",
-  "profile_confirm-warning": "Check your mail. We sent a message to the specified address with a confirmation link that you must click.",
+  "profile_confirm-warning": "ตรวจสอบเมลของคุณ เราได้ส่งข้อความไปยังที่อยู่ที่ระบุไว้ ด้วยลิงก์ยืนยันที่คุณต้องคลิก",
   "profile_email-not-confirmed": "ยังไม่ได้ยืนยัน",
   "profile_email-confirmed": "ยืนยันแล้ว",
   "profile_subscribe": "Receive information about bonuses and important events of the company",
