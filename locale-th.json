@@ -258,7 +258,7 @@
   "payments_attribute-qiwi_phone": "หมายเลขโทรศัพท์",
   "payments_attribute-webmoney_customer_purse": "หมายเลขกระเป๋าสตางค์",
   "payments_attribute-yandex_money_customer_purse": "หมายเลขกระเป๋าสตางค์",
-  "payments_attribute-neteller_customer_purse": "Email or account ID",
+  "payments_attribute-neteller_customer_purse": "อีเมลหรือไอดีบัญชี",
   "payments_pick-sum": "เลือกจำนวนเงินฝาก",
   "payments_pick-phone-with-code": "ใส่หมายเลขโทรศัพท์รวมทั้งรหัสประเทศ",
   "payments_pick-own-sum1": "ต้องการเลือกบัญชีของคุณเองหรือไม่?",
