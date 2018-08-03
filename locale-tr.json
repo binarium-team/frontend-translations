@@ -258,7 +258,7 @@
   "payments_attribute-qiwi_phone": "telefon numarası",
   "payments_attribute-webmoney_customer_purse": "Cüzdan numarası",
   "payments_attribute-yandex_money_customer_purse": "Cüzdan numarası",
-  "payments_attribute-neteller_customer_purse": "Email or account ID",
+  "payments_attribute-neteller_customer_purse": "E-posta veya hesap numarası",
   "payments_pick-sum": "Depozito miktarı seçin",
   "payments_pick-phone-with-code": "Ülke koduyla birlikte bir telefon numarası girin",
   "payments_pick-own-sum1": "Kendi miktarınızı almak ister misiniz?",
