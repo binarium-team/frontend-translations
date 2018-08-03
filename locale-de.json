@@ -258,7 +258,7 @@
   "payments_attribute-qiwi_phone": "Telefonnummer",
   "payments_attribute-webmoney_customer_purse": "Nummer der Geldbörse",
   "payments_attribute-yandex_money_customer_purse": "Nummer der Geldbörse",
-  "payments_attribute-neteller_customer_purse": "Email or account ID",
+  "payments_attribute-neteller_customer_purse": "E-Mail-Adresse oder Konto-ID",
   "payments_pick-sum": "Wählen Sie den Einzahlungsbetrag",
   "payments_pick-phone-with-code": "Geben Sie eine Telefonnummer mit Landesvorwahl ein",
   "payments_pick-own-sum1": "Wollen Sie Ihren eigenen Betrag wählen?",
