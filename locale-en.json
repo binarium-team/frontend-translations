@@ -384,7 +384,6 @@
   "transactions_type-bonus-deposit": "Bonus deposit",
   "transactions_type-bonus-withdrawal": "Bonus withdrawal",
   "transactions_type-deposit-bonus": "Enrolling the bonus",
-  "transactions_type-transferred-bonus": "Bonus is transferred",
   "transactions_type-compensation": "Compensation",
   "transactions_type-tournament-participation": "Tournament participation",
   "transactions_type-tournament-cancelled": "Tournament cancellation",
