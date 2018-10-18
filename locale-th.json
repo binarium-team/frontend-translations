@@ -123,7 +123,7 @@
   "faq_group-0-q-7": "ราคาปิด คืออะไร?",
   "faq_group-0-a-7": "<p>ราคาปิด คือราคาทรัพย์สินที่เวลาที่สถานะหมดอายุ</p>",
   "faq_group-0-q-8": "ภายใต้เงื่อนไขอะไร ที่การซื้อขายจะได้กำไร?",
-  "faq_group-0-a-8": "<p>You make a profit in case your forecast came true. For example, you predicted that the price would increase (you've opened a CALL position) - in this case, the profit will be credited to the account if at the moment of the position expiration the asset price will be higher than when the deal was opened.</p>",
+  "faq_group-0-a-8": "<p>คุณทำกำไรได้ในกรณีที่ การคาดการณ์ของคุณเป็นจริง ตัวอย่างเช่น คุณคาดการณ์ไว้ว่า ราคาจะขึ้น (คุณได้เปิดสถานะคอล) - ในกรณีนี้ กำไรจะได้รับการนำเข้าไปยังบัญชี หากในเวลาที่สถานะหมดอายุ ราคาทรัพย์สินสูงกว่าตอนที่เปิดการซื้อขาย</p>",
   "faq_group-0-q-9": "ฉันสามารถสั่งให้มีการโทรกลับ จากฝ่ายบริการลูกค้าได้หรือไม่?",
   "faq_group-0-a-9": "<p>ใช่ สมัครในส่วนที่เกี่ยวข้อง แล้วส่งมาที่อีเมลของเรา <a href=\"mailto:support@binarium.com\">support@binarium.com</a> หรือที่ <a class=\"open-chat-button\">แชทออนไลน์</a> เราจะติดต่อคุณกลับไป ภายในไม่กี่นาที</p>",
   "faq_group-1-title": "บัญชี",
