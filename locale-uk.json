@@ -614,7 +614,7 @@
   "landing_traderoom-button": "Отримати доступ<br>до торгової кімнати",
   "landing_traderoom-deposit": "Поповнити",
   "landing_traderoom-description": "Доступ отримують клієнти, що поповнили баланс<br>на суму від <span>7 000UAH</span> / <span>250$</span>",
-  "landing_traderoom-description-loggedin": "Доступ получают клиенты пополнившие баланс<br>на сумму от <span>{{amount}}</span>",
+  "landing_traderoom-description-loggedin": "Доступ отримують клієнти, що поповнили баланс<br>на суму від <span>{{ amount }}</span>",
   "landing_traderoom-footer-1": "Є питання?",
   "landing_traderoom-footer-2": "Напишіть",
   "landing_traderoom-footer-3": "в онлайн підтримку або дзвоніть за телефоном  +7 (499) 703 35 81",
