@@ -123,7 +123,7 @@
   "faq_group-0-q-7": "Wie lautet der Schlusskurs?",
   "faq_group-0-a-7": "<p>Der Schlusskurs ist der Preis der Anlage zum Zeitpunkt des Ablaufs der Position.</p>",
   "faq_group-0-q-8": "Unter welchen Bedingungen wird das Geschäft profitabel?",
-  "faq_group-0-a-8": "<p>Sie machen einen Gewinn, falls Ihre Prognose sich bewahrheitet. Sie haben beispielsweise vorhergesagt, dass der Preis steigen wird (Sie haben eine CALL-Position eröffnet) - in diesem Fall wird der Gewinn dem Konto gutgeschrieben, wenn der Anlagepreis zum Zeitpunkt des Verfalls der Position höher ist als beim Verkauf wurde geöffnet.</p>",
+  "faq_group-0-a-8": "<p>Sie erzielen Gewinne, falls Ihre Prognose sich bewahrheitet. Sie haben beispielsweise vorhergesagt, dass der Preis steigen wird (Sie haben eine CALL-Position eröffnet) - in diesem Fall wird der Gewinn dem Konto gutgeschrieben, wenn der Anlagepreis zum Zeitpunkt des Ablaufs der Position höher ist als beim Start des Verkaufs.</p>",
   "faq_group-0-q-9": "Kann ich einen Anruf vom Kundendienst erhalten?",
   "faq_group-0-a-9": "<p>Ja. Füllen Sie die Anmeldung aus, und schicken Sie sie per E-Mail unter <a href=\"mailto:support@binarium.com\">support@binarium.com</a>, oder per<a class=\"open-chat-button\">Online-Chat</a> an uns. Innerhalb weniger Minuten rufen wir Sie zurück.</p>",
   "faq_group-1-title": "Konto",
