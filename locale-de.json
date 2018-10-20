@@ -121,7 +121,7 @@
   "faq_group-0-q-6": "Wann läuft die Transaktion aus?",
   "faq_group-0-a-6": "<p>Die Schlusszeit wird auch Ablaufzeitpunkt genannt; Er beschreibt den Zeitpunkt, an dem eine Transaktion schließt. Bei Transaktionsergebnissen erhält der Händler entweder eine Zahlung, die zuvor vereinbart wurde, oder nichts. Es hängt allein davon ab, ob die Prognose des Händlers zutrifft.</p>",
   "faq_group-0-q-7": "Wie lautet der Schlusskurs?",
-  "faq_group-0-a-7": "<p>Der Schlusskurs ist der Preis der Anlage zum Zeitpunkt des Ablaufs die Position.</p>",
+  "faq_group-0-a-7": "<p>Der Schlusskurs ist der Preis der Anlage zum Zeitpunkt des Ablaufs der Position.</p>",
   "faq_group-0-q-8": "Unter welchen Bedingungen wird das Geschäft profitabel?",
   "faq_group-0-a-8": "<p>Sie machen einen Gewinn, falls Ihre Prognose sich bewahrheitet. Sie haben beispielsweise vorhergesagt, dass der Preis steigen wird (Sie haben eine CALL-Position eröffnet) - in diesem Fall wird der Gewinn dem Konto gutgeschrieben, wenn der Anlagepreis zum Zeitpunkt des Verfalls der Position höher ist als beim Verkauf wurde geöffnet.</p>",
   "faq_group-0-q-9": "Kann ich einen Anruf vom Kundendienst erhalten?",
