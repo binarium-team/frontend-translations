@@ -613,7 +613,7 @@
   "landing_traderoom-icon-4": "Die besten Trader auf der Plattform",
   "landing_traderoom-button": "Zugang zum Handelsraum erhalten",
   "landing_traderoom-deposit": "Auffüllen",
-  "landing_traderoom-description": "Der Handelsraum ist für Kunden verfügbar, die mindestens <span>{{ amount }}</span> im Konto aufweisen",
+  "landing_traderoom-description": "Der Händlerraum ist für Kunden verfügbar, die mindestens <span>{{ amount }}</span> auf ihrem Konto aufweisen",
   "landing_traderoom-footer-1": "Sollten Sie Fragen haben, können Sie",
   "landing_traderoom-footer-2": "uns schreiben",
   "landing_traderoom-footer-3": "Online-Support oder Anruf +357 (22) 052 784",
