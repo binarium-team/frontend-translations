@@ -728,7 +728,7 @@
   "strategy-cat_simple": "Simple",
   "strategy-cat_basic": "Basic",
   "strategy-cat_advanced": "Advanced",
-  "cookie-request_text": "Продолжая использовать наш сайт, вы даете согласие на обработку файлов cookie, которые обеспечивают правильную работу сайта.",
-  "cookie-request_link": "Подробнее",
-  "cookie-request_button": "Хорошо"
+  "cookie-request_text": "By continuing to use our site, you agree to our use of cookies that ensure its proper operation.",
+  "cookie-request_link": "More",
+  "cookie-request_button": "OK"
 }
