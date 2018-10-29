@@ -727,5 +727,8 @@
   "strategy-cat_all": "crwdns24823:0crwdne24823:0",
   "strategy-cat_simple": "crwdns24824:0crwdne24824:0",
   "strategy-cat_basic": "crwdns24825:0crwdne24825:0",
-  "strategy-cat_advanced": "crwdns24826:0crwdne24826:0"
+  "strategy-cat_advanced": "crwdns24826:0crwdne24826:0",
+  "cookie-request_text": "crwdns25810:0crwdne25810:0",
+  "cookie-request_link": "crwdns25812:0crwdne25812:0",
+  "cookie-request_button": "crwdns25814:0crwdne25814:0"
 }
