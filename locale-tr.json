@@ -727,5 +727,8 @@
   "strategy-cat_all": "Tümü",
   "strategy-cat_simple": "Basit",
   "strategy-cat_basic": "Temel",
-  "strategy-cat_advanced": "Gelişmiş"
+  "strategy-cat_advanced": "Gelişmiş",
+  "cookie-request_text": "By continuing to use our site, you agree to our use of cookies that ensure its proper operation.",
+  "cookie-request_link": "More",
+  "cookie-request_button": "OK"
 }
