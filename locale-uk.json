@@ -727,5 +727,8 @@
   "strategy-cat_all": "Всі стратегії",
   "strategy-cat_simple": "Прості",
   "strategy-cat_basic": "Базові",
-  "strategy-cat_advanced": "Просунуті"
+  "strategy-cat_advanced": "Просунуті",
+  "cookie-request_text": "Продолжая использовать наш сайт, вы даете согласие на обработку файлов cookie, которые обеспечивают правильную работу сайта.",
+  "cookie-request_link": "Подробнее",
+  "cookie-request_button": "Хорошо"
 }
