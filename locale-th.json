@@ -728,7 +728,7 @@
   "strategy-cat_simple": "เรียบง่าย",
   "strategy-cat_basic": "พื้นฐาน",
   "strategy-cat_advanced": "ขั้นสูง",
-  "cookie-request_text": "By continuing to use our site, you agree to our use of cookies that ensure its proper operation.",
-  "cookie-request_link": "More",
-  "cookie-request_button": "OK"
+  "cookie-request_text": "โดยการใช้เว็บไซต์ของเราต่อ คุณได้ยอมรับต่อการใช้งานคุกกี้ของเรา ที่ใช้ในการทำให้แน่ใจได้ว่า มีการปฏิบัติการที่เหมาะสม",
+  "cookie-request_link": "เพิ่มเติม",
+  "cookie-request_button": "ตกลง"
 }
