@@ -728,7 +728,7 @@
   "strategy-cat_simple": "Basit",
   "strategy-cat_basic": "Temel",
   "strategy-cat_advanced": "Gelişmiş",
-  "cookie-request_text": "By continuing to use our site, you agree to our use of cookies that ensure its proper operation.",
-  "cookie-request_link": "More",
-  "cookie-request_button": "OK"
+  "cookie-request_text": "Sitemizi kullanmaya devam ederek, sitemizin düzgün çalışmasını sağlayan çerez kullanımımızı kabul etmiş olursunuz.",
+  "cookie-request_link": "Bilgi",
+  "cookie-request_button": "Tamam"
 }
