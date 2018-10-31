@@ -237,6 +237,7 @@
   "home_login-button-reg": "Открыть счет<br>бесплатно",
   "home_agree": "Я принимаю",
   "home_agree-with-conditions": "условия соглашения",
+  "home_agree-with-conditions-error":"Вы должны принять соглашение",
   "home_payments": "Проверенный и быстрый вывод средств",
   "home_socials": "Через соц. сети",
   "home-wallet_text": "Почти готово! Пожалуйста, выберите валюту счета",
@@ -795,5 +796,6 @@
   "landing-success-trading_tutorial-step-3-text": "Предположим, <span class=\"lst-adv__up\">Вверх</span>",
   "landing-success-trading_tutorial-step-4-title": "Получите прибыль",
   "landing-success-trading_tutorial-step-4-text": "Торгуйте с <strong>Binarium</strong>",
-  "landing-success-trading_tutorial-button": "Попробуйте сейчас"
+  "landing-success-trading_tutorial-button": "Попробуйте сейчас",
+  "landing_social-form-title": "Регистрируйтесь через социальные сети"
 }
