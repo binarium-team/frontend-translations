@@ -237,6 +237,7 @@
   "home_login-button-reg": "crwdns20201:0crwdne20201:0",
   "home_agree": "crwdns20202:0crwdne20202:0",
   "home_agree-with-conditions": "crwdns20203:0crwdne20203:0",
+  "home_agree-with-conditions-error": "crwdns26114:0crwdne26114:0",
   "home_payments": "crwdns20204:0crwdne20204:0",
   "home_socials": "crwdns20205:0crwdne20205:0",
   "home-wallet_text": "crwdns20206:0crwdne20206:0",
@@ -795,5 +796,9 @@
   "landing-success-trading_tutorial-step-3-text": "crwdns26102:0crwdne26102:0",
   "landing-success-trading_tutorial-step-4-title": "crwdns26104:0crwdne26104:0",
   "landing-success-trading_tutorial-step-4-text": "crwdns26106:0crwdne26106:0",
-  "landing-success-trading_tutorial-button": "crwdns26108:0crwdne26108:0"
+  "landing-success-trading_tutorial-button": "crwdns26108:0crwdne26108:0",
+  "landing_social-form-title": "crwdns26116:0crwdne26116:0",
+  "landing-promo_title": "crwdns26118:0crwdne26118:0",
+  "landing-promo_text": "crwdns26120:0crwdne26120:0",
+  "landing-promo_amount": "crwdns26122:0crwdne26122:0"
 }
