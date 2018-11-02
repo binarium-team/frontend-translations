@@ -237,6 +237,7 @@
   "home_login-button-reg": "Відкрити рахунок<br>безкоштовно",
   "home_agree": "Я приймаю",
   "home_agree-with-conditions": "умови згоди",
+  "home_agree-with-conditions-error": "Вы должны принять соглашение",
   "home_payments": "Перевірене і швидке виведення коштів",
   "home_socials": "Через соц. мережі",
   "home-wallet_text": "Майже готово! Будь ласка, оберіть валюту рахунку",
@@ -795,5 +796,9 @@
   "landing-success-trading_tutorial-step-3-text": "Предположим, <span class=\"lst-adv__up\">Вверх</span>",
   "landing-success-trading_tutorial-step-4-title": "Получите прибыль",
   "landing-success-trading_tutorial-step-4-text": "Торгуйте с <strong>Binarium</strong>",
-  "landing-success-trading_tutorial-button": "Попробуйте сейчас"
+  "landing-success-trading_tutorial-button": "Попробуйте сейчас",
+  "landing_social-form-title": "Регистрируйтесь через социальные сети",
+  "landing-promo_title": "Удваиваем<br>ваш депозит",
+  "landing-promo_text": "Пополните реальный<br>счёт в течение часа<br>после регистрации и<br>получите <span>бонус до</span>",
+  "landing-promo_amount": "30 000 ₽"
 }
