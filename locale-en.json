@@ -793,12 +793,12 @@
   "landing-success-trading_tutorial-step-2-title": "Enter transaction amount",
   "landing-success-trading_tutorial-step-2-text": "For example, <strong>2,000 ₽</strong>\n \n",
   "landing-success-trading_tutorial-step-3-title": "Start a transaction",
-  "landing-success-trading_tutorial-step-3-text": "Предположим, <span class=\"lst-adv__up\">Вверх</span>",
-  "landing-success-trading_tutorial-step-4-title": "Получите прибыль",
-  "landing-success-trading_tutorial-step-4-text": "Торгуйте с <strong>Binarium</strong>",
-  "landing-success-trading_tutorial-button": "Попробуйте сейчас",
-  "landing_social-form-title": "Регистрируйтесь через социальные сети",
-  "landing-promo_title": "Удваиваем<br>ваш депозит",
-  "landing-promo_text": "Пополните реальный<br>счёт в течение часа<br>после регистрации и<br>получите <span>бонус до</span>",
-  "landing-promo_amount": "30 000 ₽"
+  "landing-success-trading_tutorial-step-3-text": "Suppose, <span class=\"lst-adv__up\">Top</span>",
+  "landing-success-trading_tutorial-step-4-title": "Get the profit",
+  "landing-success-trading_tutorial-step-4-text": "Trade with <strong>Binarium</strong>",
+  "landing-success-trading_tutorial-button": "Try now",
+  "landing_social-form-title": "Register via social networks",
+  "landing-promo_title": "Double<br>your deposit",
+  "landing-promo_text": "Top up a real<br>account within an hour<br> after registration and<br>get<span>a bonus up to</span>",
+  "landing-promo_amount": "30,000 ₽\n \n"
 }
