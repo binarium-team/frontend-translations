@@ -606,6 +606,7 @@
   "welcome_real-bonus-value-3": "Бонус 100% на поповнення від 2000₽",
   "welcome_form-required": "Всі поля форми обов'язкові для заповнення.",
   "welcome_form-phone": "Номер телефону (з кодом країни)",
+  "welcome_form-phone-nocode": "Номер телефона",
   "welcome_invalid-name-pattern": "Некоректний формат імені",
   "welcome_invalid-name-length": "Мінімальна довжина {{length}} символів",
   "welcome_invalid-surname-pattern": "Некоректний формат прізвища",
