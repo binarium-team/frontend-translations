@@ -606,6 +606,7 @@
   "welcome_real-bonus-value-3": "Premia 100% od co najmniej 2000 RUB",
   "welcome_form-required": "Należy wypełnić wszystkie wymagane pola.",
   "welcome_form-phone": "Numer telefonu (z kodem kraju)",
+  "welcome_form-phone-nocode": "Phone number",
   "welcome_invalid-name-pattern": "Nieprawidłowy format nazwy",
   "welcome_invalid-name-length": "Długość co najmniej {{length}} symboli",
   "welcome_invalid-surname-pattern": "Nieprawidłowy format nazwiska",
