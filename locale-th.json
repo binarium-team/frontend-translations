@@ -606,6 +606,7 @@
   "welcome_real-bonus-value-3": "โบนัส 100% เริ่มต้นตั้งแต่ 2000₽",
   "welcome_form-required": "คุณจำเป็นต้องกรอกช่องที่จำเป็นทั้งหมด",
   "welcome_form-phone": "หมายเลขโทรศัพท์ (พร้อมรหัสประเทศ)",
+  "welcome_form-phone-nocode": "หมายเลขโทรศัพท์",
   "welcome_invalid-name-pattern": "รูปแบบชื่อไม่ถูกต้อง",
   "welcome_invalid-name-length": "ความยาวสัญลักษณ์ขั้นต่ำ {{length}} ตัว",
   "welcome_invalid-surname-pattern": "รูปแบบนามสกุลไม่ถูกต้อง",

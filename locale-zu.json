@@ -606,6 +606,7 @@
   "welcome_real-bonus-value-3": "crwdns25790:0crwdne25790:0",
   "welcome_form-required": "crwdns20560:0crwdne20560:0",
   "welcome_form-phone": "crwdns23262:0crwdne23262:0",
+  "welcome_form-phone-nocode": "crwdns26280:0crwdne26280:0",
   "welcome_invalid-name-pattern": "crwdns20562:0crwdne20562:0",
   "welcome_invalid-name-length": "crwdns20563:0{{length}}crwdne20563:0",
   "welcome_invalid-surname-pattern": "crwdns20564:0crwdne20564:0",
