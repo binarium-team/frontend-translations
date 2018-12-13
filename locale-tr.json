@@ -606,7 +606,7 @@
   "welcome_real-bonus-value-3": "2000₽'dan başlayarak %100 bonus",
   "welcome_form-required": "İstenilen bütün alanları doldurmanız gerekmektedir.",
   "welcome_form-phone": "Telefon numarası (ülke kodu ile birlikte)",
-  "welcome_form-phone-nocode": "Phone number",
+  "welcome_form-phone-nocode": "Telefon numarası",
   "welcome_invalid-name-pattern": "Hatalı isim biçemi",
   "welcome_invalid-name-length": "Minimum {{length}} sembol uzunluğunda",
   "welcome_invalid-surname-pattern": "Hatalı soyadı biçemi",
