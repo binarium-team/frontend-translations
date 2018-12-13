@@ -606,6 +606,7 @@
   "welcome_real-bonus-value-3": "100 % Bonus beginnt bei 2000 Rubel",
   "welcome_form-required": "Bitte füllen Sie alle erforderlichen Felder aus.",
   "welcome_form-phone": "Telefonnummer (mit Ländercode)",
+  "welcome_form-phone-nocode": "Phone number",
   "welcome_invalid-name-pattern": "Ungültiges Namensformat",
   "welcome_invalid-name-length": "Mindestlänge {{length}} Zeichen",
   "welcome_invalid-surname-pattern": "Ungültiges Namensformat",
