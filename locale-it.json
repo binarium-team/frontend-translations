@@ -606,7 +606,7 @@
   "welcome_real-bonus-value-3": "Bonus del 100% a partire da 2000₽",
   "welcome_form-required": "È necessario compilare tutti i campi richiesti.",
   "welcome_form-phone": "Numero di telefono (con il prefisso internazionale)",
-  "welcome_form-phone-nocode": "Phone number",
+  "welcome_form-phone-nocode": "Numero di telefono",
   "welcome_invalid-name-pattern": "Formato nome errato",
   "welcome_invalid-name-length": "Lunghezza minima di {{length}} simboli",
   "welcome_invalid-surname-pattern": "Formato cognome errato",
