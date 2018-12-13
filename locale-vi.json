@@ -606,7 +606,7 @@
   "welcome_real-bonus-value-3": "Thưởng 100% bắt đầu từ 2000₽",
   "welcome_form-required": "Bạn cần phải điền vào tất cả các trường được yêu cầu.",
   "welcome_form-phone": "Số điện thoại (với mã quốc gia)",
-  "welcome_form-phone-nocode": "Phone number",
+  "welcome_form-phone-nocode": "Số điện thoại",
   "welcome_invalid-name-pattern": "Định dạng tên không đúng",
   "welcome_invalid-name-length": "Độ dài tối thiểu {{length}} ký hiệu",
   "welcome_invalid-surname-pattern": "Định dạng họ không đúng",
