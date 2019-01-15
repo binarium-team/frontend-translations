@@ -436,7 +436,7 @@
   "withdrawal_faq-8-q": "ฉันไม่สามารถสร้างการสมัคร เพื่อถอนเงินออกจากบัญชีได้ จะมีอะไรผิดพลาดที่เกิดขึ้นได้บ้าง?",
   "withdrawal_faq-8-a": "<p>ก่อนอื่น ตรวจสอบดูว่า ข้อมูลส่วนตัวทั้งหมด ได้อยู่ในรายการโปรไฟล์ของคุณหรือไม่ ในการที่จะตรวจสอบ ให้ไปที่ส่วน \"โปรไฟล์\" และอีกครั้ง ที่ต้องดูให้แน่ใจว่า คุณได้ใส่ข้อมูลทั้งหมดอย่างถูกต้องแล้ว เมื่อมีการส่งการสมัครเข้ามา สัญลักษณ์อย่างเช่น +, -, / ฯลฯ นั้นไม่ถูกต้อง หากข้อมูลที่ใส่มาทั้งหมดถูกต้องแล้ว แต่ปัญหายังคงอยู่ กรุณาติดต่อฝ่ายบริการลูกค้า ผ่านทางแชทออนไลน์ หรือที่ <a href=\"mailto:support@binarium.com\">support@binarium.com</a></p>",
   "withdrawal_faq-9-q": "Is there a fee for replenishing/withdrawing cash from the account?",
-  "withdrawal_faq-9-a": "<p>We do not charge commissions, as well as fees for a payment. And we cover the fee of payment systems for our clients for depositing/withdrawing funds from the trading account.<br><br>However, if you have applied for a funds withdrawal, and your trading turnover (the sum of all your trades) did not exceed the deposit twice, we have the right not to cover the payment system fees for withdrawing funds in the amount of 10% of the requested withdrawal sum.</p>",
+  "withdrawal_faq-9-a": "<p>เราไม่เรียกเก็บค่านายหน้า รวมทั้งค่าธรรมเนียมใด ๆ และเราได้ดูแลค่าธรรมเนียมของระบบการชำระเงินสำหรับลูกค้าของเรา ในการฝากเงิน/ถอนเงินจากบัญชีการซื้อขายไว้แล้ว<br><br>อย่างไรก็ตาม หากคุณทำเรื่องขอถอนเงิน และปริมาณการซื้อขายของคุณ (จำนวนรวมทั้งหมดในการซื้อขายของคุณ) ไม่เกินสองเท่าของจำนวนเงินฝาก เรามีสิทธิ์ที่จะไม่ดูแลค่าธรรมเนียมของระบบการชำระเงินในการถอนเงิน เป็นจำนวน 10% ของจำนวนรวมที่ขอถอนเงิน</p>",
   "withdrawal_pick-a-country": "เลือกประเทศ",
   "menu_terminal": "การซื้อขาย",
   "menu_education": "การศึกษา",
