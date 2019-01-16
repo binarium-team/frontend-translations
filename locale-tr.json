@@ -413,7 +413,7 @@
   "withdrawal_error-sum-max-limit": "Bu değer {{ limit }} ya da daha az olmalıdır",
   "withdrawal_error-sum-min-limit": "Bu değer {{ limit }} ya da daha fazla olmalıdır",
   "withdrawal_hint-title": "Your application will be processed within 24 hours from the moment of registration.",
-  "withdrawal_hint-text": "If the application was issued outside the working hours of company’s financial department, it will be processed within the next working day.",
+  "withdrawal_hint-text": "Başvuru, şirketin finans departmanının çalışma saatlerinin dışında yapılmışsa sonraki iş gününde işleme alınır.",
   "withdrawal_method": "Para çekme yöntemi",
   "withdrawal_pick-a-method": "Ödeme yöntemi seçin",
   "withdrawal_submit-button": "Para çekin",
