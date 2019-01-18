@@ -409,7 +409,7 @@
   "withdrawal_error-required": "This value should not be blank",
   "withdrawal_error-method-required": "Payment method is required",
   "withdrawal_error-sum-balance-limit": "Insufficient funds.",
-  "withdrawal_error-sum-bonus-limit": "Insufficient funds. Real funds: {{ real }}, Bonus funds: {{ bonus }}",
+  "withdrawal_error-sum-bonus-limit": "Недостаточно средств. Вы не можете снимать наличные со своего баланса до тех пор, пока не выполните требование по обороту бонуса. Счет: {{ real }}. Бонусные средства: {{ bonus }}. Необходимый оборот для вывода средств: {{ wager }}",
   "withdrawal_error-sum-max-limit": "This value should be {{ limit }} or less",
   "withdrawal_error-sum-min-limit": "This value should be {{ limit }} or more",
   "withdrawal_hint-title": "Your application will be processed within 24 hours from the moment of registration.",
