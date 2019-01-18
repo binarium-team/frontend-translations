@@ -409,7 +409,7 @@
   "withdrawal_error-required": "Поле обязательно к заполнению",
   "withdrawal_error-method-required": "Выберите способ вывода",
   "withdrawal_error-sum-balance-limit": "Недостаточно средств на балансе.",
-  "withdrawal_error-sum-bonus-limit": "Недостаточно средств на балансе. Реальные средства: {{ real }}, бонус: {{ bonus }}",
+  "withdrawal_error-sum-bonus-limit": "Недостаточно средств. Вы не можете снимать наличные со своего баланса до тех пор, пока не выполните требование по обороту бонуса. Счет: {{ real }}. Бонусные средства: {{ bonus }}. Необходимый оборот для вывода средств: {{ wager }}",
   "withdrawal_error-sum-max-limit": "Максимальный лимит {{ limit }}",
   "withdrawal_error-sum-min-limit": "Минимальный лимит {{ limit }}",
   "withdrawal_hint-title": "Ваша заявка будет обработана в течение 24 часов с момента оформления.",
