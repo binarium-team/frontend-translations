@@ -405,7 +405,7 @@
   "withdrawal_error-empty-amount": "crwdns20352:0crwdne20352:0",
   "withdrawal_error-pattern-phone": "crwdns20353:0crwdne20353:0",
   "withdrawal_error-pattern-card": "crwdns26360:0crwdne26360:0",
-  "withdrawal_error-customer-purse": "crwdns26362:0crwdne26362:0",
+  "withdrawal_error-customer_purse": "crwdns26380:0crwdne26380:0",
   "withdrawal_error-required": "crwdns20355:0crwdne20355:0",
   "withdrawal_error-method-required": "crwdns20356:0crwdne20356:0",
   "withdrawal_error-sum-balance-limit": "crwdns26336:0crwdne26336:0",
