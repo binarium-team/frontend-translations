@@ -409,7 +409,7 @@
   "withdrawal_error-required": "Giá trị này không được trống",
   "withdrawal_error-method-required": "Phải có phương thức thanh toán",
   "withdrawal_error-sum-balance-limit": "Insufficient funds.",
-  "withdrawal_error-sum-bonus-limit": "Insufficient funds. Real funds: {{ real }}, Bonus funds: {{ bonus }}",
+  "withdrawal_error-sum-bonus-limit": "Insufficient funds. Real funds: {{ real }}, Bonus funds: {{ bonus }}, to withdraw bonus please make {{ wager }} turnover.",
   "withdrawal_error-sum-max-limit": "Giá trị này nên là {{ limit }} hoặc nhỏ hơn",
   "withdrawal_error-sum-min-limit": "Giá trị này nên là {{ limit }} hoặc cao hơn",
   "withdrawal_hint-title": "Đơn đăng ký của bạn sẽ được xử lý trong vòng 24 giờ kể từ thời điểm đăng ký.",

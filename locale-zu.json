@@ -409,7 +409,7 @@
   "withdrawal_error-required": "crwdns20355:0crwdne20355:0",
   "withdrawal_error-method-required": "crwdns20356:0crwdne20356:0",
   "withdrawal_error-sum-balance-limit": "crwdns26336:0crwdne26336:0",
-  "withdrawal_error-sum-bonus-limit": "crwdns26338:0{{ real }}crwdnd26338:0{{ bonus }}crwdne26338:0",
+  "withdrawal_error-sum-bonus-limit": "crwdns26376:0{{ real }}crwdnd26376:0{{ bonus }}crwdnd26376:0{{ wager }}crwdne26376:0",
   "withdrawal_error-sum-max-limit": "crwdns20358:0{{ limit }}crwdne20358:0",
   "withdrawal_error-sum-min-limit": "crwdns24840:0{{ limit }}crwdne24840:0",
   "withdrawal_hint-title": "crwdns26364:0crwdne26364:0",
