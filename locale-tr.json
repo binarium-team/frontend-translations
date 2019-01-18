@@ -409,7 +409,7 @@
   "withdrawal_error-required": "Bu değer boş olmamalıdır",
   "withdrawal_error-method-required": "Ödeme yöntemi gereklidir",
   "withdrawal_error-sum-balance-limit": "Insufficient funds.",
-  "withdrawal_error-sum-bonus-limit": "Insufficient funds. Real funds: {{ real }}, Bonus funds: {{ bonus }}",
+  "withdrawal_error-sum-bonus-limit": "Insufficient funds. Real funds: {{ real }}, Bonus funds: {{ bonus }}, to withdraw bonus please make {{ wager }} turnover.",
   "withdrawal_error-sum-max-limit": "Bu değer {{ limit }} ya da daha az olmalıdır",
   "withdrawal_error-sum-min-limit": "Bu değer {{ limit }} ya da daha fazla olmalıdır",
   "withdrawal_hint-title": "Başvurunuz, kayıttan sonra 24 saat içinde işleme alınır.",
