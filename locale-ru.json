@@ -405,7 +405,7 @@
   "withdrawal_error-empty-amount": "Введите сумму вывода",
   "withdrawal_error-pattern-phone": "Некорректный формат телефона",
   "withdrawal_error-pattern-card": "Некорректный формат",
-  "withdrawal_error-customer-purse": "Некорректный формат",
+  "withdrawal_error-customer_purse": "Некорректный формат",
   "withdrawal_error-required": "Поле обязательно к заполнению",
   "withdrawal_error-method-required": "Выберите способ вывода",
   "withdrawal_error-sum-balance-limit": "Недостаточно средств на балансе.",
