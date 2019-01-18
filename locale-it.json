@@ -405,7 +405,7 @@
   "withdrawal_error-empty-amount": "Inserisci l'importo del prelievo",
   "withdrawal_error-pattern-phone": "Formato telefono errato",
   "withdrawal_error-pattern-card": "Formato errato",
-  "withdrawal_error-customer_purse": "Некорректный формат",
+  "withdrawal_error-customer_purse": "Incorrect format",
   "withdrawal_error-required": "Questo valore non deve essere vuoto",
   "withdrawal_error-method-required": "Metodo di pagamento richiesto",
   "withdrawal_error-sum-balance-limit": "Insufficient funds.",
