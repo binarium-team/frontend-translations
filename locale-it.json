@@ -409,7 +409,7 @@
   "withdrawal_error-required": "Questo valore non deve essere vuoto",
   "withdrawal_error-method-required": "Metodo di pagamento richiesto",
   "withdrawal_error-sum-balance-limit": "Insufficient funds.",
-  "withdrawal_error-sum-bonus-limit": "Insufficient funds. Real funds: {{ real }}, Bonus funds: {{ bonus }}",
+  "withdrawal_error-sum-bonus-limit": "Insufficient funds. Real funds: {{ real }}, Bonus funds: {{ bonus }}, to withdraw bonus please make {{ wager }} turnover.",
   "withdrawal_error-sum-max-limit": "Questo valore deve essere {{ limit }} o meno",
   "withdrawal_error-sum-min-limit": "Questo valore deve essere {{ limit }} o più",
   "withdrawal_hint-title": "La tua richiesta verrà elaborata entro 24 ore dal momento della registrazione.",
