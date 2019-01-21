@@ -405,7 +405,7 @@
   "withdrawal_error-empty-amount": "Nhập số tiền rút",
   "withdrawal_error-pattern-phone": "Định dạng điện thoại không đúng",
   "withdrawal_error-pattern-card": "Định dạng không đúng",
-  "withdrawal_error-pattern-customer_purse": "Incorrect format",
+  "withdrawal_error-pattern-customer_purse": "Định dạng không đúng",
   "withdrawal_error-required": "Giá trị này không được trống",
   "withdrawal_error-method-required": "Phải có phương thức thanh toán",
   "withdrawal_error-sum-balance-limit": "Không đủ tiền.",
