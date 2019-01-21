@@ -405,7 +405,7 @@
   "withdrawal_error-empty-amount": "ใส่จำนวนเงินที่จะถอน",
   "withdrawal_error-pattern-phone": "รูปแบบโทรศัพท์ไม่ถูกต้อง",
   "withdrawal_error-pattern-card": "รูปแบบไม่ถูกต้อง",
-  "withdrawal_error-customer_purse": "รูปแบบไม่ถูกต้อง",
+  "withdrawal_error-pattern-customer_purse": "Incorrect format",
   "withdrawal_error-required": "ค่านี้ไม่ควรว่างเปล่า",
   "withdrawal_error-method-required": "วิธีการชำระเงินจำเป็นต้องมี",
   "withdrawal_error-sum-balance-limit": "เงินไม่เพียงพอ.",
