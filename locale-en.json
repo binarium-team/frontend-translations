@@ -416,7 +416,7 @@
   "withdrawal_hint-text": "If the application was issued outside the working hours of company’s financial department, it will be processed within the next working day.",
   "withdrawal_method": "Funds withdrawal method",
   "withdrawal_pick-a-method": "Choose payment method",
-  "withdrawal_submit-button": "Вывести средства",
+  "withdrawal_submit-button": "Withdraw funds,",
   "withdrawal_faq-0-q": "How can I withdraw funds from my account?",
   "withdrawal_faq-0-a": "<p>Available options are: bank card, Qiwi/Yandex Money/WebMoney/Neteller e-wallets. Owners of micro accounts can have only one active application for withdrawal of funds.</p>",
   "withdrawal_faq-1-q": "What is the minimum and maximum withdrawal amount?",
