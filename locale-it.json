@@ -416,7 +416,7 @@
   "withdrawal_hint-text": "Se la richiesta è stata rilasciata al di fuori dell'orario di lavoro del dipartimento finanziario della società, verrà elaborata entro il giorno lavorativo successivo.",
   "withdrawal_method": "Metodo di prelievo fondi",
   "withdrawal_pick-a-method": "Scegli metodo di pagamento",
-  "withdrawal_submit-button": "Preleva fondi,",
+  "withdrawal_submit-button": "Withdraw funds",
   "withdrawal_faq-0-q": "Come posso prelevare fondi dal mio conto?",
   "withdrawal_faq-0-a": "<p>Le opzioni disponibili sono: carta di credito, portafogli elettronici Qiwi/Yandex Money/WebMoney/Neteller. I possessori di conti micro possono avere solo un'applicazione attiva per il prelievo dei fondi.</p>",
   "withdrawal_faq-1-q": "Qual è l'importo minimo e massimo di prelievo?",
