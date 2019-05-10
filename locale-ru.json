@@ -303,6 +303,8 @@
   "payments-method_webmoney_1gp": "WebMoney",
   "payments-method_alfaclick_1gp": "Alfaclick",
   "payments-method_mobile_commerce_1gp": "Mobile commerce",
+  "payments_bonus_total": "Вместе с выбранным депозитом вы получите <span>бонус в размере:</span>",
+  "payments-bonus_total-hint": "на счет",
   "profile_personal": "Персональные данные",
   "profile_name": "Имя",
   "profile_surname": "Фамилия",
