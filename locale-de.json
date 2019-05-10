@@ -416,7 +416,7 @@
   "withdrawal_hint-text": "Wurde der Antrag außerhalb der Öffnungszeiten der Finanzabteilung des Unternehmens gestellt, wird er im Laufe des nächsten Werktages bearbeitet.",
   "withdrawal_method": "Auszahlungsmethode für Geldmittel",
   "withdrawal_pick-a-method": "Wählen Sie die Zahlungsmethode",
-  "withdrawal_submit-button": "Auszahlung von Geldmitteln,",
+  "withdrawal_submit-button": "Withdraw funds",
   "withdrawal_faq-0-q": "Wie kann ich mir Geldmittel von meinem Konto auszahlen lassen?",
   "withdrawal_faq-0-a": "<p>Die Möglichkeiten sind: Bankkarte, Qiwi/Yandex Money/WebMoney/Neteller. Kunden von Mikrokonten können nur eine aktive Anwendung für die Auszahlung von Geldmitteln verwenden.</p>",
   "withdrawal_faq-1-q": "Was sind die Mindest- und Maximalbeträge für Auszahlungen?",
