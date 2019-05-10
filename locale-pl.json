@@ -416,7 +416,7 @@
   "withdrawal_hint-text": "Jeśli wniosek został złożony po godzinach pracy działu finansowego, zostanie rozpatrzony w ciągu następnego dnia roboczego.",
   "withdrawal_method": "Metoda wypłaty środków",
   "withdrawal_pick-a-method": "Wybierz metodę płatności",
-  "withdrawal_submit-button": "Wypłać środki,",
+  "withdrawal_submit-button": "Withdraw funds",
   "withdrawal_faq-0-q": "Jak wypłacić środki z konta?",
   "withdrawal_faq-0-a": "<p>Dostępne opcje to: karta debetowa lub e-portfele Qiwi / Yandex Money / WebMoney / Neteller. Właściciele kont mikro mogą mieć tylko jeden aktywny wniosek o wypłatę środków.</p>",
   "withdrawal_faq-1-q": "Jaka jest minimalna, a jaka maksymalna kwota wypłaty?",
