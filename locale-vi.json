@@ -416,7 +416,7 @@
   "withdrawal_hint-text": "Nếu đơn đăng ký được gửi đi ngoài giờ làm việc của bộ phận tài chính của công ty, nó sẽ được xử lý vào ngày làm việc tiếp theo.",
   "withdrawal_method": "Phương thức rút tiền",
   "withdrawal_pick-a-method": "Chọn phương thức thanh toán",
-  "withdrawal_submit-button": "Rút tiền,",
+  "withdrawal_submit-button": "Withdraw funds",
   "withdrawal_faq-0-q": "Làm thế nào để rút tiền khỏi tài khoản của tôi?",
   "withdrawal_faq-0-a": "<p>Các tùy chọn sẵn có là: thẻ ngân hàng, ví điện tử Qiwi/Yandex Money/WebMoney/Neteller. Chủ sở hữu của các tài khoản micro chỉ có thể có một đơn rút tiền đang hoạt động.</p>",
   "withdrawal_faq-1-q": "Số tiền rút tối thiểu và tối đa là gì?",
