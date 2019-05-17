@@ -441,7 +441,7 @@
   "withdrawal_faq-9-a": "<p>Wir berechnen keine Provisionen sowie Gebühren für eine Zahlung. Und wir übernehmen Gebühren für Zahlungssysteme, die unseren Kunden bei der Ein-/Auszahlung von Geldern auf das/vom Handelskonto entstehen.<br><br>Wenn Sie jedoch eine Auszahlung beantragt haben und Ihr Handelsumsatz (die Summe aller Ihrer Geschäfte) nicht doppelt so hoch ist, wie die Einzahlungssumme, haben wir das Recht, die Gebühren für das Zahlungssystem für die Geldabhebung in Höhe von 10% der angeforderten Auszahlungssumme nicht zu übernehmen.</p>",
   "withdrawal_pick-a-country": "Wählen Sie das Land",
   "withdrawal_limit-title": "Der Höchstbetrag wurde bei der Auszahlungsanfrage überschritten.",
-  "withdrawal_limit-text": "Unfortunately, we accept no more than 5 request in a day. To submit a new request, cancel the requests that you previously submitted or try again in 24 hours.",
+  "withdrawal_limit-text": "Unfortunately, we accept no more than 5 request in a day. To submit a new request, <span>cancel the requests</span> that you previously submitted or try again in 24 hours.",
   "menu_terminal": "Handel",
   "menu_education": "Informationen",
   "menu_asset-catalog": "Anlagekatalog",
