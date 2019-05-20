@@ -382,6 +382,8 @@
   "transactions_requisites-overlap": "Реквизиты депозита и вывода должны совпадать",
   "transactions_time-limit": "Юзеры с микро-аккаунтами имеют возможность совершить только один запрос на вывод в течение 24 часов",
   "transactions_method-unavailable": "Выбранный платежный метод недоступен. Выберите другой платежный метод или попробуйте позже.",
+  "transactions_refunded": "Средства возвращены на карту",
+  "transactions_verification-required": "Требуется верификация",
   "transactions_cancel-button": "Отменить",
   "transactions_type-all": "Все операции",
   "transactions_type-deposit": "Депозит",
