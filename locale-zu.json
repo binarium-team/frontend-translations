@@ -382,6 +382,8 @@
   "transactions_requisites-overlap": "crwdns20329:0crwdne20329:0",
   "transactions_time-limit": "crwdns20330:0crwdne20330:0",
   "transactions_method-unavailable": "crwdns20331:0crwdne20331:0",
+  "transactions_refunded": "crwdns26718:0crwdne26718:0",
+  "transactions_verification-required": "crwdns26720:0crwdne26720:0",
   "transactions_cancel-button": "crwdns20332:0crwdne20332:0",
   "transactions_type-all": "crwdns20333:0crwdne20333:0",
   "transactions_type-deposit": "crwdns20334:0crwdne20334:0",
