@@ -382,6 +382,8 @@
   "transactions_requisites-overlap": "I requisiti per il deposito e il prelievo devono coincidere",
   "transactions_time-limit": "Gli utenti con micro-conti possono effettuare la richiesta di prelievo solo entro 24 ore",
   "transactions_method-unavailable": "Il metodo di pagamento selezionato non è disponibile. Scegli un altro metodo di pagamento o riprova più tardi.",
+  "transactions_refunded": "Refund",
+  "transactions_verification-required": "Verification required",
   "transactions_cancel-button": "Annulla",
   "transactions_type-all": "Tutte le operazioni",
   "transactions_type-deposit": "Deposito",
