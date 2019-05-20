@@ -441,7 +441,7 @@
   "withdrawal_faq-9-a": "<p>Non addebitiamo commissioni né spese per un pagamento. Inoltre, copriamo le spese dei sistemi di pagamento per i nostri clienti in fase di deposito/ritiro dei fondi dal conto di trading.<br><br>Tuttavia, se hai richiesto un prelievo di fondi, e il tuo volume di transazioni (la somma di tutte le tue operazioni) non ha superato di due volte l'importo del deposito, abbiamo il diritto di non coprire le commissioni del sistema di pagamento per il prelievo di fondi per un importo pari al 10% della somma da prelevare richiesta.</p>",
   "withdrawal_pick-a-country": "Scegli paese",
   "withdrawal_limit-title": "Il limite di richiesta di prelievo dei fondi è stato superato.",
-  "withdrawal_limit-text": "Per inviare una nuova richiesta, annulla le richieste inviate in precedenza o riprova tra 24 ore.",
+  "withdrawal_limit-text": "Sfortunatamente, non accettiamo più di 5 richieste al giorno. Per inviare una nuova richiesta, <span>annulla le richieste</span> precedentemente inviate o riprova tra 24 ore.",
   "menu_terminal": "Trading",
   "menu_education": "Formazione",
   "menu_asset-catalog": "Catalogo asset",

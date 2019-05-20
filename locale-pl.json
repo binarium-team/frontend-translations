@@ -441,7 +441,7 @@
   "withdrawal_faq-9-a": "<p>Nie pobieramy ani prowizji, ani opłat za płatność. Pokrywamy również za naszych klientów opłaty pobierane przez systemy płatnicze za wpłatę/wypłatę środków z konta tradingowego.<br><br>Jeżeli jednak złożono wniosek o wypłatę środków, a obroty tradingowe (suma wszystkich transakcji) nie przekroczyły dwukrotnie kwoty wpłaty, mamy prawo nie pokrywać pobieranych przez systemy płatnicze opłat za wypłatę środków w wysokości 10% wnioskowanej kwoty wypłaty.</p>",
   "withdrawal_pick-a-country": "Wybierz kraj",
   "withdrawal_limit-title": "Limit wniosku o wypłatę środków został przekroczony.",
-  "withdrawal_limit-text": "Aby złożyć nowy wniosek, anuluj wcześniej złożone wnioski lub spróbuj ponownie w ciągu 24 godzin.",
+  "withdrawal_limit-text": "Niestety, przyjmujemy nie więcej niż 5 wniosków dziennie. Aby złożyć nowy wniosek, należy <span>anulować wnioski</span> złożone wcześniej lub spróbować ponownie za 24 godziny.",
   "menu_terminal": "Trading",
   "menu_education": "Nauka",
   "menu_asset-catalog": "Wykaz aktywów",
