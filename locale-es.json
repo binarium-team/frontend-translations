@@ -382,6 +382,8 @@
   "transactions_requisites-overlap": "Deposit and withdrawal requisites must coincide",
   "transactions_time-limit": "Users with micro-accounts can make only one withdrawal request within 24 hours",
   "transactions_method-unavailable": "The selected payment method is not available. Please choose another payment method or try again later.",
+  "transactions_refunded": "Refund",
+  "transactions_verification-required": "Verification required",
   "transactions_cancel-button": "Cancel",
   "transactions_type-all": "All operations",
   "transactions_type-deposit": "Deposit",
