@@ -382,7 +382,7 @@
   "transactions_requisites-overlap": "Thông tin nộp tiền và rút tiền phải khớp nhau",
   "transactions_time-limit": "Người dùng với tài khoản micro chỉ có thể thực hiện một yêu cầu rút tiền trong 24 giờ",
   "transactions_method-unavailable": "Phương thức thanh toán được chọn không khả dụng. Vui lòng chọn một phương thức thanh toán khác hoặc thử lại sau.",
-  "transactions_refunded": "Refund",
+  "transactions_refunded": "Hoàn tiền",
   "transactions_verification-required": "Verification required",
   "transactions_cancel-button": "Hủy bỏ",
   "transactions_type-all": "Tất cả hoạt động",
