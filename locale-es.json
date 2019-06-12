@@ -422,7 +422,7 @@
   "withdrawal_pick-a-method": "Elegir la forma de pago",
   "withdrawal_submit-button": "Retirar fondos",
   "withdrawal_faq-0-q": "¿Cómo puedo retirar fondos de mi cuenta?",
-  "withdrawal_faq-0-a": "<p>Available options are: bank card, Qiwi/Yandex Money/WebMoney/Neteller e-wallets. Owners of micro accounts can have only one active application for withdrawal of funds.</p>",
+  "withdrawal_faq-0-a": "<p>Las opciones disponibles son: tarjeta bancaria o monederos electrónicos Qiwi/Yandex Money/WebMoney/Neteller. Los dueños de microcuentas pueden tener solo una aplicación activa para el retiro de fondos.</p>",
   "withdrawal_faq-1-q": "What is the minimum and maximum withdrawal amount?",
   "withdrawal_faq-1-a": "<p>The minimum withdrawal amount is 300 rubles or 5 $ / 5 €. The maximum amount of one transaction for withdrawal is 15 000 rubles or 250 $ / 250 €.</p>",
   "withdrawal_faq-2-q": "How can I withdraw more than 15 000 rubles or 250 $ / 250 €?",
