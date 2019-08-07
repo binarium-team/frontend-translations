@@ -828,7 +828,7 @@
   "act_label-7": "Número de solicitudes disponibles por día",
   "act_button": "Open",
   "act_unlimited": "Sin límite",
-  "act_trading-room-standart": "Estándar",
+  "act_trading-room-standart": "Standard",
   "act_trading-room-premium": "Premium",
-  "act_tradeback": "The ticket is made available to customers who have made a x3 turnover of the ticket price during the month. Prizes in tournaments are real money."
+  "act_tradeback": "El boleto se pone a disposición de los clientes que han tenido un monto de trading mensual de 3 veces el valor del boleto."
 }
