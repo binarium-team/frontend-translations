@@ -818,5 +818,17 @@
   "landing_social-form-title": "Registrati con i social network",
   "landing-promo_title": "Raddoppia<br>il tuo deposito",
   "landing-promo_text": "Ricarica un<br>account reale entro un'ora<br> dalla registrazione e<br>ricevi<span>un bonus fino a</span>",
-  "landing-promo_amount": "500€\n"
+  "landing-promo_amount": "500€\n",
+  "act_label-1": "Tipo di conto",
+  "act_label-2": "Importo del deposito",
+  "act_label-3": "Importo massimo prelievo in 24 ore",
+  "act_label-4": "Bonus aggiuntivo per depositi",
+  "act_label-5": "Tradeback",
+  "act_label-6": "Sala trading",
+  "act_label-7": "Numero di richieste disponibili al giorno",
+  "act_button": "Apri",
+  "act_unlimited": "Nessun limite",
+  "act_trading-room-standart": "Standard",
+  "act_trading-room-premium": "Premium",
+  "act_tradeback": "Il biglietto è disponibile per i clienti che hanno effettuato un volume di operazioni pari a 3 volte il prezzo del biglietto nel corso del mese. I premi dei tornei sono in denaro reale."
 }
