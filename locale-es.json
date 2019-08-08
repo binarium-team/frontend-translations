@@ -818,5 +818,17 @@
   "landing_social-form-title": "Registrarse a través de redes sociales",
   "landing-promo_title": "Duplique<br>su depósito",
   "landing-promo_text": "Recargue una cuenta real<br>dentro de la hora<br> siguiente a registrarse y<br>obtenga<span>una bonificación de hasta</span>",
-  "landing-promo_amount": "500 USD\n \n"
+  "landing-promo_amount": "500 USD\n \n",
+  "act_label-1": "Tipo de cuenta",
+  "act_label-2": "Cantidad del depósito",
+  "act_label-3": "Cantidad máximo de retiro en 24 horas",
+  "act_label-4": "Bonificación adicional por depósitos",
+  "act_label-5": "Tradeback",
+  "act_label-6": "Salón de trading",
+  "act_label-7": "Número de solicitudes disponibles por día",
+  "act_button": "Abrir",
+  "act_unlimited": "Sin límite",
+  "act_trading-room-standart": "Estándar",
+  "act_trading-room-premium": "Premium",
+  "act_tradeback": "El boleto se pone a disposición de los clientes que han tenido un monto de trading mensual de 3 veces el valor del boleto."
 }

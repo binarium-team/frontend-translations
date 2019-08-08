@@ -818,5 +818,17 @@
   "landing_social-form-title": "Sosyal ağlar yoluyla kaydolun",
   "landing-promo_title": "Yatırdığınız tutarı<br>ikiye katlayın",
   "landing-promo_text": "Kayıttan sonra <br>bir saat içinde gerçek bir hesaba<br> yükleme yapın ve şuna varan bonuslar <br>kazanın<span></span>",
-  "landing-promo_amount": "500$\n \n"
+  "landing-promo_amount": "500$\n \n",
+  "act_label-1": "Hesap türü",
+  "act_label-2": "Para yatırma tutarı",
+  "act_label-3": "24 saat içinde maksimum çekme tutarı",
+  "act_label-4": "Para yatırma işlemleri için ek bonus",
+  "act_label-5": "Tradeback",
+  "act_label-6": "Ticaret odası",
+  "act_label-7": "Günlük kullanılabilir talep sayısı",
+  "act_button": "Aç",
+  "act_unlimited": "Limit yok",
+  "act_trading-room-standart": "Standart",
+  "act_trading-room-premium": "Premium",
+  "act_tradeback": "Bilet, ay boyunca biletten x3 ciro yapan müşteriler tarafından kullanılabilir. Turnuvalardaki ödüller gerçek paradır."
 }

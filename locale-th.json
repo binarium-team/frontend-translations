@@ -818,5 +818,17 @@
   "landing_social-form-title": "Register via social networks",
   "landing-promo_title": "Double<br>your deposit",
   "landing-promo_text": "Top up a real<br>account within an hour<br> after registration and<br>get<span>a bonus up to</span>",
-  "landing-promo_amount": "500$\n \n"
+  "landing-promo_amount": "500$\n \n",
+  "act_label-1": "ประเภทบัญชี",
+  "act_label-2": "จำนวนเงินที่ฝาก",
+  "act_label-3": "จำนวนเงินที่ถอนสูงสุดใน 24 ชั่วโมง",
+  "act_label-4": "โบนัสเพิ่มเติมสำหรับการฝาก",
+  "act_label-5": "มูลค่าคืน",
+  "act_label-6": "ห้องซื้อขาย",
+  "act_label-7": "จำนวนการร้องขอที่มีต่อวัน",
+  "act_button": "เปิด",
+  "act_unlimited": "ไม่จำกัด",
+  "act_trading-room-standart": "มาตรฐาน",
+  "act_trading-room-premium": "พรีเมี่ยม",
+  "act_tradeback": "ตั๋วมีให้กับลูกค้าที่มีปริมาณการซื้อขาย x3 ของราคาตั๋วในระหว่างเดือน รางวัลในทัวร์นาเมนต์เป็นเงินจริง"
 }

@@ -818,5 +818,17 @@
   "landing_social-form-title": "Register via social networks",
   "landing-promo_title": "Double<br>your deposit",
   "landing-promo_text": "Top up a real<br>account within an hour<br> after registration and<br>get<span>a bonus up to</span>",
-  "landing-promo_amount": "500$\n \n"
+  "landing-promo_amount": "500$\n \n",
+  "act_label-1": "Kontoart",
+  "act_label-2": "Einzahlungsbetrag",
+  "act_label-3": "Maximaler Abhebungsbetrag in 24 Stunden",
+  "act_label-4": "Zusätzlicher Bonus für Einzahlungen",
+  "act_label-5": "Tradeback",
+  "act_label-6": "Handelsraum",
+  "act_label-7": "Anzahl der verfügbaren Anfragen pro Tag",
+  "act_button": "Eröffnen",
+  "act_unlimited": "Unbegrenzt",
+  "act_trading-room-standart": "Standard",
+  "act_trading-room-premium": "Premium",
+  "act_tradeback": "Das Ticket wird Kunden zur Verfügung gestellt, die in diesem Monat einen Umsatz gemacht haben, der dreimal so hoch ist wie der Ticketpreis. Preise bei Turnieren sind Echtgeld."
 }
