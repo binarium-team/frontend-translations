@@ -576,7 +576,7 @@
   "landing_bonus-step-1-title": "Registration",
   "landing_bonus-step-1-text": "It will take less<br>than 15 seconds of your time.",
   "landing_bonus-step-2-title": "Deposit",
-  "landing_bonus-step-2-text": "Top up your account<br>from USD 30 and more.",
+  "landing_bonus-step-2-text": "Пополните счет на сумму<br>от 3000 ₽.",
   "landing_bonus-step-3-title": "100% bonus",
   "landing_bonus-step-3-text": "Get your bonus<br>and start trading!",
   "landing_contact-us": "Contact us",
@@ -831,5 +831,5 @@
   "act_unlimited": "No limit",
   "act_trading-room-standart": "Standard",
   "act_trading-room-premium": "Premium",
-  "act_tradeback": "The ticket is made available to customers who have made a x3 turnover of the ticket price during the month. Prizes in tournaments are real money."
+  "act_tradeback": "Трейдбек - возмещение части убыточных сделок трейдера. Начисляется каждый вторник в 12:00 по UTC-00"
 }
