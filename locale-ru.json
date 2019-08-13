@@ -576,7 +576,7 @@
   "landing_bonus-step-1-title": "Зарегистрируйтесь",
   "landing_bonus-step-1-text": "Зарегистрируйтесь, это займет<br>у вас не больше 15 секунд.",
   "landing_bonus-step-2-title": "Внесите депозит",
-  "landing_bonus-step-2-text": "Пополните счет на сумму<br>от 2000 ₽.",
+  "landing_bonus-step-2-text": "Пополните счет на сумму<br>от 3000 ₽.",
   "landing_bonus-step-3-title": "Бонус 100% ваш",
   "landing_bonus-step-3-text": "Получите бонус<br>и начните торговать.",
   "landing_contact-us": "Свяжитесь с нами",
@@ -831,5 +831,5 @@
   "act_unlimited": "Без лимита",
   "act_trading-room-standart": "Стандартная",
   "act_trading-room-premium": "Премиум",
-  "act_tradeback": "Билет предоставляется клиентам, совершившим оборот х3 стоимости билета в течение месяца. Призы в турнирах — реальные средства."
+  "act_tradeback": "Трейдбек - возмещение части убыточных сделок трейдера. Начисляется каждый вторник в 12:00 по UTC-00"
 }
