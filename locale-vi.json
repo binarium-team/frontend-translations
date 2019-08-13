@@ -576,7 +576,7 @@
   "landing_bonus-step-1-title": "Đăng ký",
   "landing_bonus-step-1-text": "Chỉ tốn chưa đến<br>15 giây thời gian của bạn.",
   "landing_bonus-step-2-title": "Nộp tiền",
-  "landing_bonus-step-2-text": "Nộp tiền vào tài khoản của bạn<br>từ USD 30 trở lên.",
+  "landing_bonus-step-2-text": "Top up your account<br>from USD 50 and more.",
   "landing_bonus-step-3-title": "Thưởng 100%",
   "landing_bonus-step-3-text": "Nhận thưởng<br>và bắt đầu giao dịch!",
   "landing_contact-us": "Liên hệ với chúng tôi",
@@ -831,5 +831,5 @@
   "act_unlimited": "Không giới hạn",
   "act_trading-room-standart": "Tiêu chuẩn",
   "act_trading-room-premium": "Cao cấp",
-  "act_tradeback": "Phiếu này dành cho các khách hàng có doanh thu x3 trên giá phiếu trong tháng. Giải thưởng trong các giải đấu là tiền thật."
+  "act_tradeback": "Tradeback—partial refund of the trader’s losing trades. Credited every Tuesday at 12:00 (0:00 UTC)"
 }
