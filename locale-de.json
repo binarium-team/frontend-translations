@@ -398,6 +398,7 @@
   "transactions_type-enrolling-freespins": "Anmeldung kostenloser Test",
   "transactions_type-transfer-freespins": "Wertübertrag kostenloser Test",
   "transaction_type-no-turnover": "Ungenügender Handelsumsatz. <span class\"action-faq\">Erfahren Sie mehr</span>.",
+  "transactions_type-tradeback": "Tradeback",
   "withdrawal_title": "Auszahlung",
   "withdrawal_success-title": "Die Tätigkeit war erfolgreich",
   "withdrawal_success-body": "Die Auszahlungsanfrage wurde erfolgreich gesendet.<br><br>Diese Nachricht schließt automatisch. Sollte dies nicht passieren, klicken Sie auf diese Schaltfläche:",
