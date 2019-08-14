@@ -576,7 +576,7 @@
   "landing_bonus-step-1-title": "การลงทะเบียน",
   "landing_bonus-step-1-text": "จะใช้เวลาของคุณ<br>ไม่ถึง 15 วินาที",
   "landing_bonus-step-2-title": "การฝากเงิน",
-  "landing_bonus-step-2-text": "เติมเงินบัญชีของคุณ<br>ตั้งแต่ USD 30 ขึ้นไป",
+  "landing_bonus-step-2-text": "เติมเงินบัญชีของคุณ<br>ตั้งแต่ USD 50 ขึ้นไป",
   "landing_bonus-step-3-title": "โบนัส 100%",
   "landing_bonus-step-3-text": "รับโบนัสของคุณ<br>แล้วเริ่มต้นการซื้อขาย!",
   "landing_contact-us": "ติดต่อเรา",
@@ -831,5 +831,5 @@
   "act_unlimited": "ไม่จำกัด",
   "act_trading-room-standart": "มาตรฐาน",
   "act_trading-room-premium": "พรีเมี่ยม",
-  "act_tradeback": "ตั๋วมีให้กับลูกค้าที่มีปริมาณการซื้อขาย x3 ของราคาตั๋วในระหว่างเดือน รางวัลในทัวร์นาเมนต์เป็นเงินจริง"
+  "act_tradeback": "Tradeback—partial refund of the trader’s losing trades. Credited every Tuesday at 12:00 (0:00 UTC)"
 }

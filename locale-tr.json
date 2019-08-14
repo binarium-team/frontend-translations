@@ -576,7 +576,7 @@
   "landing_bonus-step-1-title": "Kayıt",
   "landing_bonus-step-1-text": "15 saniyeden daha az<br>zamanınızı alır.",
   "landing_bonus-step-2-title": "Mevduat",
-  "landing_bonus-step-2-text": "30 USD veya daha fazlası ile<br> hesabınızı doldurun.",
+  "landing_bonus-step-2-text": "50 USD veya daha fazlası ile<br> hesabınızı doldurun.",
   "landing_bonus-step-3-title": "%100 bonus",
   "landing_bonus-step-3-text": "Bonusunuzu alın<br>ve ticarete başlayın!",
   "landing_contact-us": "Bize ulaşın",
@@ -831,5 +831,5 @@
   "act_unlimited": "Limit yok",
   "act_trading-room-standart": "Standart",
   "act_trading-room-premium": "Premium",
-  "act_tradeback": "Bilet, ay boyunca biletten x3 ciro yapan müşteriler tarafından kullanılabilir. Turnuvalardaki ödüller gerçek paradır."
+  "act_tradeback": "Tradeback—partial refund of the trader’s losing trades. Credited every Tuesday at 12:00 (0:00 UTC)"
 }

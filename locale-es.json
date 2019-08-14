@@ -576,7 +576,7 @@
   "landing_bonus-step-1-title": "Registro",
   "landing_bonus-step-1-text": "Tardará menos<br>de 15 segundos.",
   "landing_bonus-step-2-title": "Depósito",
-  "landing_bonus-step-2-text": "Recargue su cuenta<br>desde USD 30 o más.",
+  "landing_bonus-step-2-text": "Recargue su cuenta<br>desde EUR 50 o más.",
   "landing_bonus-step-3-title": "100% de bonificación",
   "landing_bonus-step-3-text": "¡Consiga su bonificación<br>y empiece a operar!",
   "landing_contact-us": "Contáctenos",
@@ -831,5 +831,5 @@
   "act_unlimited": "Sin límite",
   "act_trading-room-standart": "Estándar",
   "act_trading-room-premium": "Premium",
-  "act_tradeback": "El boleto se pone a disposición de los clientes que han tenido un monto de trading mensual de 3 veces el valor del boleto."
+  "act_tradeback": "Tradeback—partial refund of the trader’s losing trades. Credited every Tuesday at 12:00 (0:00 UTC)"
 }

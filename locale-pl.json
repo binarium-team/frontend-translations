@@ -576,7 +576,7 @@
   "landing_bonus-step-1-title": "Rejestracja",
   "landing_bonus-step-1-text": "To zajmie mniej<br>niż 15 sekund.",
   "landing_bonus-step-2-title": "Wpłata",
-  "landing_bonus-step-2-text": "Zasil swoje konto kwotą<br>co najmniej 30 USD.",
+  "landing_bonus-step-2-text": "Zasil swoje konto kwotą<br>co najmniej 50 USD.",
   "landing_bonus-step-3-title": "Premia 100%",
   "landing_bonus-step-3-text": "Uzyskaj premię<br>i zacznij trading!",
   "landing_contact-us": "Kontakt",
@@ -831,5 +831,5 @@
   "act_unlimited": "Bez limitu",
   "act_trading-room-standart": "Standard",
   "act_trading-room-premium": "Premium",
-  "act_tradeback": "Bilet jest udostępniany klientom, którzy w ciągu miesiąca osiągnęli obrót w wysokości ceny biletu x 3. Nagrody w turniejach to prawdziwe pieniądze."
+  "act_tradeback": "Tradeback—partial refund of the trader’s losing trades. Credited every Tuesday at 12:00 (0:00 UTC)"
 }

@@ -576,7 +576,7 @@
   "landing_bonus-step-1-title": "Registrierung",
   "landing_bonus-step-1-text": "Es nimmt weniger<br>als 15 Sekunden in Anspruch.",
   "landing_bonus-step-2-title": "Einzahlung",
-  "landing_bonus-step-2-text": "Stocken Sie Ihr Konto <br>ab 30 EUR und mehr auf.",
+  "landing_bonus-step-2-text": "Stocken Sie Ihr Konto <br>ab 50 EUR und mehr auf.",
   "landing_bonus-step-3-title": "100 % Bonus",
   "landing_bonus-step-3-text": "Erhalten Sie Ihren Bonus<br>und beginnen Sie zu handeln!",
   "landing_contact-us": "Kontakt",
@@ -831,5 +831,5 @@
   "act_unlimited": "Unbegrenzt",
   "act_trading-room-standart": "Standard",
   "act_trading-room-premium": "Premium",
-  "act_tradeback": "Das Ticket wird Kunden zur Verfügung gestellt, die in diesem Monat einen Umsatz gemacht haben, der dreimal so hoch ist wie der Ticketpreis. Preise bei Turnieren sind Echtgeld."
+  "act_tradeback": "Tradeback—partial refund of the trader’s losing trades. Credited every Tuesday at 12:00 (0:00 UTC)"
 }
