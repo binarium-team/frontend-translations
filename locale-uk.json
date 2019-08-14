@@ -461,7 +461,7 @@
   "menu_deposit-short": "Поповнити",
   "menu_withdrawal": "Вивести кошти",
   "menu_transactions-history": "Історія транзакцій",
-  "menu_transactions-history-hort": "Транзакции",
+  "menu_transactions-history-hort": "Транзакції",
   "menu_profile-settings": "Налаштування профілю",
   "menu_profile": "Профіль",
   "menu_profile-personal": "Персональні дані",
@@ -832,5 +832,5 @@
   "act_unlimited": "Без ліміту",
   "act_trading-room-standart": "Стандартна",
   "act_trading-room-premium": "Преміум",
-  "act_tradeback": "Трейдбек - возмещение части убыточных сделок трейдера. Начисляется каждый вторник в 12:00 по UTC-00"
+  "act_tradeback": "Трейдбек - відшкодування частини збиткових угод трейдера. Нараховується щовівторка о 12:00 за UTC-00"
 }
