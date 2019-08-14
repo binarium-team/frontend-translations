@@ -461,7 +461,7 @@
   "menu_deposit-short": "Depósito",
   "menu_withdrawal": "Retiro",
   "menu_transactions-history": "Historial de transacciones",
-  "menu_transactions-history-hort": "Transactions",
+  "menu_transactions-history-hort": "Transacciones",
   "menu_profile-settings": "Perfil",
   "menu_profile": "Perfil de usuario",
   "menu_profile-personal": "Información personal",
@@ -832,5 +832,5 @@
   "act_unlimited": "Sin límite",
   "act_trading-room-standart": "Estándar",
   "act_trading-room-premium": "Premium",
-  "act_tradeback": "Tradeback—partial refund of the trader’s losing trades. Credited every Tuesday at 12:00 (0:00 UTC)"
+  "act_tradeback": "Tradeback: reembolso parcial de las operaciones del trader que dieron pérdida. Se acredita cada martes a las 12:00 (0:00 UTC)"
 }
