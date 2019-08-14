@@ -461,7 +461,7 @@
   "menu_deposit-short": "การฝากเงิน",
   "menu_withdrawal": "การถอนเงิน",
   "menu_transactions-history": "ประวัติธุรกรรม",
-  "menu_transactions-history-hort": "Transactions",
+  "menu_transactions-history-hort": "ธุรกรรม",
   "menu_profile-settings": "โปรไฟล์",
   "menu_profile": "โปรไฟล์ผู้ใช้งาน",
   "menu_profile-personal": "ข้อมูลส่วนบุคคล",
@@ -832,5 +832,5 @@
   "act_unlimited": "ไม่จำกัด",
   "act_trading-room-standart": "มาตรฐาน",
   "act_trading-room-premium": "พรีเมี่ยม",
-  "act_tradeback": "Tradeback—partial refund of the trader’s losing trades. Credited every Tuesday at 12:00 (0:00 UTC)"
+  "act_tradeback": "Tradeback—การคืนเงินบางส่วนของการซื้อขายที่ขาดทุนของนักลงทุน เข้าบัญชีทุก ๆ วันอังคารที่เวลา 12:00 น. (0:00 UTC)"
 }
