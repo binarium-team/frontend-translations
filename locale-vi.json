@@ -398,6 +398,7 @@
   "transactions_type-enrolling-freespins": "Lượt quay miễn phí khi ghi danh",
   "transactions_type-transfer-freespins": "Chuyển tiếp giá trị quay miễn phí",
   "transaction_type-no-turnover": "Doanh thu giao dịch không đủ. <span class\"action-faq\">Tìm hiểu thêm</span>.",
+  "transactions_type-tradeback": "Tradeback",
   "withdrawal_title": "Rút tiền",
   "withdrawal_success-title": "Hoạt động đã thành công",
   "withdrawal_success-body": "Yêu cầu rút tiền đã được gửi đi thành công.<br><br>Thông báo này sẽ tự động đóng. Nếu điều này không xảy ra, nhấn vào nút:",
