@@ -398,6 +398,7 @@
   "transactions_type-enrolling-freespins": "Bezpłatne spiny przy rejestracji",
   "transactions_type-transfer-freespins": "Zmiana wartości bezpłatnych spinów",
   "transaction_type-no-turnover": "Za małe obroty tradingowe. <span class\"action-faq\">Dowiedz się więcej</span>.",
+  "transactions_type-tradeback": "Tradeback",
   "withdrawal_title": "Wypłata środków",
   "withdrawal_success-title": "Operacja powiodła się",
   "withdrawal_success-body": "Wniosek o wypłatę został wysłany.<br><br>Ta wiadomość zostanie automatycznie zamknięta. Jeśli tak się nie stanie, kliknij przycisk:",
