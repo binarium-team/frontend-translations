@@ -398,6 +398,7 @@
   "transactions_type-enrolling-freespins": "Ücretsiz döndürmeler kaydediliyor",
   "transactions_type-transfer-freespins": "Ücretsiz döndürme değer geçişi",
   "transaction_type-no-turnover": "Yatırım cirosu yetersiz. <span class\"action-faq\">Daha fazla bilgi alın</span>.",
+  "transactions_type-tradeback": "Tradeback",
   "withdrawal_title": "Fonların çekilmesi",
   "withdrawal_success-title": "İşlem başarılı oldu",
   "withdrawal_success-body": "Çekim isteği başarıyla gönderildi.<br><br>Bu mesaj otomatik olarak kapanacak. Kapanmazsa düğmeye tıklayın:",
