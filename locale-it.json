@@ -398,6 +398,7 @@
   "transactions_type-enrolling-freespins": "Iscrizione a giri gratuiti",
   "transactions_type-transfer-freespins": "Transizione valore giro gratuito",
   "transaction_type-no-turnover": "Volume di negoziazione insufficiente. <span class\"action-faq\">Maggiori informazioni</span>.",
+  "transactions_type-tradeback": "Tradeback",
   "withdrawal_title": "Prelievo di fondi",
   "withdrawal_success-title": "Operazione completata",
   "withdrawal_success-body": "Richiesta di deposito inviata.<br><br>Questo messaggio si chiuderà automaticamente. Se questo non accade, clicca sul pulsante:",
