@@ -398,6 +398,7 @@
   "transactions_type-enrolling-freespins": "Зарахування фріспінів",
   "transactions_type-transfer-freespins": "Перенесення вартості фріспінів",
   "transaction_type-no-turnover": "Недостатньо торгового обороту для виведення коштів. <span class\"action-faq\">Докладніше</span>.",
+  "transaction_instruction": "Инструкция",
   "transactions_type-tradeback": "Трейдбек",
   "withdrawal_title": "Виведення коштів",
   "withdrawal_success-title": "Вдала операція",
