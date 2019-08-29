@@ -398,6 +398,7 @@
   "transactions_type-enrolling-freespins": "ร่วมเล่นการหมุนฟรี",
   "transactions_type-transfer-freespins": "การเปลี่ยนค่าการหมุนฟรี",
   "transaction_type-no-turnover": "ปริมาณการซื้อขายไม่เพียงพอ <span class\"action-faq\">เรียนรู้เพิ่มเติม</span>",
+  "transaction_instruction": "Instruction",
   "transactions_type-tradeback": "Tradeback",
   "withdrawal_title": "การถอนเงิน",
   "withdrawal_success-title": "การปฏิบัติการสำเร็จ",

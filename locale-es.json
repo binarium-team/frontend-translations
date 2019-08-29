@@ -398,6 +398,7 @@
   "transactions_type-enrolling-freespins": "Incribiéndose a tiradas gratis",
   "transactions_type-transfer-freespins": "Transición de valor de tiradas gratis",
   "transaction_type-no-turnover": "Monto de transacciones insuficiente. <span class\"action-faq\">Aprenda más</span>.",
+  "transaction_instruction": "Instruction",
   "transactions_type-tradeback": "Tradeback",
   "withdrawal_title": "Retiro de fondos",
   "withdrawal_success-title": "La operación se realizó correctamente",
