@@ -398,6 +398,7 @@
   "transactions_type-enrolling-freespins": "Enrolling free spins",
   "transactions_type-transfer-freespins": "Freespin value transition",
   "transaction_type-no-turnover": "Insufficient trading turnover. <span class\"action-faq\">Learn more</span>.",
+  "transaction_instruction": "Инструкция",
   "transactions_type-tradeback": "Tradeback",
   "withdrawal_title": "Withdrawal of funds",
   "withdrawal_success-title": "Operation was successful",
