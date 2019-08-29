@@ -398,6 +398,7 @@
   "transactions_type-enrolling-freespins": "crwdns24855:0crwdne24855:0",
   "transactions_type-transfer-freespins": "crwdns24856:0crwdne24856:0",
   "transaction_type-no-turnover": "crwdns26358:0crwdne26358:0",
+  "transaction_instruction": "crwdns27206:0crwdne27206:0",
   "transactions_type-tradeback": "crwdns27148:0crwdne27148:0",
   "withdrawal_title": "crwdns20344:0crwdne20344:0",
   "withdrawal_success-title": "crwdns20345:0crwdne20345:0",
