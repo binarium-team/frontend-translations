@@ -380,7 +380,7 @@
   "transactions_comments-insufficient": "Insufficient funds",
   "transactions_cancelled-by-user": "Canceled by user",
   "transactions_requisites-overlap": "Deposit and withdrawal requisites must coincide",
-  "transactions_time-limit": "Users with micro-accounts can make only one withdrawal request within 24 hours",
+  "transactions_time-limit": "Исчерпан лимит заявок для вашего типа счета",
   "transactions_method-unavailable": "The selected payment method is not available. Please choose another payment method or try again later.",
   "transactions_refunded": "Refund",
   "transactions_verification-required": "Verification required",
