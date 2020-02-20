@@ -380,7 +380,7 @@
   "transactions_comments-insufficient": "Недостатньо коштів",
   "transactions_cancelled-by-user": "Відмінена користувачем",
   "transactions_requisites-overlap": "Реквізити депозиту і виведення повинні збігатися",
-  "transactions_time-limit": "Користувачі з мікро-акаунтами мають можливість зробити тільки один заявку на виведення протягом 24 годин",
+  "transactions_time-limit": "Исчерпан лимит заявок для вашего типа счета",
   "transactions_method-unavailable": "Обраний платіжний метод недоступний. Виберіть інший платіжний метод або спробуйте пізніше.",
   "transactions_refunded": "Кошти повернено на карту",
   "transactions_verification-required": "Потрібна верифікація",
