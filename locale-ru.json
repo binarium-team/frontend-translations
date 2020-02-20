@@ -380,7 +380,7 @@
   "transactions_comments-insufficient": "Недостаточно средств",
   "transactions_cancelled-by-user": "Отменена пользователем",
   "transactions_requisites-overlap": "Реквизиты депозита и вывода должны совпадать",
-  "transactions_time-limit": "Юзеры с микро-аккаунтами имеют возможность совершить только один запрос на вывод в течение 24 часов",
+  "transactions_time-limit": "Исчерпан лимит заявок для вашего типа счета",
   "transactions_method-unavailable": "Выбранный платежный метод недоступен. Выберите другой платежный метод или попробуйте позже.",
   "transactions_refunded": "Средства возвращены на карту",
   "transactions_verification-required": "Требуется верификация",
