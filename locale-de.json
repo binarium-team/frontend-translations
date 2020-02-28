@@ -380,7 +380,7 @@
   "transactions_comments-insufficient": "Unzureichende Mittel",
   "transactions_cancelled-by-user": "Von Benutzer abgebrochen",
   "transactions_requisites-overlap": "Die Voraussetzungen für Ein- und Auszahlungen müssen übereinstimmen",
-  "transactions_time-limit": "Grenze für Anfragen zu Auszahlungen für Ihre Kontoart überschritten",
+  "transactions_time-limit": "Limit für Auszahlungsanfragen für Ihre Kontoart überschritten",
   "transactions_method-unavailable": "Die ausgewählte Zahlungsmethode ist nicht verfügbar. Wählen Sie eine andere Zahlungsmethode oder probieren Sie später erneut.",
   "transactions_refunded": "Rückerstattung",
   "transactions_verification-required": "Verifizierung erforderlich",
