@@ -738,7 +738,7 @@
   "home_button-close": "Chiudi",
   "reg-success_title": "Registrazione riuscita",
   "reg-success_text": "Per completare la registrazione, clicca sul link di conferma nell'e-mail che ti abbiamo inviato.",
-  "reg-success_footer": "In caso di domande contatta il nostro supporto clienti: +357 (22) 052784",
+  "reg-success_footer": "In caso di domande contatta il nostro supporto clienti:<br>+357 (22) 052784",
   "home_login-button-get-bonus": "Ottieni bonus",
   "table-swipe": "Scorri verso sinistra o destra",
   "modal_close": "Chiudi",
