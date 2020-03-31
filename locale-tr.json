@@ -287,6 +287,7 @@
   "payments_total-deposit": "Hesap almak",
   "payments_deposit-button": "Bir depozito yatırın",
   "payments_promo": "Promosyon kodum var",
+  "payments_disable-bonus": "Bonus alma",
   "payments_hint-title": "Bonus nedir?",
   "payments_bonus-usage-title": "Bonus öğeler",
   "payments_bonus-usage-text1": "Bonus, tüccarların ticaret potansiyelini artırmak için şirket tarafından sunulan ek fondur",
