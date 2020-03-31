@@ -287,6 +287,7 @@
   "payments_total-deposit": "ได้รับในบัญชี",
   "payments_deposit-button": "ฝากเงิน",
   "payments_promo": "ฉันมีรหัสโปรโมชั่น",
+  "payments_disable-bonus": "Don't receive bonus",
   "payments_hint-title": "โบนัส คืออะไร?",
   "payments_bonus-usage-title": "รายการโบนัส",
   "payments_bonus-usage-text1": "โบนัส คือเงินเพิ่มเติมที่บริษัทจัดให้ เพื่อเพิ่มศักยภาพในการซื้อขายของนักลงทุน",
