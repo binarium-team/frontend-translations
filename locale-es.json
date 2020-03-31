@@ -287,6 +287,7 @@
   "payments_total-deposit": "Recibir en cuenta",
   "payments_deposit-button": "Hacer un depósito",
   "payments_promo": "Tengo un código promocional",
+  "payments_disable-bonus": "Don't receive bonus",
   "payments_hint-title": "¿Qué es una bonificación?",
   "payments_bonus-usage-title": "Artículos de bonificación",
   "payments_bonus-usage-text1": "Una bonificación son fondos adicionales que la empresa proporciona para aumentar el potencial de trading de los traders",
