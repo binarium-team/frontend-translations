@@ -287,6 +287,7 @@
   "payments_total-deposit": "Отримаєте на рахунок",
   "payments_deposit-button": "Внести депозит",
   "payments_promo": "У мене є промо-код",
+  "payments_disable-bonus": "Не отримувати бонус",
   "payments_hint-title": "Що таке бонус?",
   "payments_bonus-usage-title": "Як використати бонус",
   "payments_bonus-usage-text1": "Бонус — це додаткові кошти, які надаються компанією для збільшення торгового потенціалу трейдерів",
