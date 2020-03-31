@@ -287,6 +287,7 @@
   "payments_total-deposit": "Получите на счет",
   "payments_deposit-button": "Внести депозит",
   "payments_promo": "У меня есть промо-код",
+  "payments_disable-bonus": "Не получать бонус",
   "payments_hint-title": "Что такое бонус?",
   "payments_bonus-usage-title": "Как использовать бонус",
   "payments_bonus-usage-text1": "Бонус — это дополнительные средства, которые предоставляет Binarium для увеличения торгового потенциала",
