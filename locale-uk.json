@@ -281,6 +281,8 @@
   "payments_error-promotion": "Промо-код недійсний",
   "payments_error-promotion-expired": "Термін дії промо-коду минув",
   "payments_error-promotion-range": "Бонус діє для депозитів від {{min}} до {{max}}. Якщо хочете внести іншу суму, видаліть промо-код",
+  "payments_error-promotion-max": "Максимальная сумма для активации промокода {{max}}",
+  "payments_error-promotion-min": "Минимальная сумма для активации промокода {{min}}",
   "payments_error-promotion-type-1": "Доступний тільки для першого депозиту",
   "payments_error-promotion-type-2": "Доступний тільки для другого і наступних депозитів",
   "payments_total-pay": "Сума до оплати",
