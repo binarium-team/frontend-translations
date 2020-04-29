@@ -281,8 +281,8 @@
   "payments_error-promotion": "La promoción no está disponible",
   "payments_error-promotion-expired": "La promoción ha caducado",
   "payments_error-promotion-range": "La bonificación es válida para depósitos de {{min}} a {{max}}. Si quiere recargar otro importe, elimine el código promocional",
-  "payments_error-promotion-max": "Maximum amount to activate promo code {{max}}",
-  "payments_error-promotion-min": "Minimum amount to activate promo code {{min}}",
+  "payments_error-promotion-max": "Cantidad máxima para activar el código promocional {{max}}",
+  "payments_error-promotion-min": "Cantidad mínima para activar el código promocional {{min}}",
   "payments_error-promotion-type-1": "Disponible solo para el primer depósito",
   "payments_error-promotion-type-2": "Disponible solo a partir del segundo depósito",
   "payments_total-pay": "Importe a pagar",
@@ -529,6 +529,8 @@
   "22f18a313eb0d296133d98d76a148039": "Ya utilizado",
   "4e4576a0a8e91e314950c51c0e31ff1d": "Sin empezar aún",
   "815d8681d42943165c03f84b46f9f05c": "Expirado",
+  "74cb32e3f0b86ad10394c5b855630273": "Cantidad máxima para activar el código promocional {{ limit }}",
+  "571256386b4e6805e277369710f672c4": "Cantidad mínima para activar el código promocional {{ limit }}",
   "677bde876b1abe32d86d79182e83bffb": "La cuenta social ya está en uso",
   "da02b2e252e8e33948721cc03b006d38": "Este correo electrónico ya está en uso",
   "equaltoerror": "Las contraseñas deben ser iguales",
@@ -834,5 +836,6 @@
   "act_unlimited": "Sin límite",
   "act_trading-room-standart": "Estándar",
   "act_trading-room-premium": "Premium",
-  "act_tradeback": "Tradeback: reembolso parcial de las operaciones del trader que dieron pérdida. Se acredita cada martes a las 12:00 (0:00 UTC)"
+  "act_tradeback": "Tradeback: reembolso parcial de las operaciones del trader que dieron pérdida. Se acredita cada martes a las 12:00 (0:00 UTC)",
+  "test": "test"
 }

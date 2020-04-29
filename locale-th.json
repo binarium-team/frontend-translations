@@ -281,8 +281,8 @@
   "payments_error-promotion": "ไม่มีโปรโมชั่น",
   "payments_error-promotion-expired": "โปรโมชั่นหมดอายุแล้ว",
   "payments_error-promotion-range": "โบนัสใช้สำหรับการฝากเงินได้ตั้งแต่ {{min}} ถึง {{max}} หากคุณต้องการเติมเงินบัญชีอื่น กรุณาลบรหัสโปรโมชั่น",
-  "payments_error-promotion-max": "Maximum amount to activate promo code {{max}}",
-  "payments_error-promotion-min": "Minimum amount to activate promo code {{min}}",
+  "payments_error-promotion-max": "จำนวนสูงสุดที่จะเปิดใช้งานรหัสโปรโมชั่น {{max}}",
+  "payments_error-promotion-min": "จำนวนขั้นต่ำที่จะเปิดใช้งานรหัสโปรโมชั่น {{min}}",
   "payments_error-promotion-type-1": "มีให้ใช้ได้ สำหรับการฝากครั้งแรกเท่านั้น",
   "payments_error-promotion-type-2": "มีให้ใช้ได้ สำหรับการฝากครั้งที่สอง และครั้งต่อ ๆ ไปเท่านั้น",
   "payments_total-pay": "จำนวนที่ต้องชำระ",
@@ -529,6 +529,8 @@
   "22f18a313eb0d296133d98d76a148039": "ใช้งานไปแล้ว",
   "4e4576a0a8e91e314950c51c0e31ff1d": "ยังไม่ได้เริ่มต้น",
   "815d8681d42943165c03f84b46f9f05c": "หมดอายุ",
+  "74cb32e3f0b86ad10394c5b855630273": "จำนวนสูงสุดที่จะเปิดใช้งานรหัสโปรโมชั่น {{ limit }}",
+  "571256386b4e6805e277369710f672c4": "จำนวนขั้นต่ำที่จะเปิดใช้งานรหัสโปรโมชั่น {{ limit }}",
   "677bde876b1abe32d86d79182e83bffb": "บัญชีโซเชียลกำลังใช้งานอยู่",
   "da02b2e252e8e33948721cc03b006d38": "อีเมลกำลังใช้งานอยู่",
   "equaltoerror": "รหัสผ่านจะต้องเท่ากัน",
@@ -834,5 +836,6 @@
   "act_unlimited": "ไม่จำกัด",
   "act_trading-room-standart": "มาตรฐาน",
   "act_trading-room-premium": "พรีเมี่ยม",
-  "act_tradeback": "Tradeback—การคืนเงินบางส่วนของการซื้อขายที่ขาดทุนของเทรดเดอร์ เข้าบัญชีทุก ๆ วันอังคารที่เวลา 12:00 น. (0:00 UTC)"
+  "act_tradeback": "Tradeback—การคืนเงินบางส่วนของการซื้อขายที่ขาดทุนของเทรดเดอร์ เข้าบัญชีทุก ๆ วันอังคารที่เวลา 12:00 น. (0:00 UTC)",
+  "test": "test"
 }
