@@ -281,6 +281,8 @@
   "payments_error-promotion": "Promotion is not available",
   "payments_error-promotion-expired": "Promotion expired",
   "payments_error-promotion-range": "The bonus is valid for deposits from {{min}} to {{max}}. If you wish to top up another amount, please delete the promo code",
+  "payments_error-promotion-max": "Maximum amount to activate promo code {{max}}",
+  "payments_error-promotion-min": "Minimum amount to activate promo code {{min}}",
   "payments_error-promotion-type-1": "Available only for the first deposit",
   "payments_error-promotion-type-2": "Available only for the second and subsequent deposits",
   "payments_total-pay": "Amount to be paid",
@@ -527,8 +529,8 @@
   "22f18a313eb0d296133d98d76a148039": "Already used",
   "4e4576a0a8e91e314950c51c0e31ff1d": "Not started yet",
   "815d8681d42943165c03f84b46f9f05c": "Expired",
-  "74cb32e3f0b86ad10394c5b855630273": "Maximum sum by promotion is {{ limit }}. If you wish to top up another amount, please delete the promo code",
-  "571256386b4e6805e277369710f672c4": "Minimum sum by promotion is {{ limit }}. If you wish to top up another amount, please delete the promo code",
+  "74cb32e3f0b86ad10394c5b855630273": "Maximum amount to activate promo code {{ limit }}",
+  "571256386b4e6805e277369710f672c4": "Minimum amount to activate promo code {{ limit }}",
   "677bde876b1abe32d86d79182e83bffb": "Social account is already in use",
   "da02b2e252e8e33948721cc03b006d38": "This email is already in use",
   "equaltoerror": "Passwords must be equal",
@@ -834,5 +836,6 @@
   "act_unlimited": "No limit",
   "act_trading-room-standart": "Standard",
   "act_trading-room-premium": "Premium",
-  "act_tradeback": "Tradeback—partial refund of the trader’s losing trades. Credited every Tuesday at 12:00 (0:00 UTC)"
+  "act_tradeback": "Tradeback—partial refund of the trader’s losing trades. Credited every Tuesday at 12:00 (0:00 UTC)",
+  "test2": "test2"
 }
