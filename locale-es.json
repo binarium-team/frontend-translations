@@ -836,6 +836,5 @@
   "act_unlimited": "Sin límite",
   "act_trading-room-standart": "Estándar",
   "act_trading-room-premium": "Premium",
-  "act_tradeback": "Tradeback: reembolso parcial de las operaciones del trader que dieron pérdida. Se acredita cada martes a las 12:00 (0:00 UTC)",
-  "test": "test"
+  "act_tradeback": "Tradeback: reembolso parcial de las operaciones del trader que dieron pérdida. Se acredita cada martes a las 12:00 (0:00 UTC)"
 }
