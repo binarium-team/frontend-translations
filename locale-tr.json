@@ -529,6 +529,8 @@
   "22f18a313eb0d296133d98d76a148039": "Zaten kullanılmış",
   "4e4576a0a8e91e314950c51c0e31ff1d": "Henüz başlamadı",
   "815d8681d42943165c03f84b46f9f05c": "Süresi Doldu",
+  "74cb32e3f0b86ad10394c5b855630273": "Maximum amount to activate promo code {{ limit }}",
+  "571256386b4e6805e277369710f672c4": "Minimum amount to activate promo code {{ limit }}",
   "677bde876b1abe32d86d79182e83bffb": "Sosyal hesap zaten kullanılıyor",
   "da02b2e252e8e33948721cc03b006d38": "Bu e-posta zaten kullanılıyor",
   "equaltoerror": "Şifreler eşit olmalıdır",
@@ -834,5 +836,6 @@
   "act_unlimited": "Limit yok",
   "act_trading-room-standart": "Standart",
   "act_trading-room-premium": "Premium",
-  "act_tradeback": "Tradeback—tüccarın ticari kayıplarının kısmi iadesidir. Her Perşembe 12:00 (0:00 UTC) saatinde yatırılır"
+  "act_tradeback": "Tradeback—tüccarın ticari kayıplarının kısmi iadesidir. Her Perşembe 12:00 (0:00 UTC) saatinde yatırılır",
+  "test": "test"
 }
