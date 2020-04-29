@@ -529,6 +529,8 @@
   "22f18a313eb0d296133d98d76a148039": "Bereits in Verwendung",
   "4e4576a0a8e91e314950c51c0e31ff1d": "Noch nicht begonnen",
   "815d8681d42943165c03f84b46f9f05c": "Abgelaufen",
+  "74cb32e3f0b86ad10394c5b855630273": "Maximum amount to activate promo code {{ limit }}",
+  "571256386b4e6805e277369710f672c4": "Minimum amount to activate promo code {{ limit }}",
   "677bde876b1abe32d86d79182e83bffb": "Soziales Konto ist bereits in Verwendung",
   "da02b2e252e8e33948721cc03b006d38": "Diese E-Mail-Adresse existiert bereits im System",
   "equaltoerror": "Passwörter müssen übereinstimmen",
@@ -834,5 +836,6 @@
   "act_unlimited": "Unbegrenzt",
   "act_trading-room-standart": "Standard",
   "act_trading-room-premium": "Premium",
-  "act_tradeback": "Tradeback – teilweise Rückerstattung der Verlustgeschäfte eines Händlers. Wird jeden Dienstag um 12:00 (0:00 UTC) gutgeschrieben"
+  "act_tradeback": "Tradeback – teilweise Rückerstattung der Verlustgeschäfte eines Händlers. Wird jeden Dienstag um 12:00 (0:00 UTC) gutgeschrieben",
+  "test": "test"
 }
