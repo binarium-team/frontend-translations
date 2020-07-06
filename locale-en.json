@@ -852,5 +852,7 @@
   "act_unlimited": "No limit",
   "act_trading-room-standart": "Standard",
   "act_trading-room-premium": "Premium",
-  "act_tradeback": "Tradeback—partial refund of the trader’s losing trades. Credited every Tuesday at 12:00 (0:00 UTC)"
+  "act_tradeback": "Tradeback—partial refund of the trader’s losing trades. Credited every Tuesday at 12:00 (0:00 UTC)",
+  "captcha@title": "Вы ведь не робот?",
+  "captcha@text": "Пожалуйста, кликните на чекбокс ниже."
 }
