@@ -847,6 +847,6 @@
   "act_trading-room-standart": "Standart",
   "act_trading-room-premium": "Premium",
   "act_tradeback": "Tradeback—tüccarın ticari kayıplarının kısmi iadesidir. Her Perşembe 12:00 (0:00 UTC) saatinde yatırılır",
-  "captcha@title": "You're not a robot, right?",
-  "captcha@text": "Please click the checkbox below."
+  "captcha@title": "Robot değilsiniz, değil mi?",
+  "captcha@text": "Lütfen aşağıdaki kutucuğu işaretleyin."
 }
