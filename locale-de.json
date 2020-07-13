@@ -847,6 +847,6 @@
   "act_trading-room-standart": "Standard",
   "act_trading-room-premium": "Premium",
   "act_tradeback": "Tradeback – teilweise Rückerstattung der Verlustgeschäfte eines Händlers. Wird jeden Dienstag um 12:00 (0:00 UTC) gutgeschrieben",
-  "captcha@title": "You're not a robot, right?",
-  "captcha@text": "Please click the checkbox below."
+  "captcha@title": "Sie sind kein Roboter, richtig?",
+  "captcha@text": "Bitte klicken Sie das Kontrollkästchen unten an."
 }
