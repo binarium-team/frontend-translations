@@ -847,6 +847,6 @@
   "act_trading-room-standart": "มาตรฐาน",
   "act_trading-room-premium": "พรีเมี่ยม",
   "act_tradeback": "Tradeback—การคืนเงินบางส่วนของการซื้อขายที่ขาดทุนของเทรดเดอร์ เข้าบัญชีทุก ๆ วันอังคารที่เวลา 12:00 น. (0:00 UTC)",
-  "captcha@title": "You're not a robot, right?",
-  "captcha@text": "Please click the checkbox below."
+  "captcha@title": "คุณไม่ใช่หุ่นยนต์ ถูกต้องหรือไม่?",
+  "captcha@text": "กรุณาคลิกกล่องกาเครื่องหมายด้านล่าง"
 }

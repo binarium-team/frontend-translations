@@ -847,6 +847,6 @@
   "act_trading-room-standart": "Standard",
   "act_trading-room-premium": "Premium",
   "act_tradeback": "Tradeback: rimborso parziale delle transazioni in perdita del trader. Accreditato ogni martedì alle 12:00 (0:00 UTC)",
-  "captcha@title": "You're not a robot, right?",
-  "captcha@text": "Please click the checkbox below."
+  "captcha@title": "Non sei un robot, vero?",
+  "captcha@text": "Fai clic sulla casella di controllo sottostante."
 }
