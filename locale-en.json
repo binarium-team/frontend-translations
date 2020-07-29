@@ -244,6 +244,7 @@
   "home_login-remember": "Remember me",
   "home_login-remember-device": "Remember me",
   "home_pick-a-currency": "Currency",
+  "home_pick-a-currency-dropdown": "Выберите валюту счета",
   "home_login-forgot": "Forgot password?",
   "home_login-button": "Login",
   "home_login-button-reg": "Open an account<br>for free",
@@ -457,7 +458,7 @@
   "withdrawal_faq-9-q": "Is there a fee for replenishing/withdrawing cash from the account?",
   "withdrawal_faq-9-a": "<p>We do not charge commissions, as well as fees for a payment. And we cover the fee of payment systems for our clients for depositing/withdrawing funds from the trading account.<br><br>However, if you have applied for a funds withdrawal, and your trading turnover (the sum of all your trades) did not exceed the deposit twice, we have the right not to cover the payment system fees for withdrawing funds in the amount of 10% of the requested withdrawal sum.</p>",
   "withdrawal_pick-a-country": "Choose country",
-  "withdrawal_limit-text": "Превышен лимит на вывод средств для вашего <span>типа счета</span>",
+  "withdrawal_limit-text": "Превышен лимит на вывод средств для вашего <span class=\"open-act-button\">типа счета</span>",
   "menu_terminal": "Trading",
   "menu_education": "Education",
   "menu_asset-catalog": "Asset catalog",
@@ -850,5 +851,10 @@
   "ac-types@self": "Ваш счет",
   "ac-types@tradeback-hint": "Трейдбек - возмещение части убыточных сделок трейдера. Начисляется каждый вторник в 12:00 по UTC-00",
   "captcha@title": "You're not a robot, right?",
-  "captcha@text": "Please click the checkbox below."
+  "captcha@text": "Please click the checkbox below.",
+  "currency@solid_usd": "Доллар США ($ — USD)",
+  "currency@solid_rub": "Российский рубль (₽ — RUB)",
+  "currency@solid_eur": "Евро (€ — EUR)",
+  "currency@solid_uah": "Украинская гривна (₴ — UAH)",
+  "currency@solid_aud": "Австралийский доллар (A$ — AUD)"
 }
