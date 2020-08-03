@@ -855,7 +855,7 @@
   "ac-types@label_withdrawalCountLimit": "Solicitudes de retiro diarias",
   "ac-types@label_withdrawalAmountLimit": "Límite de retiros mensuales",
   "ac-types@label_tradingRoom": "Salón de trading",
-  "ac-types@label_openDealsSum": "Cantidad máxima de operaciones abierta a la vez",
+  "ac-types@label_openDealsSum": "Cantidad máxima de operaciones abiertas a la vez",
   "ac-types@value_real": "fondos reales",
   "ac-types@value_bonus": "bonificación",
   "ac-types@value_nolimit": "sin límite",
