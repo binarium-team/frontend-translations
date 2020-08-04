@@ -440,7 +440,7 @@
   "withdrawal_faq-0-q": "Làm thế nào để rút tiền khỏi tài khoản của tôi?",
   "withdrawal_faq-0-a": "<p>Các tùy chọn sẵn có là: thẻ ngân hàng, ví điện tử Qiwi/Yandex Money/WebMoney/Neteller. Chủ sở hữu của các tài khoản micro chỉ có thể có một đơn rút tiền đang hoạt động.</p>",
   "withdrawal_faq-1-q": "Số tiền rút tối thiểu và tối đa là gì?",
-  "withdrawal_faq-1-a": "<p>The minimum withdrawal amount is 300 rubles or 5 $ / 5 € / 5 A$ / 150₴. The maximum amount of one transaction for withdrawal is 15 000 rubles or 250 $ / 250 € / 250 A$ / 6000₴.</p>",
+  "withdrawal_faq-1-a": "<p>Số tiền rút tối thiểu là 300 rúp hoặc 5 $ / 5 € / 5 A$ / 150₴. Số tiền tối đa cho một giao dịch rút tiền là 15.000 rúp hoặc 250 $ / 250 € / 250 A$ / 6000₴.</p>",
   "withdrawal_faq-2-q": "Làm thế nào tôi có thể rút một số tiền lớn hơn ₽15.000, $250, €250, 250 A$ hay ₴6.000?",
   "withdrawal_faq-2-a": "<p>Hạn chế này đã được thiết lập để ngăn chặn việc rút tiền nhanh, bởi số tiền vượt quá giới hạn này không thể được rút một cách nhanh chóng. Nếu bạn cần rút số tiền lớn hơn, bạn có thể chia tiền của mình thành các khoản ₽15.000, $200, €200 hoặc ₴6.000. Bạn không bị giới hạn nào về số yêu cầu rút tiền có thể thực hiện. Nếu bạn muốn rút nhiều tiền hơn trong một lần thanh toán, hãy liên hệ với nhóm hỗ trợ nền tảng. Nếu tài khoản của bạn không được xác minh, có thể sẽ cần đến 3 ngày làm việc để xử lý yêu cầu rút tiền của bạn. Bạn không thể gửi nhiều hơn một yêu cầu rút tiền mỗi ngày.</p>",
   "withdrawal_faq-3-q": "Quy trình rút tiền nhanh như thế nào?",
