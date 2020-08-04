@@ -440,7 +440,7 @@
   "withdrawal_faq-0-q": "How can I withdraw funds from my account?",
   "withdrawal_faq-0-a": "<p>Available options are: bank card, Qiwi/Yandex Money/WebMoney/Neteller e-wallets. Owners of micro accounts can have only one active application for withdrawal of funds.</p>",
   "withdrawal_faq-1-q": "What is the minimum and maximum withdrawal amount?",
-  "withdrawal_faq-1-a": "<p>The minimum withdrawal amount is 300 rubles or 5 $ / 5 € / 5 A$ / 150₴. The maximum amount of one transaction for withdrawal is 15 000 rubles or 250 $ / 250 € / 250 / 250 A$ / 6000₴.</p>",
+  "withdrawal_faq-1-a": "<p>The minimum withdrawal amount is 300 rubles or 5 $ / 5 € / 5 A$ / 150₴. The maximum amount of one transaction for withdrawal is 15 000 rubles or 250 $ / 250 € / 250 A$ / 6000₴.</p>",
   "withdrawal_faq-2-q": "How do I withdraw an amount that is greater than ₽15,000, $250, €250, 250 A$ or ₴6,000?",
   "withdrawal_faq-2-a": "<p>This restriction has been set to prevent rapid account withdrawals, since amounts that are greater than this cannot be withdrawn so quickly. If you need to withdraw a greater amount, you can split your funds withdrawals into ₽15,000, $200, €200, or ₴6,000 increments. You are not limited by the number of withdrawal requests that you can make. If you would like to make a larger withdrawal in a single payment, then please contact the platform support team. If your account is not verified, then it may take up to three business days to process your funds withdrawal request. You may not submit more than one funds withdrawal request per day.</p>",
   "withdrawal_faq-3-q": "How is quick  withdrawal of funds?",
