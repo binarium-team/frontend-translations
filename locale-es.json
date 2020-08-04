@@ -440,7 +440,7 @@
   "withdrawal_faq-0-q": "¿Cómo puedo retirar fondos de mi cuenta?",
   "withdrawal_faq-0-a": "<p>Las opciones disponibles son: tarjeta bancaria o monederos electrónicos Qiwi/Yandex Money/WebMoney/Neteller. Los dueños de microcuentas pueden tener solo una aplicación activa para el retiro de fondos.</p>",
   "withdrawal_faq-1-q": "¿Cuál es la cantidad mínima y máxima de retiro?",
-  "withdrawal_faq-1-a": "<p>La cantidad mínima de retiro es de 300 rublos, $5, €5 o A$5. La cantidad máxima de una transacción para el retiro es de 15.000 rublos, $250, €250, A$250 o ₴6000.</p>",
+  "withdrawal_faq-1-a": "<p>The minimum withdrawal amount is 300 rubles or 5 $ / 5 € / 5 A$ / 150₴. The maximum amount of one transaction for withdrawal is 15 000 rubles or 250 $ / 250 € / 250 A$ / 6000₴.</p>",
   "withdrawal_faq-2-q": "¿Cómo retiro un importe mayor a ₽15.000 o $250, €250, A$250 o ₴6,000?",
   "withdrawal_faq-2-a": "<p>Esta restricción tiene como fin evitar retiros rápidos de las cuentas, ya que los importes mayores a estos límites no podrán retirarse tan rápidamente. Si necesita retirar un importe mayor, puede dividir sus retiros en importes de ₽15.000 o $200, €200 o ₴6,000. No hay límite en la cantidad de solicitudes de retiro que puede hacer. Si quisiera un retiro por un monto mayor en un único pago, por favor contacte al equipo de soporte de la plataforma. Si su cuenta no está verificada, podría tomar hasta 3 días hábiles procesar su solicitud de retiro de fondos. No puede enviar más de una solicitud de retiro de fondos por día.</p>",
   "withdrawal_faq-3-q": "¿Qué tan rápido se ejecuta el retiro de fondos?",
