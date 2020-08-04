@@ -440,7 +440,7 @@
   "withdrawal_faq-0-q": "Hesabımdan nasıl para çekebilirim?",
   "withdrawal_faq-0-a": "<p>Kullanılabilen seçenekler: banka kartı, Qiwi/Yandex Money/WebMoney/Neteller e-cüzdanları. Mikro hesap sahiplerinin para çekebilmek için yalnızca bir etkin müraacatı olabilir. </p>",
   "withdrawal_faq-1-q": "Minimum ve maksimum para çekme miktarı nedir?",
-  "withdrawal_faq-1-a": "<p>The minimum withdrawal amount is 300 rubles or 5 $ / 5 € / 5 A$ / 150₴. The maximum amount of one transaction for withdrawal is 15 000 rubles or 250 $ / 250 € / 250 A$ / 6000₴.</p>",
+  "withdrawal_faq-1-a": "<p>Minimum çekim tutarı 300 ruble veya 5 $ / 5 € / 5 A$ / 150 ₴'dir. Her çekim işlemi için maksimum tutar 15.000 ruble ya da 250 $ / 250 € / 250 A$ / 6000 ₴'dir.</p>",
   "withdrawal_faq-2-q": "15.000 ₽, 250 $, 250 €, 250 A$ veya 6.000 ₴ üzerinde bir tutarı nasıl çekebilirim?",
   "withdrawal_faq-2-a": "<p>Bu kısıtlama, hızlı hesap çekme işlemlerini önlemek için getirildi çünkü belirlenen limiti aşan miktarlar o kadar hızlı bir şekilde çekilemez. Daha yüksek bir miktar çekmek istiyorsanız paranızı 15.000 ₽, 200 $, 200 € veya 6.000 ₴'lık çekimlere ayırabilirsiniz. Çekme talebi sayısı bakımından kısıtlama yoktur. Tek bir ödemede daha yüksek bir miktar çekmek isterseniz lütfen platform destek ekibiyle iletişime geçin. Hesabınız doğrulanmamışsa para çekme talebinizin işlenmesi üç iş gününü bulabilir. Günde birden fazla para çekme talebi gönderemezsiniz.</p>",
   "withdrawal_faq-3-q": "Ödeme çekim işlemi ne kadar hızlıdır?",
