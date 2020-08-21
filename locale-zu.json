@@ -868,5 +868,6 @@
   "currency@solid_rub": "crwdns30218:0crwdne30218:0",
   "currency@solid_eur": "crwdns30220:0crwdne30220:0",
   "currency@solid_uah": "crwdns30222:0crwdne30222:0",
-  "currency@solid_aud": "crwdns30224:0crwdne30224:0"
+  "currency@solid_aud": "crwdns30224:0crwdne30224:0",
+  "withdrawal-error@amount-limit": "crwdns30332:0crwdne30332:0"
 }
