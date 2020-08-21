@@ -868,5 +868,6 @@
   "currency@solid_rub": "Російський рубль (₽ — RUB)",
   "currency@solid_eur": "Євро (€ — EUR)",
   "currency@solid_uah": "Українська гривня (₴ — UAH)",
-  "currency@solid_aud": "Австралійський долар (A$ — AUD)"
+  "currency@solid_aud": "Австралійський долар (A$ — AUD)",
+  "withdrawal-error@amount-limit": "Превышен лимит суммы вывода"
 }
