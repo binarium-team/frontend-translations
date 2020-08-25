@@ -869,5 +869,5 @@
   "currency@solid_eur": "ยูโร (€ — EUR)",
   "currency@solid_uah": "ฮริฟเนียยูเครน (₴ — UAH)",
   "currency@solid_aud": "ดอลลาร์ออสเตรเลีย (A$ — AUD)",
-  "withdrawal-error@amount-limit": "The withdrawal limit has been exceeded"
+  "withdrawal-error@amount-limit": "เกินขีดจำกัดการถอนเงินแล้ว"
 }
