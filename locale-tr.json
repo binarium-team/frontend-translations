@@ -869,5 +869,5 @@
   "currency@solid_eur": "Euro (€ — EUR)",
   "currency@solid_uah": "Ukrayna Grivnası (₴ — UAH)",
   "currency@solid_aud": "Avusturalya Doları (A$ — AUD)",
-  "withdrawal-error@amount-limit": "The withdrawal limit has been exceeded"
+  "withdrawal-error@amount-limit": "Çekme limiti aşıldı"
 }
