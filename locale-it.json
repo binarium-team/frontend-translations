@@ -869,5 +869,5 @@
   "currency@solid_eur": "Euro (€ — EUR)",
   "currency@solid_uah": "Grivna ucraina (₴ — UAH)",
   "currency@solid_aud": "Dollaro australiano (A$ — AUD)",
-  "withdrawal-error@amount-limit": "The withdrawal limit has been exceeded"
+  "withdrawal-error@amount-limit": "Il limite di prelievo è stato superato"
 }
