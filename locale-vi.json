@@ -869,5 +869,5 @@
   "currency@solid_eur": "Euro (€ — EUR)",
   "currency@solid_uah": "Hryvnia Ukraina (₴ — UAH)",
   "currency@solid_aud": "Đô-la Úc (A$ — AUD)",
-  "withdrawal-error@amount-limit": "The withdrawal limit has been exceeded"
+  "withdrawal-error@amount-limit": "Đã vượt quá giới hạn rút tiền"
 }
