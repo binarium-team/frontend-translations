@@ -868,5 +868,6 @@
   "currency@solid_rub": "Russischer Rubel (₽ — RUB)",
   "currency@solid_eur": "Euro (€ — EUR)",
   "currency@solid_uah": "Ukrainische Hrywnja (₴ — UAH)",
-  "currency@solid_aud": "Australischer Dollar (A$ — AUD)"
+  "currency@solid_aud": "Australischer Dollar (A$ — AUD)",
+  "withdrawal-error@amount-limit": "Das Abhebelimit wurde überschritten"
 }

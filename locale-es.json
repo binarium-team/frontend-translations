@@ -868,5 +868,6 @@
   "currency@solid_rub": "Rublo ruso (₽ — RUB)",
   "currency@solid_eur": "Euro (€ — EUR)",
   "currency@solid_uah": "Grivna ucraniana (₴ — UAH)",
-  "currency@solid_aud": "Dólar australiano (A$ — AUD)"
+  "currency@solid_aud": "Dólar australiano (A$ — AUD)",
+  "withdrawal-error@amount-limit": "Se ha superado el límite permitido para retiros"
 }
