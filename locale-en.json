@@ -459,6 +459,7 @@
   "withdrawal_faq-9-a": "<p>We do not charge commissions, as well as fees for a payment. And we cover the fee of payment systems for our clients for depositing/withdrawing funds from the trading account.<br><br>However, if you have applied for a funds withdrawal, and your trading turnover (the sum of all your trades) did not exceed the deposit twice, we have the right not to cover the payment system fees for withdrawing funds in the amount of 10% of the requested withdrawal sum.</p>",
   "withdrawal_pick-a-country": "Choose country",
   "withdrawal_limit-text": "The withdrawal limit for your <span class=\"open-act-button\">account type</span> has been exceeded",
+  "withdrawal@limit-with-counter": "Превышен лимит на вывод средств для вашего <span class=\"open-act-button\">типа счета</span>. Доступно заявок: {{limitCount}}, на сумму: {{limitAmount}}. Следующая заявка будет доступна: {{limitTime}}",
   "menu_terminal": "Trading",
   "menu_education": "Education",
   "menu_asset-catalog": "Asset catalog",
