@@ -459,6 +459,7 @@
   "withdrawal_faq-9-a": "<p>เราไม่เรียกเก็บค่านายหน้า รวมทั้งค่าธรรมเนียมใด ๆ และเราได้ดูแลค่าธรรมเนียมของระบบการชำระเงินสำหรับลูกค้าของเรา ในการฝากเงิน/ถอนเงินจากบัญชีการซื้อขายไว้แล้ว<br><br>อย่างไรก็ตาม หากคุณทำเรื่องขอถอนเงิน และปริมาณการซื้อขายของคุณ (จำนวนรวมทั้งหมดในการซื้อขายของคุณ) ไม่เกินสองเท่าของจำนวนเงินฝาก เรามีสิทธิ์ที่จะไม่ดูแลค่าธรรมเนียมของระบบการชำระเงินในการถอนเงิน เป็นจำนวน 10% ของจำนวนรวมที่ขอถอนเงิน</p>",
   "withdrawal_pick-a-country": "เลือกประเทศ",
   "withdrawal_limit-text": "เกินขีดจำกัดการถอนเงินของ <span class=\"open-act-button\">ประเภทบัญชี</span> ของคุณแล้ว",
+  "withdrawal@limit-with-counter": "The fund withdrawal limit has been exceeded.<br>Your <span class=\"open-act-button\">account type</span> allows {{limitCount}} requests totaling {{limitAmount}}.<br>You can make another request in {{limitTime}}.",
   "menu_terminal": "การซื้อขาย",
   "menu_education": "การศึกษา",
   "menu_asset-catalog": "แค็ตตาล็อกสินทรัพย์",
