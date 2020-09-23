@@ -459,6 +459,7 @@
   "withdrawal_faq-9-a": "crwdns26370:0crwdne26370:0",
   "withdrawal_pick-a-country": "crwdns20381:0crwdne20381:0",
   "withdrawal_limit-text": "crwdns30200:0crwdne30200:0",
+  "withdrawal@limit-with-counter": "crwdns30346:0{{limitCount}}crwdnd30346:0{{limitAmount}}crwdnd30346:0{{limitTime}}crwdne30346:0",
   "menu_terminal": "crwdns20382:0crwdne20382:0",
   "menu_education": "crwdns20384:0crwdne20384:0",
   "menu_asset-catalog": "crwdns20385:0crwdne20385:0",
