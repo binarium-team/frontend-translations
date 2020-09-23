@@ -459,7 +459,7 @@
   "withdrawal_faq-9-a": "<p>Nie pobieramy ani prowizji, ani opłat za płatność. Pokrywamy również za naszych klientów opłaty pobierane przez systemy płatnicze za wpłatę/wypłatę środków z konta tradingowego.<br><br>Jeżeli jednak złożono wniosek o wypłatę środków, a obroty tradingowe (suma wszystkich transakcji) nie przekroczyły dwukrotnie kwoty wpłaty, mamy prawo nie pokrywać pobieranych przez systemy płatnicze opłat za wypłatę środków w wysokości 10% wnioskowanej kwoty wypłaty.</p>",
   "withdrawal_pick-a-country": "Wybierz kraj",
   "withdrawal_limit-text": "Przekroczono limit wypłat dla tego <span class=\"open-act-button\">typu konta</span>",
-  "withdrawal@limit-with-counter": "The fund withdrawal limit has been exceeded.<br>Your <span class=\"open-act-button\">account type</span> allows {{limitCount}} requests totaling {{limitAmount}}.<br>You can make another request in {{limitTime}}.",
+  "withdrawal@limit-with-counter": "Przekroczono limit wypłaty środków.<br><span class=\"open-act-button\">Typ Twojego konta</span> umożliwia złożenie {{limitCount}} wniosków na sumę {{limitAmount}}.<br>Następny wniosek możesz złożyć za {{limitTime}}.",
   "menu_terminal": "Trading",
   "menu_education": "Nauka",
   "menu_asset-catalog": "Wykaz aktywów",
