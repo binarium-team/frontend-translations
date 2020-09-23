@@ -459,7 +459,7 @@
   "withdrawal_faq-9-a": "<p>Non addebitiamo commissioni né spese per un pagamento. Inoltre, copriamo le spese dei sistemi di pagamento per i nostri clienti in fase di deposito/ritiro dei fondi dal conto di trading.<br><br>Tuttavia, se hai richiesto un prelievo di fondi, e il tuo volume di transazioni (la somma di tutte le tue operazioni) non ha superato di due volte l'importo del deposito, abbiamo il diritto di non coprire le commissioni del sistema di pagamento per il prelievo di fondi per un importo pari al 10% della somma da prelevare richiesta.</p>",
   "withdrawal_pick-a-country": "Scegli paese",
   "withdrawal_limit-text": "Il limite di prelievo per il tuo <span class=\"open-act-button\">tipo di conto</span> è stato superato",
-  "withdrawal@limit-with-counter": "The fund withdrawal limit has been exceeded.<br>Your <span class=\"open-act-button\">account type</span> allows {{limitCount}} requests totaling {{limitAmount}}.<br>You can make another request in {{limitTime}}.",
+  "withdrawal@limit-with-counter": "Il limite di prelievo di fondi è stato superato.<br>Il tuo <span class=\"open-act-button\">tipo di conto</span> consente {{limitCount}} richieste per un totale di {{limitAmount}}.<br>Puoi inviare un'altra richiesta tra {{limitTime}}.",
   "menu_terminal": "Trading",
   "menu_education": "Formazione",
   "menu_asset-catalog": "Catalogo asset",
