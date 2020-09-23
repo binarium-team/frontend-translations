@@ -459,6 +459,7 @@
   "withdrawal_faq-9-a": "<p>Chúng tôi không tính phí hoa hồng hay phí thanh toán. Và chúng tôi bù phí của hệ thống thanh toán cho các khách hàng khi nộp/rút tiền từ tài khoản giao dịch.<br><br>Tuy nhiên, nếu bạn đã đăng ký rút tiền, và doanh thu giao dịch của bạn (tổng tất cả các giao dịch của bạn) không vượt quá hai lần số tiền nộp, chúng tôi có quyền không bù phí hệ thống thanh toán khi rút tiền, tương đương 10% số tiền yêu cầu rút.</p>",
   "withdrawal_pick-a-country": "Chọn quốc gia",
   "withdrawal_limit-text": "Đã vượt quá giới hạn rút tiền cho <span class=\"open-act-button\">loại tài khoản</span> của bạn",
+  "withdrawal@limit-with-counter": "Đã quá giới hạn rút tiền.<br><span class=\"open-act-button\">Loại tài khoản</span> của bạn chỉ cho phép {{limitCount}} yêu cầu với tổng số tiền {{limitAmount}}.<br>Bạn có thể thực hiện một yêu cầu khác trong {{limitTime}}.",
   "menu_terminal": "Giao dịch",
   "menu_education": "Giáo dục",
   "menu_asset-catalog": "Danh mục tài sản",

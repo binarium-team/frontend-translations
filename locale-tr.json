@@ -459,6 +459,7 @@
   "withdrawal_faq-9-a": "<p>Ödemelerden komisyon veya ücret almıyoruz. Ve müşterilerimizin yatırım hesabına para yatırma/çekme işlemleri için gereken ödeme sistemleri ücretini de karşılıyoruz.<br><br>Ancak, para çekmek için başvurduysanız ve yatırım cironuz (tüm yatırımlarınızın toplamı) yatırılan paranın iki katını geçmiyorsa, para çekmek için talep edilen çekim tutarının %10'u tutarındaki ödeme sistemi ücretlerini karşılamama hakkına sahiptir.</p>",
   "withdrawal_pick-a-country": "Ülke seçin",
   "withdrawal_limit-text": "<span class=\"open-act-button\">Hesap türünüz</span> için çekme limiti aşıldı",
+  "withdrawal@limit-with-counter": "Fon çekme limiti aşıldı.<br><span class=\"open-act-button\">Hesap türünüz</span> toplamda {{limitAmount}} olacak şekilde {{limitCount}} talebe izin veriyor.<br>{{limitTime}} içinde başka bir talep daha gönderebilirsiniz.",
   "menu_terminal": "Ticaret",
   "menu_education": "Eğitim",
   "menu_asset-catalog": "Mal varlığı kataloğu",
