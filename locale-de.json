@@ -459,6 +459,7 @@
   "withdrawal_faq-9-a": "<p>Wir berechnen keine Provisionen sowie Gebühren für eine Zahlung. Und wir übernehmen Gebühren für Zahlungssysteme, die unseren Kunden bei der Ein-/Auszahlung von Geldern auf das/vom Handelskonto entstehen.<br><br>Wenn Sie jedoch eine Auszahlung beantragt haben und Ihr Handelsumsatz (die Summe aller Ihrer Geschäfte) nicht doppelt so hoch ist, wie die Einzahlungssumme, haben wir das Recht, die Gebühren für das Zahlungssystem für die Geldabhebung in Höhe von 10% der angeforderten Auszahlungssumme nicht zu übernehmen.</p>",
   "withdrawal_pick-a-country": "Wählen Sie das Land",
   "withdrawal_limit-text": "Das Abhebelimit für Ihre <span class=\"open-act-button\">Kontoart</span> wurde überschritten",
+  "withdrawal@limit-with-counter": "The fund withdrawal limit has been exceeded.<br>Your <span class=\"open-act-button\">account type</span> allows {{limitCount}} requests totaling {{limitAmount}}.<br>You can make another request in {{limitTime}}.",
   "menu_terminal": "Handel",
   "menu_education": "Informationen",
   "menu_asset-catalog": "Anlagekatalog",
