@@ -855,6 +855,7 @@
   "ac-types@label_assets": "Tài sản giao dịch",
   "ac-types@label_withdrawalCountLimit": "Yêu cầu rút tiền mỗi ngày",
   "ac-types@label_withdrawalAmountLimit": "Giới hạn rút tiền mỗi tháng",
+  "ac-types@label_withdrawalDayAmountLimit": "Giới hạn rút tiền mỗi ngày",
   "ac-types@label_tradingRoom": "Phòng giao dịch",
   "ac-types@label_openDealsSum": "Số giao dịch mở tối đa (cùng một lúc)",
   "ac-types@value_real": "tiền thật",
@@ -870,5 +871,9 @@
   "currency@solid_eur": "Euro (€ — EUR)",
   "currency@solid_uah": "Hryvnia Ukraina (₴ — UAH)",
   "currency@solid_aud": "Đô-la Úc (A$ — AUD)",
-  "withdrawal-error@amount-limit": "Đã vượt quá giới hạn rút tiền"
+  "withdrawal-error@amount-limit": "Đã vượt quá giới hạn rút tiền",
+  "promo-gift@bonus": "thưởng",
+  "promo-gift@freeSpins": "Giao dịch không rủi ro",
+  "promo-gift@tradeRoom": "Phòng giao dịch",
+  "promo-gift@tickets": "vé"
 }
