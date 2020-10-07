@@ -871,5 +871,9 @@
   "currency@solid_eur": "Євро (€ — EUR)",
   "currency@solid_uah": "Українська гривня (₴ — UAH)",
   "currency@solid_aud": "Австралійський долар (A$ — AUD)",
-  "withdrawal-error@amount-limit": "Перевищено ліміт суми виведення"
+  "withdrawal-error@amount-limit": "Перевищено ліміт суми виведення",
+  "promo-gift@bonus": "бонус",
+  "promo-gift@freeSpins": "страховые сделки",
+  "promo-gift@tradeRoom": "Торговая комната",
+  "promo-gift@tickets": "билеты розыгрыша"
 }
