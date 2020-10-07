@@ -855,6 +855,7 @@
   "ac-types@label_assets": "crwdns30204:0crwdne30204:0",
   "ac-types@label_withdrawalCountLimit": "crwdns30206:0crwdne30206:0",
   "ac-types@label_withdrawalAmountLimit": "crwdns30208:0crwdne30208:0",
+  "ac-types@label_withdrawalDayAmountLimit": "crwdns30382:0crwdne30382:0",
   "ac-types@label_tradingRoom": "crwdns30164:0crwdne30164:0",
   "ac-types@label_openDealsSum": "crwdns30210:0crwdne30210:0",
   "ac-types@value_real": "crwdns30166:0crwdne30166:0",
@@ -870,5 +871,9 @@
   "currency@solid_eur": "crwdns30220:0crwdne30220:0",
   "currency@solid_uah": "crwdns30222:0crwdne30222:0",
   "currency@solid_aud": "crwdns30224:0crwdne30224:0",
-  "withdrawal-error@amount-limit": "crwdns30332:0crwdne30332:0"
+  "withdrawal-error@amount-limit": "crwdns30332:0crwdne30332:0",
+  "promo-gift@bonus": "crwdns30384:0crwdne30384:0",
+  "promo-gift@freeSpins": "crwdns30386:0crwdne30386:0",
+  "promo-gift@tradeRoom": "crwdns30388:0crwdne30388:0",
+  "promo-gift@tickets": "crwdns30390:0crwdne30390:0"
 }
