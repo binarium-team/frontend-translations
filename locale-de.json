@@ -855,7 +855,7 @@
   "ac-types@label_assets": "Handelsanlagen",
   "ac-types@label_withdrawalCountLimit": "Auszahlungsanfragen pro Tag",
   "ac-types@label_withdrawalAmountLimit": "Auszahlungslimit pro Monat",
-  "ac-types@label_withdrawalDayAmountLimit": "Withdrawal limit, per day",
+  "ac-types@label_withdrawalDayAmountLimit": "Auszahlungslimit pro Tag",
   "ac-types@label_tradingRoom": "Handelsraum",
   "ac-types@label_openDealsSum": "Maximale Anzahl von offenen Handeln (gleichzeitig)",
   "ac-types@value_real": "echte Geldmittel",
@@ -872,8 +872,8 @@
   "currency@solid_uah": "Ukrainische Hrywnja (₴ — UAH)",
   "currency@solid_aud": "Australischer Dollar (A$ — AUD)",
   "withdrawal-error@amount-limit": "Das Abhebelimit wurde überschritten",
-  "promo-gift@bonus": "bonus",
-  "promo-gift@freeSpins": "Risk free trades",
-  "promo-gift@tradeRoom": "Trading room",
-  "promo-gift@tickets": "tickets"
+  "promo-gift@bonus": "Bonus",
+  "promo-gift@freeSpins": "Risikofreie Handelstätigkeiten",
+  "promo-gift@tradeRoom": "Handelsraum",
+  "promo-gift@tickets": "Tickets"
 }
