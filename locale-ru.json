@@ -871,5 +871,9 @@
   "currency@solid_eur": "Евро (€ — EUR)",
   "currency@solid_uah": "Украинская гривна (₴ — UAH)",
   "currency@solid_aud": "Австралийский доллар (A$ — AUD)",
-  "withdrawal-error@amount-limit": "Превышен лимит суммы вывода"
+  "withdrawal-error@amount-limit": "Превышен лимит суммы вывода",
+  "promo-gift@bonus": "бонус",
+	"promo-gift@freeSpins": "страховые сделки",
+	"promo-gift@tradeRoom": "Торговая комната",
+	"promo-gift@tickets": "билеты розыгрыша"
 }
