@@ -855,7 +855,7 @@
   "ac-types@label_assets": "Trading di asset",
   "ac-types@label_withdrawalCountLimit": "Richieste di prelievo, al giorno",
   "ac-types@label_withdrawalAmountLimit": "Limite di prelievo, al mese",
-  "ac-types@label_withdrawalDayAmountLimit": "Withdrawal limit, per day",
+  "ac-types@label_withdrawalDayAmountLimit": "Limite di prelievo, al giorno",
   "ac-types@label_tradingRoom": "Sala trading",
   "ac-types@label_openDealsSum": "Numero massimo di negoziazioni aperte (in una sola volta)",
   "ac-types@value_real": "fondi reali",
@@ -873,7 +873,7 @@
   "currency@solid_aud": "Dollaro australiano (A$ — AUD)",
   "withdrawal-error@amount-limit": "Il limite di prelievo è stato superato",
   "promo-gift@bonus": "bonus",
-  "promo-gift@freeSpins": "Risk free trades",
-  "promo-gift@tradeRoom": "Trading room",
-  "promo-gift@tickets": "tickets"
+  "promo-gift@freeSpins": "Scambi senza rischi",
+  "promo-gift@tradeRoom": "Sala trading",
+  "promo-gift@tickets": "biglietti"
 }
