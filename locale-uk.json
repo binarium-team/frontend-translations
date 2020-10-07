@@ -855,7 +855,7 @@
   "ac-types@label_assets": "Торгові активи",
   "ac-types@label_withdrawalCountLimit": "Заявок на виведення коштів, в день",
   "ac-types@label_withdrawalAmountLimit": "Ліміт на виведення коштів, в місяць",
-  "ac-types@label_withdrawalDayAmountLimit": "Лимит на вывод средств, в день",
+  "ac-types@label_withdrawalDayAmountLimit": "Ліміт на виведення коштів, в день",
   "ac-types@label_tradingRoom": "Торгова кімната",
   "ac-types@label_openDealsSum": "Сума відкритих угод (за раз)",
   "ac-types@value_real": "реальні кошти",
@@ -873,7 +873,7 @@
   "currency@solid_aud": "Австралійський долар (A$ — AUD)",
   "withdrawal-error@amount-limit": "Перевищено ліміт суми виведення",
   "promo-gift@bonus": "бонус",
-  "promo-gift@freeSpins": "страховые сделки",
-  "promo-gift@tradeRoom": "Торговая комната",
-  "promo-gift@tickets": "билеты розыгрыша"
+  "promo-gift@freeSpins": "Застраховані угоди",
+  "promo-gift@tradeRoom": "Торгова кімната",
+  "promo-gift@tickets": "квитки"
 }
