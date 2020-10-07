@@ -855,6 +855,7 @@
   "ac-types@label_assets": "Ticari varlıklar",
   "ac-types@label_withdrawalCountLimit": "Çekme talebi, günlük",
   "ac-types@label_withdrawalAmountLimit": "Çekme limiti, aylık",
+  "ac-types@label_withdrawalDayAmountLimit": "Withdrawal limit, per day",
   "ac-types@label_tradingRoom": "Ticaret odası",
   "ac-types@label_openDealsSum": "Maksimum açık ticaret sayısı (tek seferde)",
   "ac-types@value_real": "gerçek fon",
@@ -870,5 +871,9 @@
   "currency@solid_eur": "Euro (€ — EUR)",
   "currency@solid_uah": "Ukrayna Grivnası (₴ — UAH)",
   "currency@solid_aud": "Avusturalya Doları (A$ — AUD)",
-  "withdrawal-error@amount-limit": "Çekme limiti aşıldı"
+  "withdrawal-error@amount-limit": "Çekme limiti aşıldı",
+  "promo-gift@bonus": "bonus",
+  "promo-gift@freeSpins": "Risk free trades",
+  "promo-gift@tradeRoom": "Trading room",
+  "promo-gift@tickets": "tickets"
 }
