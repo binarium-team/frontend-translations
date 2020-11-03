@@ -875,5 +875,19 @@
   "promo-gift@bonus": "бонус",
 	"promo-gift@freeSpins": "страховые сделки",
 	"promo-gift@tradeRoom": "торговая комната",
-	"promo-gift@tickets": "билеты розыгрыша"
+  "promo-gift@tickets": "билеты розыгрыша",
+  "home@account-label": "Ваш счет",
+  "home@account-type": "Типы счетов",
+  "home@account-button": "Пополнить счет",
+  "home@tr-label": "Торговая комната",
+  "home@tr-slogan": "Прибыльная торговля с лучшими трейдерами",
+  "home@tr-text": "Совместная торговаля только с самыми опытными трейдерами Binarium. Прибыльные сигналы, советы и бесценный опыт.",
+  "home@tr-btn": "Войти в комнату",
+  "home@assets-title": "Активы с высокой доходностью",
+  "home@asset-timer-label": "До окончания торгов осталось",
+  "home@asset-timer-days": "дни",
+  "home@asset-timer-hours": "ч",
+  "home@asset-timer-minutes": "м",
+  "home@asset-timer-seconds": "с",
+  "home@asset-timer-btn": "Торговать"
 }
