@@ -917,7 +917,7 @@
   "tr@join-text": "500 $, 500 € veya 30.000 ₽ para yatırın. Yatırılan para miktarı hesabınızda kalır. Binarium'la daha da fazla kazanmak için bunu kullanın.",
   "tr@business-text": "Hesabınıza en az 500 $,<br> 500 € veya 30.000 ₽ yatırın",
   "tr@business-list": "<li>Oturumu Binarium'un en iyi tüccarlarından biri düzenliyor</li><li>Hızlı ticaret sonuçları</li>",
-  "tr@vip-text": "Make a deposit of<br> at least $5000, €5000 or ₽300,000 to your account",
+  "tr@vip-text": "Hesabınıza en az <span>5000 $</span>,<br><span>5000 €</span> veya <span>300.000 ₽</span> yatırın",
   "tr@vip-list": "<li>Kendi kişisel yöneticiniz</li><li>Her sinyalde ayrıntılı yorumlar</li><li>1 günden daha uzun süre sonuna sahip ticaretler</li><li>En son küresel haberlere ve olaylara dayalı ticaret</li><li>Ticaret eğitimi</li>",
   "tr@popular": "Popüler seçim"
 }
