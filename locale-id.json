@@ -17,7 +17,7 @@
   "asset-catalog_start-trade": "Memulai trading",
   "asset-catalog_session": "Sesi trading",
   "asset-catalog_time-EUR/GBP": "Senin — Jumat 07:00 — 16:00 GMT",
-  "asset-catalog_text-EUR/GBP": "Rasionya dalam bentuk order: nilai kurs pound sterling (GBP) ke euro (EUR). EUR/GBP adalah nilai-silang di mana unit akuntansinya adalah pound Inggris (GBP).",
+  "asset-catalog_text-EUR/GBP": "Rasio adalah dalam suatu susunan sedemikian rupa: nilai tukar pound sterling (GBP) terhadap euro (EUR). EUR/GBP adalah sebuah nilai tukar dua mata uang di mana unit akuntansinya adalah pound sterling Inggris (GBP).",
   "asset-catalog_time-EUR/USD": "Senin — Jumat 00:00 – 23:59 GMT",
   "asset-catalog_text-EUR/USD": "Euro (simbol mata uang - EUR) adalah mata uang resmi yang digunakan di 17 negara Eurozone. Selain itu, juga digunakan di 9 negara lainnya. Mata uang Euro adalah basis moneter terbesar di dunia ini, bahkan jauh lebih besar daripada dolar USD. Pertukaran mata uang EUR / USD ditetapkan secara langsung apabila pembayarannya dibuat melalui dolar USD.",
   "asset-catalog_time-GBP/USD": "Senin — Jumat 07:00 — 18:00 GMT",
