@@ -419,7 +419,7 @@
   "withdrawal_success-body": "Permintaan penarikan berhasil dikirim.<br><br>Pesan ini akan tertutup secara otomatis. Bila tidak tertutup, klik tombol:",
   "withdrawal_success-button": "Lanjutkan",
   "withdrawal_fail-title": "Error",
-  "withdrawal_fail-body": "Terjadi error selama proses. Mohon kembali ke formulir penarikan dana, dan coba lagi:<br><br>Pesan ini akan tertutup secara otomatis. Bila tidak tertutup, klik tombol:",
+  "withdrawal_fail-body": "Terjadi kekeliruan selama proses. Kembalilah ke formulir pembayaran, dan cobalah lagi:<br><br>Pesan ini akan tertutup secara otomatis. Bila tidak tertutup, klik tombol:",
   "withdrawal_fail-button": "Kembali",
   "withdrawal_label-amount": "Jumlah pembayaran",
   "withdrawal_error-empty-amount": "Masukkan jumlah penarikan",
