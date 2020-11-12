@@ -433,7 +433,7 @@
   "withdrawal_error-sum-max-limit": "Nilai ini seharusnya {{ limit }} atau kurang",
   "withdrawal_error-sum-min-limit": "Nilai ini seharusnya {{ limit }} atau lebih",
   "withdrawal_hint-title": "Pengajuan Anda akan diproses dalam 24 jam dari masa pendaftaran.",
-  "withdrawal_hint-text": "Jika permohonan diterbitkan di luar jam kerja departemen keuangan perusahaan, permohonan itu akan diproses pada hari kerja berikutnya.",
+  "withdrawal_hint-text": "Jika pengajuan disampaikan di luar jam kerja bagian keuangan perusahaan, pengajuan tersebut akan diproses pada hari kerja berikutnya.",
   "withdrawal_method": "Metode penarikan dana",
   "withdrawal_pick-a-method": "Pilih metode pembayaran ",
   "withdrawal_submit-button": "Tarik dana",
