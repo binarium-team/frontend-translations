@@ -922,7 +922,7 @@
   "tr@vip-list": "<li>Your own personal manager</li><li>Detailed comments on every signal</li><li>Trades with an expiration time longer than 1 day</li><li>Trading based on the latest global news and events</li><li>Trading training</li>",
   "tr@popular": "Popular choice",
   "tradeback@text": "Binarium поддерживает своих пользователей и возмещает часть убыточных сделок. Трейдбек — это инструмент по возмещению части сделок трейдера. Трейдбек начисляется за предыдущую неделю и поступает на счет каждый вторник.",
-  "tradeback@true": "Получать трейдбек",
-  "tradeback@false": "Не получать трейдбек",
-  "tradeback@submit": "Сохранить изменения"
+  "tradeback@true": "Get tradeback",
+  "tradeback@false": "Don't get tradeback",
+  "tradeback@submit": "Save changes"
 }
