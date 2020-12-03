@@ -486,7 +486,7 @@
   "menu_quit": "Exit",
   "menu_about": "About company",
   "menu_account-types": "Account types",
-  "menu_tradeback": "Отказ от трейдбека",
+  "menu_tradeback": "Tradeback options",
   "footer_chat": "Online chat",
   "footer_skype": "binarium.com",
   "risk-warning": "<p><strong>Risk disclosure.</strong> Trading operations made on Binarium platform involve a significant risk of loss of a capital. Please, read carefully the general trading conditions on our website before making any investments. You are given the right of personal, non-commercial use of the information located on this site. The right to use is limited, not exclusive. The company's activities are conducted outside the Russian Federation.</p>",
@@ -921,8 +921,8 @@
   "tr@vip-text": "Make a deposit of<br> at least $5000, €5000 or ₽300,000 to your account",
   "tr@vip-list": "<li>Your own personal manager</li><li>Detailed comments on every signal</li><li>Trades with an expiration time longer than 1 day</li><li>Trading based on the latest global news and events</li><li>Trading training</li>",
   "tr@popular": "Popular choice",
-  "tradeback@text": "Binarium поддерживает своих пользователей и возмещает часть убыточных сделок. Трейдбек — это инструмент по возмещению части сделок трейдера. Трейдбек начисляется за предыдущую неделю и поступает на счет каждый вторник.",
-  "tradeback@true": "Get tradeback",
-  "tradeback@false": "Don't get tradeback",
+  "tradeback@text": "Binarium supports its users by compensating part of their losses. Tradeback is a tool to recoup part of your losing trades. It's credited to your account every Tuesday for the previous week's transactions.",
+  "tradeback@true": "Accept tradeback",
+  "tradeback@false": "Decline tradeback",
   "tradeback@submit": "Save changes"
 }
