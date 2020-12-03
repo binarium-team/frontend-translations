@@ -486,6 +486,7 @@
   "menu_quit": "Schließen",
   "menu_about": "Über das Unternehmen",
   "menu_account-types": "Kontoarten",
+  "menu_tradeback": "Отказ от трейдбека",
   "footer_chat": "Online-Chat",
   "footer_skype": "binarium.com",
   "risk-warning": "<p><strong>Risikoaufklärung.</strong> Die Handelsaktivität auf der Binarium-Plattform birgt ein erhöhtes Risiko für Kapitalverlust. Lesen Sie bitte sorgfältig die allgemeinen Handelsbedingungen auf unserer Website durch, bevor Sie Investitionen tätigen. Ihnen wird das Recht auf persönliche und nichtkommerzielle Nutzung der Informationen dieser Seite gewährt. Dieses Nutzungsrecht ist eingeschränkt, nicht ausschließlich. Die Aktivitäten des Unternehmens finden außerhalb der Russischen Föderation statt.</p>",
@@ -919,5 +920,9 @@
   "tr@business-list": "<li>Einer der Tophändler von Binarium hält die Sitzung ab</li><li>Schnelle Handelsergebnisse</li>",
   "tr@vip-text": "Zahlen Sie mindestens<br><span>5000 $</span>, <span>5000 €</span> oder <span>300.000 ₽</span> auf Ihr Konto ein",
   "tr@vip-list": "<li>Ihr persönlicher Manager</li><li>Detaillierte Kommentare zu jedem Signal</li><li>Handelsaktivitäten mit Ablaufzeitpunkten in mehr als 1 Tag</li><li>Handelsaktivitäten, die auf den aktuellsten globalen Neuigkeiten und Ereignissen beruhen</li><li>Handelstraining</li>",
-  "tr@popular": "Beliebte Auswahl"
+  "tr@popular": "Beliebte Auswahl",
+  "tradeback@text": "Binarium поддерживает своих пользователей и возмещает часть убыточных сделок. Трейдбек — это инструмент по возмещению части сделок трейдера. Трейдбек начисляется за предыдущую неделю и поступает на счет каждый вторник.",
+  "tradeback@true": "Получать трейдбек",
+  "tradeback@false": "Не получать трейдбек",
+  "tradeback@submit": "Сохранить изменения"
 }
