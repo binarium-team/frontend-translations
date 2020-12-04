@@ -486,7 +486,7 @@
   "menu_quit": "ออก",
   "menu_about": "เกี่ยวกับบริษัท",
   "menu_account-types": "ประเภทบัญชี",
-  "menu_tradeback": "Tradeback options",
+  "menu_tradeback": "ตัวเลือก Tradeback",
   "footer_chat": "แชทออนไลน์",
   "footer_skype": "binarium.com",
   "risk-warning": "<p><strong>การเปิดเผยข้อมูลความเสี่ยง</strong> ปฏิบัติการซื้อขายที่ดำเนินการบนแพลตฟอร์ม Binarium เกี่ยวข้องกับความเสี่ยงสำคัญ ในเรื่องการขาดทุนของเงินทุน กรุณาอ่านเงื่อนไขการซื้อขายทั่วไปบนเว็บไซต์ของเราอย่างละเอียด ก่อนที่จะดำเนินการลงทุนใด ๆ คุณมีสิทธิ์ในการใช้งานเป็นการส่วนบุคคลโดยที่ไม่ใช่เชิงพาณิชย์ ในส่วนของข้อมูลที่อยู่บนเว็บไซต์นี้ สิทธิ์ในการใช้นั้นจำกัด และไม่ผูกขาด กิจกรรมของบริษัทนั้นมีการดำเนินการภายนอก สหพันธรัฐรัสเซีย</p>",
@@ -921,8 +921,8 @@
   "tr@vip-text": "ฝากเงินจำนวน<br>อย่างน้อย $5000, €5000 หรือ ₽300,000 ลงในบัญชีของคุณ",
   "tr@vip-list": "<li>ผู้จัดการส่วนตัวของคุณเอง</li><li>ความคิดเห็นโดยละเอียดในทุกสัญญาณ</li><li>ซื้อขายด้วยเวลาหมดอายุที่นานกว่า 1 วัน</li><li>การซื้อขายบนพื้นฐานของข่าวสารและเหตุการณ์ในโลกล่าสุด</li><li>ฝึกอบรมการซื้อขาย</li>",
   "tr@popular": "ตัวเลือกยอดนิยม",
-  "tradeback@text": "Binarium supports its users by compensating part of their losses. Tradeback is a tool to recoup part of your losing trades. It's credited to your account every Tuesday for the previous week's transactions.",
-  "tradeback@true": "Accept tradeback",
-  "tradeback@false": "Decline tradeback",
-  "tradeback@submit": "Save changes"
+  "tradeback@text": "Binarium สนับสนุนผู้ใช้งานของตน โดยการชดเชยบางส่วนของการขาดทุนให้ Tradeback เป็นเครื่องมือในการชดเชยบางส่วนของการซื้อขายที่ขาดทุนของคุณ จะมีการฝากเงินเข้าไปยังบัญชีของคุณ ทุกวันอังคาร สำหรับธุรกรรมของสัปดาห์ที่แล้ว",
+  "tradeback@true": "ยอมรับ Tradeback",
+  "tradeback@false": "ปฏิเสธ Tradeback",
+  "tradeback@submit": "บันทึกการเปลี่ยนแปลง"
 }
