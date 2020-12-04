@@ -922,7 +922,7 @@
   "tr@vip-list": "<li>Il tuo manager personale</li><li>Commenti dettagliati su ogni segnale</li><li>Trading con un termine di scadenza superiore a 1 giorno</li><li>Trading basato sulle ultime notizie e sugli ultimi eventi globali</li><li>Formazione di trading</li>",
   "tr@popular": "Scelta popolare",
   "tradeback@text": "Binarium sostiene i suoi utenti compensando parte delle loro perdite. Il tradeback è uno strumento che ti permette di recuperare parte delle tue perdite. Viene accreditato sul tuo conto ogni martedì per le transazioni della settimana precedente.",
-  "tradeback@true": "Accept tradeback",
-  "tradeback@false": "Decline tradeback",
-  "tradeback@submit": "Save changes"
+  "tradeback@true": "Accetta il tradeback",
+  "tradeback@false": "Rifiuta il tradeback",
+  "tradeback@submit": "Salva le modifiche"
 }
