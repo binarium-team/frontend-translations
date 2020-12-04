@@ -921,8 +921,8 @@
   "tr@vip-text": "Zahlen Sie mindestens<br><span>5000 $</span>, <span>5000 €</span> oder <span>300.000 ₽</span> auf Ihr Konto ein",
   "tr@vip-list": "<li>Ihr persönlicher Manager</li><li>Detaillierte Kommentare zu jedem Signal</li><li>Handelsaktivitäten mit Ablaufzeitpunkten in mehr als 1 Tag</li><li>Handelsaktivitäten, die auf den aktuellsten globalen Neuigkeiten und Ereignissen beruhen</li><li>Handelstraining</li>",
   "tr@popular": "Beliebte Auswahl",
-  "tradeback@text": "Binarium supports its users by compensating part of their losses. Tradeback is a tool to recoup part of your losing trades. It's credited to your account every Tuesday for the previous week's transactions.",
-  "tradeback@true": "Accept tradeback",
-  "tradeback@false": "Decline tradeback",
-  "tradeback@submit": "Save changes"
+  "tradeback@text": "Binarium unterstützt seine Benutzer durch das Ausgleichen einiger ihrer Verluste. Tradeback ist ein Tool für die teilweise Entschädigung Ihrer Trading-Verluste. Jeden Dienstag erhalten Sie im Rahmen dieses Tools Gutschriften auf Ihr Konto für die Transaktionen der vergangenen Woche.",
+  "tradeback@true": "Tradeback annehmen",
+  "tradeback@false": "Tradeback ablehnen",
+  "tradeback@submit": "Änderungen speichern"
 }
