@@ -921,8 +921,8 @@
   "tr@vip-text": "Lakukan deposit<br> paling sedikit $5000, €5000 atau ₽300,000 ke akun Anda",
   "tr@vip-list": "<li>Manajer pribadi Anda</li><li>Memberi penjelasan rinci di setiap sinyal</li><li>Trading yang masa berlakunya lebih dari 1 hari</li><li>Trading berdasarkan berita dan kejadian global terkini</li><li>Pelatihan trading</li>",
   "tr@popular": "Pilihan populer",
-  "tradeback@text": "Binarium supports its users by compensating part of their losses. Tradeback is a tool to recoup part of your losing trades. It's credited to your account every Tuesday for the previous week's transactions.",
-  "tradeback@true": "Accept tradeback",
-  "tradeback@false": "Decline tradeback",
-  "tradeback@submit": "Save changes"
+  "tradeback@text": "Binarium mendukung para penggunanya dengan memberikan kompensasi untuk sebagian dari kerugian mereka. Tradeback adalah alat untuk mengganti kerugian dalam perdagangan Anda. Transaksi minggu sebelumnya akan dikreditkan ke akun Anda pada hari Selasa.",
+  "tradeback@true": "Terima tradeback",
+  "tradeback@false": "Tolak tradeback",
+  "tradeback@submit": "Simpan perubahan"
 }
