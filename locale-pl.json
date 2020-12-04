@@ -486,7 +486,7 @@
   "menu_quit": "Zakończ",
   "menu_about": "O firmie",
   "menu_account-types": "Typy kont",
-  "menu_tradeback": "Отказ от трейдбека",
+  "menu_tradeback": "Opcje tradeback",
   "footer_chat": "Czat online",
   "footer_skype": "binarium.com",
   "risk-warning": "<p><strong>Ujawnienie ryzyka.</strong> Operacje w ramach transakcji dokonywanych na platformie Binarium wiążą się z istotnym ryzykiem utraty kapitału. Prosimy o uważne zapoznanie się z ogólnymi warunkami tradingu w naszej witrynie internetowej przed dokonaniem jakichkolwiek inwestycji. Użytkownikowi udzielane jest prawo do używania informacji znajdujących się w tej witrynie do niekomercyjnego użytku osobistego. Prawo do używania jest ograniczone i niewyłączne. Działalność firmy prowadzona jest poza terytorium Federacji Rosyjskiej.</p>",
@@ -918,11 +918,11 @@
   "tr@join-text": "Dokonaj wpłaty w wysokości 500 $, 500 € lub 30 000 ₽. Kwota wpłaty pozostanie na Twoim koncie. Użyj jej, aby zarobić jeszcze więcej z Binarium.",
   "tr@business-text": "Wpłać co najmniej<br> 500 $, 500 € lub 30 000 ₽ na swoje konto",
   "tr@business-list": "<li>Sesję prowadzi jeden z najlepszych traderów Binarium</li><li>Szybkie wyniki transakcji</li>",
-  "tr@vip-text": "Wpłać co najmniej<br><span>5000 $</span>, <span>5000 €</span> lub <span>300 000 ₽</span> na swoje konto",
+  "tr@vip-text": "Wpłać co najmniej<br> 5000 $, 5000 € lub 300 000 ₽ na swoje konto",
   "tr@vip-list": "<li>Twój własny menedżer osobisty</li><li>Szczegółowe uwagi do każdego sygnału</li><li>Transakcje o czasie wygaśnięcia dłuższym niż 1 dzień</li><li>Trading na podstawie najnowszych wiadomości ze świata i wydarzeń</li><li>Szkolenie tradingowe</li>",
   "tr@popular": "Popularny wybór",
-  "tradeback@text": "Binarium поддерживает своих пользователей и возмещает часть убыточных сделок. Трейдбек — это инструмент по возмещению части сделок трейдера. Трейдбек начисляется за предыдущую неделю и поступает на счет каждый вторник.",
-  "tradeback@true": "Получать трейдбек",
-  "tradeback@false": "Не получать трейдбек",
-  "tradeback@submit": "Сохранить изменения"
+  "tradeback@text": "Binarium wspiera swoich użytkowników, kompensując część ich strat. Tradeback jest narzędziem umożliwiającym odzyskanie części kwot stratnych transakcji. Odpowiednie kwoty dla transakcji z poprzedniego tygodnia są naliczane na koncie w każdy wtorek.",
+  "tradeback@true": "Akceptuj tradeback",
+  "tradeback@false": "Odrzuć tradeback",
+  "tradeback@submit": "Zapisz zmiany"
 }

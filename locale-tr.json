@@ -486,7 +486,7 @@
   "menu_quit": "Çıkış",
   "menu_about": "Şirket hakkında",
   "menu_account-types": "Hesap türleri",
-  "menu_tradeback": "Отказ от трейдбека",
+  "menu_tradeback": "Tradeback seçenekleri",
   "footer_chat": "Çevrimiçi sohbet",
   "footer_skype": "binarium.com",
   "risk-warning": "<p><strong>Risk beyanı.</strong>Binarium platformunda gerçekleştirilen ticari işlemleri belirli bir sermaye kaybı riski içermektedir. Yatırım yapmadan önce lütfen web sitemizdeki genel ticaret koşullarını dikkatlice okuyun. Bu sitedeki bilgileri şahsi ve ticari olmayan amaçlarla kullanım hakkına sahipsiniz. Kullanım hakkı sınırlıdır fakat kısıtlı değildir. Şirketin eylemleri Rusya Federasyonu dışında gerçekleşir.</p>",
@@ -921,8 +921,8 @@
   "tr@vip-text": "Hesabınıza en az <span>5000 $</span>,<br><span>5000 €</span> veya <span>300.000 ₽</span> yatırın",
   "tr@vip-list": "<li>Kendi kişisel yöneticiniz</li><li>Her sinyalde ayrıntılı yorumlar</li><li>1 günden daha uzun süre sonuna sahip ticaretler</li><li>En son küresel haberlere ve olaylara dayalı ticaret</li><li>Ticaret eğitimi</li>",
   "tr@popular": "Popüler seçim",
-  "tradeback@text": "Binarium поддерживает своих пользователей и возмещает часть убыточных сделок. Трейдбек — это инструмент по возмещению части сделок трейдера. Трейдбек начисляется за предыдущую неделю и поступает на счет каждый вторник.",
-  "tradeback@true": "Получать трейдбек",
-  "tradeback@false": "Не получать трейдбек",
-  "tradeback@submit": "Сохранить изменения"
+  "tradeback@text": "Binarium kullanıcılarının kayıplarının bir kısmını telafi etmesine yardımcı olur. Tradeback, kaybettiğiniz ticaretlerinizin bir kısmını telafi etme aracıdır. Bir önceki haftanın işlemleri için her salı hesabınıza eklenir.",
+  "tradeback@true": "Tradeback'i kabul et",
+  "tradeback@false": "Tradeback'i reddet",
+  "tradeback@submit": "Değişiklikleri kaydet"
 }

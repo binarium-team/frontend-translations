@@ -486,7 +486,7 @@
   "menu_quit": "crwdns20401:0crwdne20401:0",
   "menu_about": "crwdns23257:0crwdne23257:0",
   "menu_account-types": "crwdns20402:0crwdne20402:0",
-  "menu_tradeback": "crwdns30678:0crwdne30678:0",
+  "menu_tradeback": "crwdns30718:0crwdne30718:0",
   "footer_chat": "crwdns20404:0crwdne20404:0",
   "footer_skype": "crwdns20406:0crwdne20406:0",
   "risk-warning": "crwdns27496:0crwdne27496:0",
@@ -921,8 +921,8 @@
   "tr@vip-text": "crwdns30604:0crwdne30604:0",
   "tr@vip-list": "crwdns30572:0crwdne30572:0",
   "tr@popular": "crwdns30584:0crwdne30584:0",
-  "tradeback@text": "crwdns30680:0crwdne30680:0",
-  "tradeback@true": "crwdns30682:0crwdne30682:0",
-  "tradeback@false": "crwdns30684:0crwdne30684:0",
-  "tradeback@submit": "crwdns30686:0crwdne30686:0"
+  "tradeback@text": "crwdns30720:0crwdne30720:0",
+  "tradeback@true": "crwdns30722:0crwdne30722:0",
+  "tradeback@false": "crwdns30724:0crwdne30724:0",
+  "tradeback@submit": "crwdns30726:0crwdne30726:0"
 }

@@ -486,7 +486,7 @@
   "menu_quit": "Keluar",
   "menu_about": "Tentang perusahaan",
   "menu_account-types": "Jenis akun",
-  "menu_tradeback": "Отказ от трейдбека",
+  "menu_tradeback": "Opsi tradeback",
   "footer_chat": "Chat online",
   "footer_skype": "binarium.com",
   "risk-warning": "<p><strong>Pengungkapan risiko.</strong> Melakukan kegiatan trading di platform Binarium melibatkan risiko kerugian signifikan atas modal. Mohon dibaca dengan seksama mengenai kondisi trading secara umum di situs web kami sebelum melakukan investasi apa pun. Anda memiliki hak pribadi, atas penggunaan informasi non-komersil yang ada di situs ini. Hak menggunakannya bersifat terbatas, bukan eksklusif. Aktivitas perusahaan dilakukan di luar wilayah Federasi Rusia.</p>",
@@ -921,8 +921,8 @@
   "tr@vip-text": "Lakukan deposit<br> paling sedikit $5000, €5000 atau ₽300,000 ke akun Anda",
   "tr@vip-list": "<li>Manajer pribadi Anda</li><li>Memberi penjelasan rinci di setiap sinyal</li><li>Trading yang masa berlakunya lebih dari 1 hari</li><li>Trading berdasarkan berita dan kejadian global terkini</li><li>Pelatihan trading</li>",
   "tr@popular": "Pilihan populer",
-  "tradeback@text": "Binarium поддерживает своих пользователей и возмещает часть убыточных сделок. Трейдбек — это инструмент по возмещению части сделок трейдера. Трейдбек начисляется за предыдущую неделю и поступает на счет каждый вторник.",
-  "tradeback@true": "Получать трейдбек",
-  "tradeback@false": "Не получать трейдбек",
-  "tradeback@submit": "Сохранить изменения"
+  "tradeback@text": "Binarium mendukung para penggunanya dengan memberikan kompensasi untuk sebagian dari kerugian mereka. Tradeback adalah alat untuk mengganti kerugian dalam perdagangan Anda. Transaksi minggu sebelumnya akan dikreditkan ke akun Anda pada hari Selasa.",
+  "tradeback@true": "Terima tradeback",
+  "tradeback@false": "Tolak tradeback",
+  "tradeback@submit": "Simpan perubahan"
 }
