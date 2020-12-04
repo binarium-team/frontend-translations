@@ -486,7 +486,7 @@
   "menu_quit": "Salir",
   "menu_about": "Acerca de la empresa",
   "menu_account-types": "Tipos de cuenta",
-  "menu_tradeback": "Tradeback options",
+  "menu_tradeback": "Opciones de tradeback",
   "footer_chat": "Chat en línea",
   "footer_skype": "binarium.com",
   "risk-warning": "<p><strong>Aviso de riesgo.</strong> Las operaciones de trading realizadas en la plataforma Binarium implican un riesgo significativo de pérdida de capital. Por favor, lea cuidadosamente las condiciones generales de trading en nuestro sitio web antes de realizar cualquier inversión. Se le concede el derecho de uso personal y no comercial de la información ubicada en este sitio. El derecho de uso es limitado, no exclusivo. Las actividades de la empresa se realizan fuera de la Federación Rusa.</p>",
@@ -921,8 +921,8 @@
   "tr@vip-text": "Haga un depósito de<br> al menos $5000, €5000 o ₽300,000 en su cuenta",
   "tr@vip-list": "<li>Su propio gestor personal</li><li>Comentarios detallados sobre cada señal</li><li>Operaciones con tiempo de expiración de más de 1 día</li><li>Trading basado en las últimas noticias y eventos mundiales</li><li>Capacitación sobre trading</li>",
   "tr@popular": "Opción más elegida",
-  "tradeback@text": "Binarium supports its users by compensating part of their losses. Tradeback is a tool to recoup part of your losing trades. It's credited to your account every Tuesday for the previous week's transactions.",
-  "tradeback@true": "Accept tradeback",
-  "tradeback@false": "Decline tradeback",
-  "tradeback@submit": "Save changes"
+  "tradeback@text": "Para apoyar a sus usuarios, Binarium les reintegra parte de sus pérdidas. El tradeback es una herramienta para recuperar parte de sus transacciones deficitarias. Cada martes se acredita en su cuenta lo correspondiente a las transacciones de la semana anterior.",
+  "tradeback@true": "Aceptar tradeback",
+  "tradeback@false": "Rechazar tradeback",
+  "tradeback@submit": "Guardar cambios"
 }
