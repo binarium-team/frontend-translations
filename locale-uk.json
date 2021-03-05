@@ -1016,9 +1016,10 @@
   "BG6265@profit-3-text": "Компенсируем убытки за сделки",
   "BG6265@home_agree": "Я принимаю",
   "BG6265@home_agree-with-conditions": "условия соглашения",
-  "avatar@change": "Изменить",
-  "avatar@error": "Не удалось загрузить файл",
-  "avatar@delete": "Удалить",
-  "avatar@add": "Добавить аватар",
-  "avatar@save": "Сохранить"
+  "avatar@change": "Змінити",
+  "avatar@error": "Не вдалося завантажити файл",
+  "avatar@delete": "Видалити",
+  "avatar@add": "Додати аватар",
+  "avatar@save": "Зберегти",
+  "var_support@email": "support@binarium.com"
 }
