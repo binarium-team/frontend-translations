@@ -1015,5 +1015,10 @@
   "BG6265@profit-3-title": "سودآوری <br> تجارتی",
   "BG6265@profit-3-text": "بازپرداخت معاملات بدون سود",
   "BG6265@home_agree": "می پذیرم",
-  "BG6265@home_agree-with-conditions": "قرارداد شرایط و ضوابط خدمات"
+  "BG6265@home_agree-with-conditions": "قرارداد شرایط و ضوابط خدمات",
+  "avatar@change": "Change",
+  "avatar@error": "File uploading error",
+  "avatar@delete": "Delete",
+  "avatar@add": "Add avatar",
+  "avatar@save": "Save"
 }
