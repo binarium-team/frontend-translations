@@ -1020,5 +1020,6 @@
   "avatar@error": "File uploading error",
   "avatar@delete": "Delete",
   "avatar@add": "Add avatar",
-  "avatar@save": "Save"
+  "avatar@save": "Save",
+  "var_support@email": "support@binarium.com"
 }
