@@ -1016,9 +1016,9 @@
   "BG6265@profit-3-text": "بازپرداخت معاملات بدون سود",
   "BG6265@home_agree": "می پذیرم",
   "BG6265@home_agree-with-conditions": "قرارداد شرایط و ضوابط خدمات",
-  "avatar@change": "Change",
-  "avatar@error": "File uploading error",
-  "avatar@delete": "Delete",
-  "avatar@add": "Add avatar",
-  "avatar@save": "Save"
+  "avatar@change": "تغییر دادن",
+  "avatar@error": "خطای آپلود فایل",
+  "avatar@delete": "حذف",
+  "avatar@add": "اضافه کردن آواتار",
+  "avatar@save": "ذخیره"
 }
