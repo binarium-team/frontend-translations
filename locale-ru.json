@@ -1015,5 +1015,10 @@
     "BG6265@profit-3-title": "Выгодный<br>трейдбек",
     "BG6265@profit-3-text": "Компенсируем убытки за сделки",
     "BG6265@home_agree": "Я принимаю",
-    "BG6265@home_agree-with-conditions": "условия соглашения"
+    "BG6265@home_agree-with-conditions": "условия соглашения",
+    "avatar@change": "Изменить",
+    "avatar@error": "Не удалось загрузить файл",
+    "avatar@delete": "Удалить",
+    "avatar@add": "Добавить аватар",
+    "avatar@save": "Сохранить"
 }
