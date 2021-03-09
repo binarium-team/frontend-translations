@@ -1016,10 +1016,10 @@
   "BG6265@profit-3-text": "Reimbursement for unprofitable trades",
   "BG6265@home_agree": "I accept",
   "BG6265@home_agree-with-conditions": "the terms and conditions of the service agreement",
-  "avatar@change": "Change",
-  "avatar@error": "File uploading error",
-  "avatar@delete": "Delete",
-  "avatar@add": "Add avatar",
-  "avatar@save": "Save",
+  "avatar@change": "Cambiar",
+  "avatar@error": "Error al subir archivo",
+  "avatar@delete": "Eliminar",
+  "avatar@add": "Añadir avatar",
+  "avatar@save": "Guardar",
   "var_support@email": "support@binarium.com"
 }

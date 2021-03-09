@@ -1017,9 +1017,9 @@
   "BG6265@home_agree": "I accept",
   "BG6265@home_agree-with-conditions": "the terms and conditions of the service agreement",
   "avatar@change": "Thay đổi",
-  "avatar@error": "File uploading error",
-  "avatar@delete": "Delete",
-  "avatar@add": "Add avatar",
-  "avatar@save": "Save",
+  "avatar@error": "Lỗi tải lên tập tin",
+  "avatar@delete": "Xóa",
+  "avatar@add": "Thêm hình đại diện",
+  "avatar@save": "Lưu",
   "var_support@email": "support@binarium.com"
 }
