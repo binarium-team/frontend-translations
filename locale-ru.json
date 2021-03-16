@@ -95,6 +95,8 @@
   "deals-history_table-operation": "Операция",
   "deals-history_table-close": "Время закрытия",
   "deals-history_table-expiration": "Экспирация",
+  "deals-history__table-start-exp": "Старт и экспирация сделки",
+  "deals-history__table-open-close": "Котировка старта и экспирации",
   "deals-history_table-sum": "Сумма",
   "deals-history_table-income": "Доход",
   "deals-history_table-profit": "Прибыль",
