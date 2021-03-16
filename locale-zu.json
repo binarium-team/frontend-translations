@@ -1015,5 +1015,11 @@
   "BG6265@profit-3-title": "crwdns31064:0crwdne31064:0",
   "BG6265@profit-3-text": "crwdns31066:0crwdne31066:0",
   "BG6265@home_agree": "crwdns31068:0crwdne31068:0",
-  "BG6265@home_agree-with-conditions": "crwdns31070:0crwdne31070:0"
+  "BG6265@home_agree-with-conditions": "crwdns31070:0crwdne31070:0",
+  "avatar@change": "crwdns31682:0crwdne31682:0",
+  "avatar@error": "crwdns31684:0crwdne31684:0",
+  "avatar@delete": "crwdns31686:0crwdne31686:0",
+  "avatar@add": "crwdns31688:0crwdne31688:0",
+  "avatar@save": "crwdns31690:0crwdne31690:0",
+  "var_support@email": "crwdns31704:0crwdne31704:0"
 }
