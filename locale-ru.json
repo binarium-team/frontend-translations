@@ -880,7 +880,7 @@
   "currency@solid_try": "Турецкая лира (₺ — TRY)",
   "currency@solid_inr": "Индийская рупия (₹ — INR)",
   "currency@solid_jpy": "Японская йена (¥ — JPY)",
-  "currency@solid_btc": "Bitcoin (₹ — INR)",
+  "currency@solid_btc": "Bitcoin (₿ — BTC)",
   "currency@solid_ltc": "Litecoin (Ł — LTC)",
   "currency@solid_eth": "Ethereum (ETH)",
   "withdrawal-error@amount-limit": "Превышен лимит суммы вывода",
