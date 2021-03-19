@@ -1028,5 +1028,7 @@
     "avatar@delete": "Удалить",
     "avatar@add": "Добавить аватар",
     "avatar@save": "Сохранить",
-    "var_support@email": "support@binarium.com"
+    "var_support@email": "support@binarium.com",
+    "binary-cap": "5+ мин.",
+    "turbo-cap": "1—5 мин."
 }
