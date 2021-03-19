@@ -101,8 +101,8 @@
   "deals-history_table-income": "Доход",
   "deals-history_table-profit": "Прибыль",
   "deals-history_filter-deposits-all": "Все oпционы",
-  "deals-history_filter-deposits-turbo": "Турбо",
-  "deals-history_filter-deposits-binary": "Бинарные",
+  "deals-history_filter-deposits-turbo": "1—5 мин.",
+  "deals-history_filter-deposits-binary": "5+ мин.",
   "deals-history_filter-assets-all": "Все активы",
   "faq_title": "Вопросы и ответы",
   "faq_help": "Помощь и поддержка:",
@@ -1028,7 +1028,5 @@
     "avatar@delete": "Удалить",
     "avatar@add": "Добавить аватар",
     "avatar@save": "Сохранить",
-    "var_support@email": "support@binarium.com",
-    "binary-cap": "5+ мин.",
-    "turbo-cap": "1—5 мин."
+    "var_support@email": "support@binarium.com"
 }
