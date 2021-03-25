@@ -350,7 +350,7 @@
   "profile_social-on": "接続完了",
   "profile_social-setup": "接続",
   "profile_change": "変更",
-  "profile_warning": "Editable information is found in fields that can be changed.<br><br>If for any reason you want to change information that has been locked, then please get in touch with our support service: <a href=\"mailto:support@binarium.com\">support@binarium.com</a>",
+  "profile_warning": "編集可能な情報は、変更可能な欄に表示されています。<br><br>何らかの理由でロックされている情報を変更する希望がある場合は、当社のカスタマーサポートまでお問い合わせください：<a href=\"mailto:support@binarium.com\">support@binarium.com</a>",
   "profile_confirm-warning": "Check your mail. We sent a message to the specified address with a confirmation link that you must click.",
   "profile_email-not-confirmed": "Not confirmed",
   "profile_email-confirmed": "Confirmed",
