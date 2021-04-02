@@ -96,7 +96,7 @@
   "deals-history_table-close": "終了時",
   "deals-history_table-expiration": "有効期限",
   "deals-history__table-start-exp": "取引の開始と終了",
-  "deals-history__table-open-close": "Quotation at start and expiration",
+  "deals-history__table-open-close": "開始時と満了時の提示価格",
   "deals-history_table-sum": "金額",
   "deals-history_table-income": "収入",
   "deals-history_table-profit": "利益",
