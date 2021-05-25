@@ -1,855 +1,853 @@
-"Identifier","Source String/Translation"
-"about_title","Trading platform Binarium provides professional services since 2012. The experience, accumulated during the work, allowed the company to supply traders from all corners of the world with everything that is necessary for comfortable trading."
-"about_advantage-1","Modern trading platform"
-"about_advantage-2","Innovative technological infrastructure "
-"about_advantage-3","Comprehensive training<br>base"
-"about_advantage-4","Qualified customer support"
-"about_text-1","The intuitively accessible interface of our platform and site will allow you to understand the underlying nuances of trading in the shortest possible time. Even a novice investor will not experience problems with the adaptation to the new trading floor."
-"about_text-2","Withdrawal applications are processed promptly, and the advanced trading platform is regularly updated, which allows the immediate opening of transactions without gapping. Binarium is a client-oriented broker, so, first of all, everything is done for your comfort."
-"about_regnum","Registration number"
-"about_email","E-mail:"
-"about_phone","Contact number:"
-"about_phone-number","+357(22)052784"
-"asset-catalog_all","All assets"
-"asset-catalog_currencies","Currencies"
-"asset-catalog_cryptocurrencies","Cryptocurrencies"
-"asset-catalog_title","Asset catalog"
-"asset-catalog_start-trade","Start trading"
-"asset-catalog_session","Trading session"
-"asset-catalog_time-EUR/GBP","Monday — Friday 07:00 — 16:00 GMT"
-"asset-catalog_text-EUR/GBP","The ratio is in such an order: the exchange rate of the pound sterling (GBP) for the euro (EUR). EUR/GBP is a cross-rate where the accounting unit is the British pound (GBP)."
-"asset-catalog_time-EUR/USD","Monday — Friday 00:00 – 23:59 GMT"
-"asset-catalog_text-EUR/USD","Euro (currency symbol - EUR) is the official currency for 17 countries of the Eurozone. Besides, it is used in 9 other countries. Eurocurrency has the largest monetary base in the world, even greater than the US dollar. The EUR / USD currency pair is a direct quotation, where the payment for the European currency is made by the US dollar."
-"asset-catalog_time-GBP/USD","Monday — Friday 07:00 — 18:00 GMT"
-"asset-catalog_text-GBP/USD","The British pound or simply pound (currency symbol - GBP) is the national currency of the United Kingdom, as well as a legal mean of payment for the Falkland, St. Helena and Ascension Islands, as well as Tristan da Cunha and Gibraltar as UK overseas territories. This currency pair is a direct quotation, where the US dollar is the accounting unit."
-"asset-catalog_time-GBP/RUB","Monday — Friday 07:00 — 16:00 GMT"
-"asset-catalog_text-GBP/RUB","The British pound or simply pound (currency symbol - GBP) is the national currency of the United Kingdom, as well as a legal mean of payment for the Falkland, St. Helena and Ascension Islands, as well as Tristan da Cunha and Gibraltar as UK overseas territories. This currency pair is a direct quotation, where the Russian rouble is the accounting unit."
-"asset-catalog_time-NZD/USD","Monday — Friday 00:00 — 23:59 GMT"
-"asset-catalog_text-NZD/USD","The New Zealand dollar (currency symbol - NZD) is the official currency of New Zealand, Niue, Cook Islands, Tokelau, and Pitcairn. Also, this currency is called ""Kiwi"" - this is a kind of bird and one of the symbols of New Zealand. This currency pair is a direct quotation, where the US dollar (USD) is the accounting unit."
-"asset-catalog_time-USD/CHF","Monday — Friday 07:00 — 18:00 GMT"
-"asset-catalog_text-USD/CHF","Swiss franc (currency symbol - CHF) - is a payment instrument of Switzerland and Liechtenstein. Monetary units are issued by the central bank of Switzerland. Coins, unlike banknotes, are issued by the federal mint. This currency pair is an indirect quote (an indirect currency pair), which expresses the value of the national currency in the US dollar (USD)."
-"asset-catalog_time-EUR/RUB","Monday — Friday 07:00 — 16:00 GMT"
-"asset-catalog_text-EUR/RUB","Euro (currency symbol - EUR) is the official currency for 17 countries of the Eurozone. Besides, it is used in 9 other countries. Eurocurrency has the largest monetary base in the world, even greater than the US dollar. This currency pair is a direct quotation, where the payment for the European currency is made by the Russian rouble."
-"asset-catalog_time-GBP/JPY","Monday — Friday 00:00 — 23:59 GMT"
-"asset-catalog_text-GBP/JPY","The British pound or simply pound (currency symbol - GBP) is the national currency of the United Kingdom, as well as a legal mean of payment for the Falkland, St. Helena and Ascension Islands, as well as Tristan da Cunha and Gibraltar as UK overseas territories. This currency pair is a direct quotation, where the Japanese yen is the accounting unit."
-"asset-catalog_time-GBP/CHF","Monday — Friday 00:00 — 23:59 GMT"
-"asset-catalog_text-GBP/CHF","The British pound or simply pound (currency symbol - GBP) is the national currency of the United Kingdom, as well as a legal mean of payment for the Falkland, St. Helena and Ascension Islands, as well as Tristan da Cunha and Gibraltar as UK overseas territories. This currency pair is a direct quotation, where the Swiss franc is the accounting unit."
-"asset-catalog_time-AUD/CHF","Monday — Friday 00:00 — 23:59 GMT"
-"asset-catalog_text-AUD/CHF","The Australian dollar (AUD) is the fifth most traded currency in the world. The issuer is the Reserve Bank of Australia. It is actively used in currency exchange operations, as Australia maintains high-interest rates. Affected by the influence of trade relations with Japan, China, and the United States. Refers to ""commodity"" currencies, since the Australian economy depends heavily on the export of goods (in particular, gold and other metals). This currency pair is a direct quotation, where the Swiss franc is the accounting unit."
-"asset-catalog_time-EUR/CAD","Monday — Friday 00:00 — 23:59 GMT"
-"asset-catalog_text-EUR/CAD","Euro (currency symbol - EUR) is the official currency for 17 countries of the Eurozone. Besides, it is used in 9 other countries. Eurocurrency has the largest monetary base in the world, even greater than the US dollar. Theis currency pair is a direct quotation, where the payment for the European currency is made by the Canadian dollar."
-"asset-catalog_time-AUD/JPY","Monday — Friday 00:00 — 23:59 GMT"
-"asset-catalog_text-AUD/JPY","The Australian dollar (AUD) is the fifth most traded currency in the world. The issuer is the Reserve Bank of Australia. It is actively used in currency exchange operations, as Australia maintains high-interest rates. Affected by the influence of trade relations with Japan, China, and the United States. Refers to ""commodity"" currencies, since the Australian economy depends heavily on the export of goods (in particular, gold and other metals). This currency pair is a direct quotation, where the Japanese yen is the accounting unit."
-"asset-catalog_time-CAD/JPY","Monday — Friday 00:00 — 23:59 GMT"
-"asset-catalog_text-CAD/JPY","The Canadian dollar (CAD, ""Loonie"", ""Little Dollar"") is the world's seventh largest currency by trading volume. The issuer is the Bank of Canada. Affected by its neighbor - the US economy. Refers to ""commodity"" currencies, as the Canadian economy depends on the export of goods (in particular, energy, timber, oil). This currency pair is a direct quotation, where the Japanese yen is the accounting unit."
-"asset-catalog_time-AUD/NZD","Monday — Friday 00:00 — 23:59 GMT"
-"asset-catalog_text-AUD/NZD","The Australian dollar (AUD) is the fifth most traded currency in the world. The issuer is the Reserve Bank of Australia. It is actively used in currency exchange operations, as Australia maintains high-interest rates. Affected by the influence of trade relations with Japan, China, and the United States. Refers to ""commodity"" currencies, since the Australian economy depends heavily on the export of goods (in particular, gold and other metals). This currency pair is a direct quotation, where the New Zealand dollar is the accounting unit."
-"asset-catalog_time-EUR/AUD","Monday — Friday 00:00 — 23:59 GMT"
-"asset-catalog_text-EUR/AUD","Euro (currency symbol - EUR) is the official currency for 17 countries of the Eurozone. Besides, it is used in 9 other countries. Eurocurrency has the largest monetary base in the world, even greater than the US dollar. This currency pair is a direct quotation, where the payment for the European currency is made by the Australian dollar."
-"asset-catalog_time-GBP/CAD","Monday — Friday 00:00 — 23:59 GMT"
-"asset-catalog_text-GBP/CAD","The British pound or simply pound (currency symbol - GBP) is the national currency of the United Kingdom, as well as a legal mean of payment for the Falkland, St. Helena and Ascension Islands, as well as Tristan da Cunha and Gibraltar as UK overseas territories. This currency pair is a direct quotation, where the Canadian dollar is the accounting unit."
-"asset-catalog_time-NZD/JPY","Monday — Friday 00:00 — 23:59 GMT"
-"asset-catalog_text-NZD/JPY","The New Zealand dollar (currency symbol - NZD) is the official currency of New Zealand, Niue, Cook Islands, Tokelau, and Pitcairn. Also, this currency is called ""Kiwi"" - this is a kind of bird and one of the symbols of New Zealand. This currency pair is a direct quotation, where the Japanese yen is the accounting unit."
-"asset-catalog_time-AUD/CAD","Monday — Friday 00:00 — 23:59 GMT"
-"asset-catalog_text-AUD/CAD","The Australian dollar (AUD) is the fifth most traded currency in the world. The issuer is the Reserve Bank of Australia. It is actively used in currency exchange operations, as Australia maintains high-interest rates. Affected by the influence of trade relations with Japan, China, and the United States. Refers to ""commodity"" currencies, since the Australian economy depends heavily on the export of goods (in particular, gold and other metals). This currency pair is a direct quotation, where the Canadian dollar is the accounting unit."
-"asset-catalog_time-EUR/NZD","Monday — Friday 00:00 — 23:59 GMT"
-"asset-catalog_text-EUR/NZD","Euro (currency symbol - EUR) is the official currency for 17 countries of the Eurozone. Besides, it is used in 9 other countries. Eurocurrency has the largest monetary base in the world, even greater than the US dollar. This currency pair is a direct quotation, where the payment for the European currency is made by the New Zealand dollar."
-"asset-catalog_time-EUR/CHF","Monday — Friday 00:00 — 23:59 GMT"
-"asset-catalog_text-EUR/CHF","Euro (currency symbol - EUR) is the official currency for 17 countries of the Eurozone. Besides, it is used in 9 other countries. Eurocurrency has the largest monetary base in the world, even greater than the US dollar. This currency pair is a direct quotation, where the payment for the European currency is made by the Swiss franc."
-"asset-catalog_time-BTC/EUR","Monday — Sunday 00:00 — 23:59 GMT"
-"asset-catalog_text-BTC/EUR","Bitcoin (BTC) is an electronic crypto-currency. To date, Bitcoin is the most popular crypto-currency. This currency pair is a direct quotation, where the Euro is an accounting unit."
-"asset-catalog_time-BTC/USD","Monday — Sunday 00:00 — 23:59 GMT"
-"asset-catalog_text-BTC/USD","Bitcoin (BTC) is an electronic crypto-currency. To date, Bitcoin is the most popular crypto-currency. This currency pair is a direct quotation, where the US dollar is an accounting unit."
-"asset-catalog_time-BTC/GBP","Monday — Sunday 00:00 — 23:59 GMT"
-"asset-catalog_text-BTC/GBP","Bitcoin (BTC) is an electronic crypto-currency. To date, Bitcoin is the most popular crypto-currency. This currency pair is a direct quotation, where the British pound is an accounting unit."
-"calendar_monday","Mon"
-"calendar_tuesday","Tue"
-"calendar_wednesday","Wed"
-"calendar_thursday","Thu"
-"calendar_friday","Fri"
-"calendar_saturday","Sat"
-"calendar_sunday","Sun"
-"calendar_pick-a-year","Select year"
-"calendar_month-1","January"
-"calendar_month-2","February"
-"calendar_month-3","March"
-"calendar_month-4","April"
-"calendar_month-5","May"
-"calendar_month-6","June"
-"calendar_month-7","July"
-"calendar_month-8","August"
-"calendar_month-9","September"
-"calendar_month-10","October"
-"calendar_month-11","November"
-"calendar_month-12","December"
-"deals-history_title","Deals history"
-"deals-history_pick-an-option","Select an option type"
-"deals-history_pick-an-asset","Select asset"
-"deals-history_button","Apply"
-"deals-history_empty","Operations were not found for the selected period. Try changing or"
-"deals-history_reset","resetting"
-"deals-history_filters","filters"
-"deals-history_table-date","Date and time"
-"deals-history_table-asset","Asset"
-"deals-history_table-value","Value"
-"deals-history_table-operation","Operation"
-"deals-history_table-close","Closing time"
-"deals-history_table-expiration","Expiration"
-"deals-history__table-start-exp","Start and expiration of trade"
-"deals-history__table-open-close","Quotation at start and expiration"
-"deals-history_table-sum","Amount"
-"deals-history_table-income","Income"
-"deals-history_table-profit","Profit"
-"deals-history_filter-deposits-all","All options"
-"deals-history_filter-deposits-turbo","1—5 min"
-"deals-history_filter-deposits-binary","5+ min"
-"deals-history_filter-assets-all","All assets"
-"faq_title","Questions and answers"
-"faq_help","Help and support:"
-"faq_choose","Select a topic:"
-"forgot_title","Forgot your password?"
-"forgot_mail-sended-title","Instructions were sent"
-"forgot_mail-sended","A letter with further instructions on password recovery was sent to your mail! In case you did not receive the letter, please contact your manager, or support via <a class=""open-chat-button"">online chat</a> or by e-mail <a href=""mailto:support@binarium.com"">support@binarium.com</a>"
-"forgot_type-email","Specify e-mail for password recovery"
-"forgot_instruction","A letter with instructions for password recovery will be sent to your e-mail. If you do not remember the e-mail address you used to register - contact Binarium Support via <a class=""open-chat-button"">online chat</a> or e-mail <a href=""mailto:support@binarium.com"">support@binarium.com</a>"
-"forgot_button","Send"
-"forgot_input-email","Email"
-"home_tournament-header","Tournament"
-"home_tournament-label-1","Price"
-"home_tournament-label-2","Type"
-"home_tournament-type-pay","Pay"
-"home_tournament-type-free","Free"
-"home_tournament-prize-label","Prize fund"
-"home_tournament-prize-button","Participate"
-"home_tournament-default-button","Proceed "
-"home_tournament-default-title","New tournament is on it's way!"
-"home_tournament-default-info-1","Follow the news."
-"home_tournament-default-info-2","Participate and win!"
-"home_slogan-title-alt","Receive up to 60% more!"
-"home_slogan-text-alt","Fund your account right now and get a welcome bonus in the form of additional funds to your account of up to 60%."
-"home_slogan-header","Promotion"
-"home_slogan-title","Being a trader is now 100% more profitable!"
-"home_slogan-text","You top up your account — we double it. Don't be late!"
-"home_slogan-offer-valid","Оffer valid"
-"home_offer-deposit","Top up"
-"home_demo-banner-title","Demo Account"
-"home_demo-banner-preface","Unique opportunity:"
-"home_demo-banner-text-1","Master the platform without risking your money"
-"home_demo-banner-text-2","Experiment with trading assets without placing a deposit"
-"home_demo-banner-text-3","10000 USD/ 60000 RUB for unlimited practice"
-"home_demo-banner-button","Practice"
-"home_slogan","Receive 90% of the profit from each successful transaction"
-"home_button-login","Login"
-"home_button-register","Sign Up"
-"home_login-email-placeholder","Email"
-"home_login-password-placeholder","Password"
-"home_login-remember","Remember me"
-"home_login-remember-device","Remember me"
-"home_pick-a-currency","Currency"
-"home_pick-a-currency-dropdown","Select your account currency"
-"home_login-forgot","Forgot password?"
-"home_login-button","Login"
-"home_login-button-reg","Open an account<br>for free"
-"home_agree","I accept"
-"home_agree-with-conditions","terms and agreement"
-"home_agree-with-conditions-error","You must accept the agreement"
-"home_payments","Proven and fast withdrawal of funds"
-"home_socials","Social networks"
-"home-wallet_text","Almost done! Please select the account currency"
-"home-wallet_button","Start trading"
-"home-offer-banner_title","The offer is valid"
-"new-password_title","New password"
-"new-password_hint","Choose and set a new password"
-"new-password_success","Password successfully changed"
-"new-password_enter-password","New password"
-"new-password_repeat-password","Confirm password"
-"new-password_button","Save"
-"payments_title","Make a deposit"
-"payments_method","Choose a method of deposit"
-"payments_requisites","Enter the details of the payment system"
-"payments_enter-requisite","Enter"
-"payments_no-bonus","No bonus"
-"payments_attribute-card_card","card number"
-"payments_attribute-card_phone","phone number"
-"payments_attribute-qiwi_phone","phone number"
-"payments_attribute-webmoney_customer_purse","Purse number"
-"payments_attribute-yandex_money_customer_purse","Purse number"
-"payments_attribute-neteller_customer_purse","Email or account ID"
-"payments_pick-sum","Select the amount of deposit"
-"payments_pick-phone-with-code","Enter a phone number including the country code"
-"payments_pick-own-sum1","Want to pick up you own amount?"
-"payments_pick-own-sum2","Use the input field"
-"payments_popular-choice","Popular choice"
-"payments_system-loading","Loading payment system"
-"payments_bonus","Bonus"
-"payments_success-title","Deposit successful"
-"payments_success-body","Thank you! Your deposit has been deposited to your account.<br><br>This message will close automatically. If this does not happen, click the button:"
-"payments_success-button","Continue"
-"payments_fail-title","Error"
-"payments_fail-body","An error occurred during the process. Please go back to the payment form, and try again:<br><br>This message will close automatically. If this does not happen, click the button:"
-"payments_fail-button","Back"
-"payments_error-empty-sum","Enter the amount of the deposit"
-"payments_error-min-sum","Minimal deposit {{min}}."
-"payments_error-max-sum","Maximal deposit {{max}}."
-"payments_error-promotion","Promotion is not available"
-"payments_error-promotion-expired","Promotion expired"
-"payments_error-promotion-range","The bonus is valid for deposits from {{min}} to {{max}}. If you wish to top up another amount, please delete the promo code"
-"payments_error-promotion-max","Maximum amount to activate promo code {{max}}"
-"payments_error-promotion-min","Minimum amount to activate promo code {{min}}"
-"payments_error-promotion-type-1","Available only for the first deposit"
-"payments_error-promotion-type-2","Available only for the second and subsequent deposits"
-"payments_total-pay","Amount to be paid"
-"payments_total-deposit","Receive on account"
-"payments_deposit-button","Make a deposit"
-"payments_promo","I have promo code"
-"payments_disable-bonus","Don't receive bonus"
-"payments_hint-title","What is a bonus?"
-"payments_bonus-usage-title","Bonus items"
-"payments_bonus-usage-text1","Bonus is additional funds that are provided by the company to increase the trading potential of traders"
-"payments_bonus-usage-text2","When making a deposit, a certain amount of bonus money may be credited to your account, size of bonus depends on the size of your deposit."
-"payments_bonus-usage-text3","The bonus does not limit the amount of funds that you can withdraw: you can withdraw your profits at any time as well as the amount of your deposit. Please note that when withdrawing funds, all bonus funds that were not used in trades with a x40 turnover will be assigned inactive status and will be debited from your account."
-"payments_hint-preface","Bonus is additional funds that are provided by the company to increase the trading potential of traders."
-"payments_hint-open-button","Learn More"
-"payments_hint-close-button","Hide"
-"payments_hint-text","When making a deposit, a certain amount of bonus money may be credited to your account, size of bonus depends on the size of your deposit. The bonus does not limit the withdrawal of funds - you can withdraw profit, as well as the amount of your deposit, at any time. However, in case you withdraw part of the deposit, the unused bonus is canceled, as these funds are an addition to your deposit. To withdraw bonus funds, the turnover (the sum of all transactions, both profitable and unprofitable) must equal to the bonus multiplied by 30. The turnover starts to be calculated immediately after the bonus funds are credited. When opening transactions, we're using real funds firstly, and only then bonus ones. If the deposit had to be carried out in parts because of the limitations of payment systems, please contact support to get a total bonus. The bonus is not obligatory. You can refuse it."
-"payments-method_card","Visa/Mastercard"
-"payments-method_qiwi","Qiwi"
-"payments-method_qiwi_ecom","Qiwi"
-"payments-method_yandex_money_ecom","Yandex money"
-"payments-method_webmoney_1gp","WebMoney"
-"payments-method_alfaclick_1gp","Alfaclick"
-"payments-method_mobile_commerce_1gp","Mobile commerce"
-"payments_bonus_total","Together with the selected deposit you will receive a <span>bonus in the amount of:</span>"
-"payments-bonus_total-hint","to the account"
-"profile_personal","Personal Information"
-"profile_name","Name"
-"profile_surname","Surname"
-"profile_nickname","Nickname"
-"profile_birthday","Date of Birth"
-"profile_gender","Gender"
-"profile_gender-female","Female"
-"profile_gender-male","Male"
-"profile_contacts","Contacts"
-"profile_email","E-mail"
-"profile_email-hint","To set up or change an email address, contact our support"
-"profile_phone","Phone"
-"profile_country","Country"
-"profile_timezone","Time Zone"
-"profile_address","Address"
-"profile_pick-a-country","Choose country"
-"profile_pick-a-timezone","Select time zone"
-"profile_email-changing","Change password"
-"profile_current-password","Current password"
-"profile_new-password","New password"
-"profile_repeat-password","Confirm password"
-"profile_error-passwords-not-same","Password and password confirmation do not match"
-"profile_password_changed","Password successfully changed"
-"profile_button-saved","Saved!"
-"profile_button-save","Save"
-"profile_social","Link a profile to social networks"
-"profile_social-on","Linked"
-"profile_social-setup","Link"
-"profile_change","Change"
-"profile_warning","Editable information is found in fields that can be changed.<br><br>If for any reason you want to change information that has been locked, then please get in touch with our support service: <a href=""mailto:support@binarium.com"">support@binarium.com</a>"
-"profile_confirm-warning","Check your mail. We sent a message to the specified address with a confirmation link that you must click."
-"profile_email-not-confirmed","Not confirmed"
-"profile_email-confirmed","Confirmed"
-"profile_subscribe","Receive information about bonuses and important events of the company"
-"tools_title","Trading sessions"
-"tools_choose","Select time zone:"
-"tools_table-region","Region"
-"tools_table-center","Financial centers"
-"tools_table-open-time","Opening time"
-"tools_table-close-time","Closing time"
-"tools_region-1","Asia"
-"tools_region-2","Europe"
-"tools_region-3","America"
-"tools_region-4","Oceania"
-"tools_region-1-city-1","Tokyo"
-"tools_region-1-city-2","Hong Kong"
-"tools_region-1-city-3","Singapore"
-"tools_region-2-city-1","Frankfurt"
-"tools_region-2-city-2","London"
-"tools_region-3-city-1","New York"
-"tools_region-3-city-2","Chicago"
-"tools_region-4-city-1","Wellington"
-"tools_region-4-city-2","Sydney"
-"transactions_title","Transaction history"
-"transactions_pick-a-type","Choose type"
-"transactions_pick-a-status","Choose status"
-"transactions_button-submit","Apply"
-"transactions_result-not-found","Operations were not found for the selected period. Try to change or"
-"transactions_result-reset","reset values of the"
-"transactions_result-filters","filters"
-"transactions_table-date","Date and time"
-"transactions_table-type","Transaction type"
-"transactions_table-system","Payment system"
-"transactions_table-amount","Amount"
-"transactions_table-status","Status"
-"transactions_status-any","Any status"
-"transactions_status-process","In process"
-"transactions_status-new","New"
-"transactions_status-rejected","Disapproved"
-"transactions_status-success","Successful"
-"transactions_status-fail","Failed"
-"transactions_status-cancelled","Canceled"
-"transactions_comments-insufficient","Insufficient funds"
-"transactions_cancelled-by-user","Canceled by user"
-"transactions_requisites-overlap","Deposit and withdrawal requisites must coincide"
-"transactions_time-limit","Exceeded withdrawal request limit on your account type"
-"transactions_method-unavailable","The selected payment method is not available. Please choose another payment method or try again later."
-"transactions_refunded","Refund"
-"transactions_verification-required","Verification required"
-"transactions_cancel-button","Cancel"
-"transactions_type-all","All operations"
-"transactions_type-deposit","Deposit"
-"transactions_type-withdrawal","Withdrawal"
-"transactions_type-bonus-deposit","Bonus deposit"
-"transactions_type-bonus-withdrawal","Bonus withdrawal"
-"transactions_type-deposit-bonus","Enrolling the bonus"
-"transactions_type-compensation","Compensation"
-"transactions_type-tournament-participation","Tournament participation"
-"transactions_type-tournament-cancelled","Tournament cancellation"
-"transactions_type-tournament-prize","Tournament prize"
-"transactions_type-enrolling-freespins","Enrolling free spins"
-"transactions_type-transfer-freespins","Freespin value transition"
-"transaction_type-no-turnover","Insufficient trading turnover. <span class""action-faq"">Learn more</span>."
-"transaction_instruction","Instruction"
-"transactions_type-tradeback","Tradeback"
-"withdrawal_title","Withdrawal of funds"
-"withdrawal_success-title","Operation was successful"
-"withdrawal_success-body","The withdrawal request was successfuly sent.<br><br>This message will close automatically. If this does not happen, click the button:"
-"withdrawal_success-button","Continue"
-"withdrawal_fail-title","Error"
-"withdrawal_fail-body","An error occurred during the process. Please go back to the withdrawal form, and try again:<br><br>This message will close automatically. If this does not happen, click the button:"
-"withdrawal_fail-button","Back"
-"withdrawal_label-amount","Amount of payment"
-"withdrawal_error-empty-amount","Enter withdraw amount"
-"withdrawal_error-pattern-phone","Incorrect phone format"
-"withdrawal_error-pattern-card","Incorrect format"
-"withdrawal_error-pattern-customer_purse","Incorrect format"
-"withdrawal_error-required","This value should not be blank"
-"withdrawal_error-method-required","Payment method is required"
-"withdrawal_error-sum-balance-limit","Insufficient funds."
-"withdrawal_error-sum-bonus-limit","Insufficient funds. Real funds: {{ real }}, Bonus funds: {{ bonus }}, to withdraw bonus please make {{ wager }} turnover."
-"withdrawal_error-sum-max-limit","This value should be {{ limit }} or less"
-"withdrawal_error-sum-min-limit","This value should be {{ limit }} or more"
-"withdrawal_hint-title","Your application will be processed within 24 hours from the moment of registration."
-"withdrawal_hint-text","If the application was issued outside the working hours of company’s financial department, it will be processed within the next working day."
-"withdrawal_method","Funds withdrawal method"
-"withdrawal_pick-a-method","Choose payment method"
-"withdrawal_submit-button","Withdraw funds"
-"withdrawal_pick-a-country","Choose country"
-"withdrawal_limit-text","The withdrawal limit for your <span class=""open-act-button"">account type</span> has been exceeded"
-"withdrawal@limit-with-counter","The fund withdrawal limit has been exceeded.<br>Your <span class=""open-act-button"">account type</span> allows {{limitCount}} requests totaling {{limitAmount}}.<br>You can make another request in {{limitTime}}."
-"menu_terminal","Trading"
-"menu_education","Education"
-"menu_asset-catalog","Asset catalog"
-"menu_faq","FAQ"
-"menu_trading-room","Trading room"
-"menu_sessions","Trading sessions"
-"menu_banner","Bonus on the first deposit from"
-"menu_company","Company"
-"menu_client-agreement","Client agreement"
-"menu_privacy","Privacy"
-"menu_partners","For partners"
-"menu_payments","Bank"
-"menu_deposit","Deposit"
-"menu_deposit-short","Deposit"
-"menu_withdrawal","Withdrawal"
-"menu_transactions-history","Transaction history"
-"menu_transactions-history-hort","Transactions"
-"menu_profile-settings","Profile"
-"menu_profile","User profile"
-"menu_profile-personal","Personal Information"
-"menu_profile-contacts","Contacts"
-"menu_profile-security","Security"
-"menu_trading-history","Trading history"
-"menu_quit","Exit"
-"menu_about","About company"
-"menu_account-types","Account types"
-"menu_tradeback","Tradeback options"
-"footer_chat","Online chat"
-"footer_skype","binarium.com"
-"risk-warning","<p><strong>Risk disclosure.</strong> Trading operations made on Binarium platform involve a significant risk of loss of a capital. Please, read carefully the general trading conditions on our website before making any investments. You are given the right of personal, non-commercial use of the information located on this site. The right to use is limited, not exclusive. The company's activities are conducted outside the Russian Federation.</p>"
-"risk-warning-2","<p>For more information, please contact customer support: <a href=""mailto:support@binarium.com"">support@binarium.com</a> or +357(22)052784, +44(203)6957705</p>"
-"contacts_address","BINARIUM LIMITED St. Vincent and the Grenadines, Suite 305, Griffin Corporate Centre, P.O. Box 1510, Beachmont, Kingstown, St. Vincent and the Grenadines. 1599 СTD 2016."
-"contacts_phone","+357(22)052784, +44(203)6957705"
-"contacts_skype","Binarium"
-"copyright","© 2010–2018 Binarium"
-"preloader","Loading..."
-"main_company","Binarium"
-"main-confirmation_success","Account has been successfully confirmed!"
-"terminal_connecting","Connecting..."
-"choose_usd","US Dollar"
-"choose_rub","Russian rouble"
-"choose_eur","Euro"
-"de1e3db3-5ed4-4941-aae4-59f3667cc3a3","This value is not valid"
-"23bd9dbf-6b9b-41cd-a99e-4844bcf3077f","This email is already used"
-"889954f14a3839c141bd8d5102094fbb","This value is already used"
-"bd79c0ab-ddba-46cc-a703-a7a4b08de310","This value is not a valid email address"
-"bf447c1c-0266-4e10-9c6c-573df282e413","This value is not a valid email address"
-"7da53a8b-56f3-4288-bb3e-ee9ede4ef9a1","This value is not a valid email address"
-"c1051bb4-d103-4f74-8988-acbcafc7fdc3","This value should not be blank"
-"9ff3fdc4-b214-49db-8718-39c315e33d45","This value is too short. It should have  {{ limit }}  characters or more"
-"d94b19cc-114f-4f44-9cc4-4138e80a87b9","This value is too long. It should have {{ limit }}  characters or less"
-"478618a7-95ba-473d-9101-cabd45e49115","This value should be equal to {{ compared_value }}."
-"4dba5f9c79ae34be5884e1a3c8c45e92","Incorrect username or password"
-"3e5af93fb888b4aa77301a7603e113d5","Incorrect password"
-"2d28afcb-e32e-45fb-a815-01c431a86a69","This value should be {{limit}} or less"
-"76454e69-502c-46c5-9643-f447d837c4d5","This value should be {{limit}} or more"
-"ad32d13f-c3d4-423b-909a-857b961eb720","This value should not be null."
-"8e179f1b-97aa-4560-a02f-2a8b42e49df7","The value you selected is not a valid choice"
-"853ff54c1a66d1a2379e0c46f8eb9ed4","Invalid requisite"
-"3ac1d32eb3c54e11ef9ea474da816ad6","Requisites  '{{ name }}' should be set"
-"661d3bc6c153e42a3658855010678cbd","Unknown requisites '{{ names }}'"
-"2d2ba82dd886ba3b69da804675842ff5","Bad payment method"
-"3c55616c0a7de9c064e6c2d86fa72bc2","Invalid expiry time"
-"f029308ab5f1672de0b7615c4fa33386","Asset is currently closed"
-"64fc8bbac184ae9dab80c8f592d1a6f7","You have exceeded available investment amount limit"
-"5561ccf1e94e6b9d88080bdbbcba1821","Insufficient funds"
-"f3a5b44d01097d966072b90187a16ec6","User not exists"
-"51fd5caf0ad30e6acb3a75b8b7f6d060","You are not allowed to change the status of processed request"
-"e2b542cacda91ab48e3679c2ab5dcccd","Authorization failed. For more details please contact our client support support@binarium.com"
-"49c5c5c04b86448073e0ad2d301f0c6b","Invalid confirmation token"
-"d5bf716058e9fbe0e6421f5b5411ba20","Token is invalid or expired"
-"e8ec85fce83f6b6e04bb49f438381427","Token is invalid or expired"
-"c8436b2478dc5fd6af15689a9d2810da","User is already confirmed"
-"d5e955d0cee0f4a7d9a479199c63de17","Promotion is inactive. Please, contact support."
-"eddb08702cbefa9884cef818628c974a","Promotion is not available"
-"bf599b567d8917869091c487340e2859","Available only for {{ type }}"
-"610aa76a6751508f0ceaf186be7b693c","Usage limit exceeded"
-"6a82075cde0a344289ae2cf6d0f73366","Unavailable for {{ currency }}"
-"22f18a313eb0d296133d98d76a148039","Already used"
-"4e4576a0a8e91e314950c51c0e31ff1d","Not started yet"
-"815d8681d42943165c03f84b46f9f05c","Expired"
-"74cb32e3f0b86ad10394c5b855630273","Maximum amount to activate promo code {{ limit }}"
-"571256386b4e6805e277369710f672c4","Minimum amount to activate promo code {{ limit }}"
-"677bde876b1abe32d86d79182e83bffb","Social account is already in use"
-"da02b2e252e8e33948721cc03b006d38","This email is already in use"
-"equaltoerror","Passwords must be equal"
-"passwordpattern","Value must include letters and digits"
-"error_date-period-order","Date ""From"" should be less than the date ""To"""
-"error-404_title","The page you specified was not found."
-"error-404_text","Please make sure that the link is correct or select the section you are interested in using the menu at the top of the site.<br><br>If this error occurred while loading one of the pages of the site, please report this to our customer support – <a href=""mailto:support@binarium.com"">support@binarium.com</a>"
-"error-429_title","The limit of the maximum possible server requests was exceeded."
-"error-429_text","Please try logging in to the platform in 15 minutes."
-"error-500_title","Server error"
-"error-500_text","At the moment, the server receives too many requests. Now we are dealing with this error and will restore the server’s performance in a flash! Thank you for your patience and understanding."
-"dummy_banned_country-title","Access to the site is restricted in your country"
-"dummy_banned_country-text","Your region has been determined by your IP address"
-"dummy_unsupported_browser-title","Sorry, your browser is not supported."
-"dummy_unsupported_browser-text","Try to update to the latest version or install one of the list"
-"dummy_unsupported_device-title","Sorry, your device is not supported."
-"dummy_unsupported_device-text","Try to open site from a desktop pc"
-"time_day","day"
-"landing_title","Profitable investment<br>platform "
-"landing_slogan","Register now and get USD 10000<br>on your demo account for free! Welcome<br>bonus on your first deposit up to USD 1500."
-"landing_security-1","Secured funds<br>in EU bank"
-"landing_security-2","Strict privacy policy"
-"landing_security-3","Established in 2012"
-"landing_platform-title","Simple and user-friendly<br>trading platform"
-"landing_platform-text","Having all the necessary features for<br>professionals, our trading platform is easily accessible<br>even for newcomers!"
-"landing_advantage-1-title","Free USD 10 000 demo account"
-"landing_advantage-1-text","Practice without any risk, using all the available features."
-"landing_advantage-2-title","Deposit from USD 5"
-"landing_advantage-2-text","Affordable start without any large investments."
-"landing_advantage-3-title","Trades from USD 1"
-"landing_advantage-3-text","Test trading strategies without the risk of loosing large amount of money."
-"landing_advantage-4-title","12 trading indicators "
-"landing_advantage-4-text","Use popular trading indicators without breaking away from trade."
-"landing_payments-title","Top up and money withdrawal"
-"landing_payments-advantage-1-title","Secured transactions with 3D Secure"
-"landing_payments-advantage-1-text","Your credit card details will always be protected."
-"landing_payments-advantage-2-title","Wide range of payment systems "
-"landing_payments-advantage-2-text","Top up and withdraw money from your account in any suitable way."
-"landing_payments-advantage-3-title","No hidden commissions"
-"landing_payments-advantage-3-text","Don't be scared of high commissions of the payment systems, we cover them for you!"
-"landing_payments-advantage-4-title","Quick money withdrawal"
-"landing_payments-advantage-4-text","Use immediate withdrawal option and spend money as of today!"
-"landing_bonus-message","Congrats! You have received<br>100% bonus. We wish you<br>a profitable trading.<br><br>Binarium team"
-"landing_bonus-title","Get 100% bonus on your<br>first deposit!"
-"landing_bonus-text","Binarium always supports your determination with a special<br>bonus on your first deposit. Get 100% bonus on your<br>first deposit over USD 50 following 3 simple steps."
-"landing_bonus-button","Get Bonus"
-"landing_bonus-steps-title","How does it work?"
-"landing_bonus-step-1-title","Registration"
-"landing_bonus-step-1-text","It will take less<br>than 15 seconds of your time."
-"landing_bonus-step-2-title","Deposit"
-"landing_bonus-step-2-text","Top up your account<br>from USD 50 and more."
-"landing_bonus-step-3-title","100% bonus"
-"landing_bonus-step-3-text","Get your bonus<br>and start trading!"
-"landing_contact-us","Contact us"
-"payments-promo_title","Welcome bonus"
-"payments-promo_heading-1","Deposit from 30 $ now<br>and get a special bonus!"
-"payments-promo_heading-2","Deposit from 30 € now<br>and get a special bonus!"
-"payments-promo_heading-3","Deposit from 1500 ₽ now<br>and get a special bonus!"
-"payments-promo_button","Get bonus"
-"payments-freespins","Risk free trades"
-"payments-promo_code","Promo code"
-"payments-promo_copy","copy"
-"payments-step","Step"
-"payments-promo_footer-1","Offer is available for first deposit from 30 $ to 500 $.<br>The received bonus does not limit the withdrawal of funds from your account."
-"payments-promo_footer-2","Offer is available for first deposit from 30 € to 500 €.<br>The received bonus does not limit the withdrawal of funds from your account."
-"payments-promo_footer-3","Offer is available for first deposit from 1500 ₽ to 30000 ₽.<br>The received bonus does not limit the withdrawal of funds from your account."
-"welcome_title","Complete the registration <span class=""nobr""> and get</span> your welcome bonus"
-"welcome_advantage-1","Security of funds <span class=""nobr""> in Europen</span> bank"
-"welcome_advantage-2","Privacy Policy"
-"welcome_advantage-3","Providing services <span class=""nobr"">since 2012</span>"
-"welcome_advantage-4","Secure SSL certificate protection"
-"welcome_point-1-title","Fill in the empty fields and get a bonus"
-"welcome_point-1-title-all","Fill in all the empty fields and get a bonus"
-"welcome_point-1-text","By filling in all the empty fields you confirm your identity."
-"welcome_point-2-title","Activate the bonus"
-"welcome_point-2-text","First Deposit bonus doubles the amount on your account."
-"welcome_point-3-title","Choose account type and start trading"
-"welcome_point-3-text","Opening a real trading account you can use your demo account for free."
-"welcome_bonus-yes","100% bonus on first deposit"
-"welcome_bonus-no","I don't want to use the bonus"
-"welcome_button-demo","Open<br>demo account"
-"welcome_button-real","Start"
-"welcome_button-start-trading","Start trading"
-"welcome_demo-value-1","Free 1000$ for training"
-"welcome_demo-value-2","Free 1000€ for training"
-"welcome_demo-value-3","Free 60000₽ for training"
-"welcome_real-value-1","Minimum 10$ deposit."
-"welcome_real-value-2","Minimum 10€ deposit."
-"welcome_real-value-3","Minimum 600₽ deposit."
-"welcome_real-bonus-value-1","100% bonus starting from 30$"
-"welcome_real-bonus-value-2","100% bonus starting from 30€,"
-"welcome_real-bonus-value-3","100% bonus starting from USD 50"
-"welcome_form-required","You are required to fill in all the requested fields."
-"welcome_form-phone","Phone number (with a country code)"
-"welcome_form-phone-nocode","Phone number"
-"welcome_invalid-name-pattern","Incorrect name format"
-"welcome_invalid-name-length","Min length {{length}} symbols"
-"welcome_invalid-surname-pattern","Incorrect surname format"
-"welcome_invalid-phone-pattern","Incorrect phone format"
-"landing_traderoom-title","Trading room"
-"landing_traderoom-preface","Effective tool for working with the best platform traders online:"
-"landing_traderoom-icon-1","Effective trading<br>signals"
-"landing_traderoom-icon-2","Simple market<br>analytics"
-"landing_traderoom-icon-3","Exclusive<br>bonuses"
-"landing_traderoom-icon-4","The best traders on the platform"
-"landing_traderoom-button","Get access to the trading room"
-"landing_traderoom-deposit","Refill"
-"landing_traderoom-description","Trading room is available for clients with a minimum <span>{{ amount }}</span> balance on their account"
-"landing_traderoom-footer-1","If you have a questions, you can"
-"landing_traderoom-footer-2","write"
-"landing_traderoom-footer-3","in online support or call +357 (22) 052 784"
-"account-types_title","Account types"
-"account-types_base","Basic"
-"account-types_premium","Premium"
-"account-types_from","from"
-"account-types_title-0","Traders online-support"
-"account-types_body-0","Have a question? The trader is always ready to answer in Skype at any time of the day."
-"account-types_title-1","Basic training"
-"account-types_body-1","Start trading with a professional trader"
-"account-types_title-2","One beneficial trading strategy"
-"account-types_body-2","Trade simply and efficiently — personal selection of one most suitable strategy for you."
-"account-types_title-3","Analysis of your trades"
-"account-types_body-3","We will find the strengths and weaknesses in your trading, give useful recommendations for increasing the profitability of trades."
-"account-types_title-4","Сooperative trade one time a week"
-"account-types_body-4","You have a unique opportunity to open trades with a prof-trader one day a week- increase your profits and improve your skills."
-"account-types_title-5","One withdrawal of funds in a day"
-"account-types_title-6","Access to the trading room"
-"account-types_body-6","Just follow the trades of one of the best traders online, copy them and make a profit."
-"account-types_title-7","Increased bonus"
-"account-types_title-8","Risk-free trades"
-"account-types_title-9","Individual training"
-"account-types_body-9","Personal training course. One-on-one with trader on Skype at a convenient time for you."
-"account-types_title-10","Development of personal strategy"
-"account-types_body-10","The most profitable and comfortable trading strategy is developed together with you."
-"account-types_title-11","Сooperative trade three times a week"
-"account-types_body-11","You have a unique opportunity to open trades with a prof-trader three days a week- increase your profits and improve your skills."
-"account-types_title-12","Withdrawal of funds without limit"
-"account-types_button-base","Open basic"
-"account-types_button-premium","Open premium"
-"st_title","Strategies"
-"st_more","Detailed"
-"st_btn-use-strategy","Use strategy"
-"st_btn-use-indicator","Use indicator"
-"st_btn-start","Start trading"
-"st_popular","Popular"
-"ec_title","Economic calendar"
-"reg-success_close","Close"
-"home_button-close","Close"
-"reg-success_title","Successful registration"
-"reg-success_text","In order to complete your registration, please click the confirmation link in the email that we have sent to you."
-"reg-success_footer","If you have any questions please contact our client support:<br>+357 (22) 052784"
-"home_login-button-get-bonus","Get Bonus"
-"table-swipe","Please scroll left or right"
-"modal_close","Close"
-"gdpr_title","Your privacy is important to us"
-"gdpr_text","<p>We’re happy to announce that we’re in full compliance with GDPR meaning you get more control over data you shared with us and what we in turn to do with it.</p><p>To continue using our services in future please confirm you are consent for the processing of your personal data for any and all purposes and on all the conditions set forth in this Policy.</p><p>I have read the <a target=""_blank"" href=""/main/privacy"">Data Protection Policy</a> (hereinafter referred to as ""Policy"") on Your website https://binarium.com and I hereby present to the company BINARIUM LIMITED, HE 321566 (the ""Company"") my consent for the processing of my personal data for any and all purposes and on all the conditions set forth in this Policy.<br><br>I undertake to fulfill all the User`s obligations provided by the Policy including but not limited to the provision of an immediate notification to the Company if there are any changes to my personal data.</p>"
-"gdpr_disagree","I do not accept terms of private policy"
-"gdpr_agree","Agree and proceed"
-"strategy-cat_all","All"
-"strategy-cat_simple","Simple"
-"strategy-cat_basic","Basic"
-"strategy-cat_advanced","Advanced"
-"cookie-request_text","By continuing to use our site, you agree to our use of cookies that ensure its proper operation."
-"cookie-request_link","More"
-"cookie-request_button","OK"
-"landing-fast-trading_pin-1","Secured funds<br>in a EU bank"
-"landing-fast-trading_pin-2","Privacy policy<br>"
-"landing-fast-trading_pin-3","Providing services in the financial market<br>since 2012"
-"landing-fast-trading_title-text","<span>Earning money quickly</span> on the Binarium trading platform is very easy"
-"landing-fast-trading_title-button","Try now"
-"landing-fast-trading_tutorial-title","How can I earn money in 30 seconds?"
-"landing-fast-trading_tutorial-step-1-text-1","Select the future direction of the chart"
-"landing-fast-trading_tutorial-step-1-text-2","Top"
-"landing-fast-trading_tutorial-step-1-text-3","or"
-"landing-fast-trading_tutorial-step-1-text-4","Down"
-"landing-fast-trading_tutorial-step-2-text-1","In just a few seconds you will get"
-"landing-fast-trading_tutorial-step-2-text-2","up to 85% profit"
-"landing-fast-trading_reg-info","Try<br>now"
-"landing-fast-trading_platform-title","Profitable investment platform "
-"landing-fast-trading_platform-info-1-title","Free training<br> account with 1000$"
-"landing-fast-trading_platform-info-1-text","Practice without any risk, using all the available features of the platform."
-"landing-fast-trading_platform-info-2-title","Simple trading<br>platform"
-"landing-fast-trading_platform-info-2-text","The platform that will even help a newbie easily understand how trading works."
-"landing-fast-trading_platform-info-3-title","Free<br>training"
-"landing-fast-trading_platform-info-3-text","Individual classes, trading strategies, topical news."
-"landing-fast-trading_platform-info-4-title","Quick<br>money withdrawal"
-"landing-fast-trading_platform-info-4-text","Use the immediate withdrawal option and start spending money already today!"
-"landing-fast-trading_platform-aside-1-title","Minimum top-up"
-"landing-fast-trading_platform-aside-1-text","10$"
-"landing-fast-trading_platform-aside-2-title","Trading transactions from"
-"landing-fast-trading_platform-aside-2-text","1$"
-"landing-fast-trading_platform-aside-3-title","High profitability up to"
-"landing-fast-trading_platform-aside-3-text","85%"
-"landing-success-trading_pin-1","Secured funds<br>in a EU bank"
-"landing-success-trading_pin-2","Privacy<br>policy"
-"landing-success-trading_pin-3","Providing services in the financial market<br>since 2012"
-"landing-success-trading_slide-1-name","Paul Dubovik"
-"landing-success-trading_slide-1-position","entrepreneur, Moscow"
-"landing-success-trading_slide-1-text","I have several income sources - business with China, Internet projects, trading. And trading is my favorite. Everything is extremely simple - I start either a bear or bull transaction, and in less than a minute I make 75-85% profit.<br>I particularly enjoy the trading room - it became available to me immediately after I added a 200-dollar deposit. Binarium is the only trading platform that provides its users with truly independent and profitable signals in the trading room."
-"landing-success-trading_slide-2-name","Oksana Sumtsova"
-"landing-success-trading_slide-2-position","accountant, Perm"
-"landing-success-trading_slide-2-text","I trade on Binarium platform when I have free time at work. All you need to make it happen is a computer and an Internet connection. It didn't take me long to figure out how everything works, I completed training on the platform, reviewed a few strategies, and I now get regular income from trading - greater than my paycheck.<br><br>And after work, I only dedicate my time to household chores and my family - because to me, it's the most important thing."
-"landing-success-trading_slide-3-name","Anton Moroz"
-"landing-success-trading_slide-3-position","electrical engineer, Saratov"
-"landing-success-trading_slide-3-text","I have been working with Binarium for 5 years. During this time, I tried many other platforms - but only Binarium has been constantly improving and working at a stable pace all this time. Almost instantaneous withdrawals, bonuses for each deposit, and a large selection of tools.<br><br>I spend a few hours a week on the platform, and as a result I get a nice bonus to my salary. The Trends tool has also been recently introduced on the platform, and since then trading has become even easier. Technical analysis is carried out on the platform, and all I have to do is choose the strongest signals and start profitable transactions in one click."
-"landing-success-trading_slide-4-name","Igor Avdeev"
-"landing-success-trading_slide-4-position","programmer, Yekaterinburg"
-"landing-success-trading_slide-4-text","I have been interested in cryptocurrency for a while - even before it became mainstream. I am following the market, and I would really like to make money on exchange rate fluctuations, but I had some negative experience with one exchange platform where my money was pretty much stolen.<br><br>The most important thing for me at the moment is a large income in terms of cryptocurrency assets and money safety. Binarium offers the highest interest rates for cryptocurrencies, while ensuring safety of funds by a European bank. My knowledge of the market helps, and I regularly withdraw large amounts with no problem whatsoever."
-"landing-success-trading_platform-title","Profitable investment platform "
-"landing-success-trading_platform-1-title","High<br>profitability up to"
-"landing-success-trading_platform-2-title","Trading<br>transactions from"
-"landing-success-trading_platform-2-text","1$"
-"landing-success-trading_platform-3-title","Minimum<br>top-up"
-"landing-success-trading_platform-3-text","10$"
-"landing-success-trading_platform-4-title","Fast<br>transactions"
-"landing-success-trading_platform-4-text","1 min."
-"landing-success-trading_platform-5-title","Withdrawal<br>of funds"
-"landing-success-trading_platform-5-text","1 hour"
-"landing-success-trading_platform-6-title","Minimum<br>withdrawal amount"
-"landing-success-trading_platform-6-text","5$"
-"landing-success-trading_tutorial-title","<span>Trade successfully</span> on Binarium platform"
-"landing-success-trading_tutorial-step-1-title","Select asset"
-"landing-success-trading_tutorial-step-1-text","For example, <strong>Bitcoin</strong>"
-"landing-success-trading_tutorial-step-2-title","Enter transaction amount"
-"landing-success-trading_tutorial-step-2-text","For example, <strong>25$</strong>
- "
-"landing-success-trading_tutorial-step-3-title","Start a transaction"
-"landing-success-trading_tutorial-step-3-text","Suppose, <span class=""lst-adv__up"">Top</span>"
-"landing-success-trading_tutorial-step-4-title","Get the profit"
-"landing-success-trading_tutorial-step-4-text","Trade with <strong>Binarium</strong>"
-"landing-success-trading_tutorial-button","Try now"
-"landing_social-form-title","Register via social networks"
-"landing-promo_title","Double<br>your deposit"
-"landing-promo_text","Top up a real<br>account within an hour<br> after registration and<br>get<span>a bonus up to</span>"
-"landing-promo_amount","500$
- 
-"
-"act_label-1","Account type"
-"act_label-2","Deposit amount"
-"act_label-3","Maximum withdrawal amount in 24 hours"
-"act_label-4","Additional bonus for deposits"
-"act_label-5","Tradeback"
-"act_label-6","Trading room"
-"act_label-7","Number of available requests per day"
-"act_button","Open"
-"act_unlimited","No limit"
-"act_trading-room-standart","Standard"
-"act_trading-room-premium","Premium"
-"act_tradeback","Tradeback—partial refund of the trader’s losing trades. Credited every Tuesday at 12:00 (0:00 UTC)"
-"ac-types@title","Account type"
-"ac-types@label_depositSum","Deposit amount"
-"ac-types@label_tradeback","Tradeback"
-"ac-types@label_tradebackEnrolment","Tradeback points"
-"ac-types@label_assets","Trading assets"
-"ac-types@label_withdrawalCountLimit","Withdrawal requests, per day"
-"ac-types@label_withdrawalAmountLimit","Withdrawal limit, per month"
-"ac-types@label_withdrawalDayAmountLimit","Withdrawal limit, per day"
-"ac-types@label_tradingRoom","Trading room"
-"ac-types@label_openDealsSum","Max number of open trades (at one time)"
-"ac-types@value_real","real funds"
-"ac-types@value_bonus","bonus"
-"ac-types@value_nolimit","no limit"
-"ac-types@btn","increase"
-"ac-types@self","Your account"
-"ac-types@tradeback-hint","Tradeback—partial refund of the trader’s losing trades. Credited every Tuesday at 12:00 (0:00 UTC)"
-"captcha@title","You're not a robot, right?"
-"captcha@text","Please click the checkbox below."
-"currency@solid_usd","US Dollar ($ — USD)"
-"currency@solid_rub","Russian Ruble (₽ — RUB)"
-"currency@solid_eur","Euro (€ — EUR)"
-"currency@solid_uah","Ukrainian Hryvnia (₴ — UAH)"
-"currency@solid_aud","Australian Dollar (A$ — AUD)"
-"currency@solid_thb","Thai baht (฿ — THB)"
-"currency@solid_kzt","Kazakhstani tenge (₸ — KZT)"
-"currency@solid_brl","Brazilian real (R$ — BRL)"
-"currency@solid_try","Turkish lira (₺ — TRY)"
-"currency@solid_inr","Indian rupee (₹ — INR)"
-"currency@solid_idr","Indonesian rupiah (Rp — IDR)"
-"currency@solid_jpy","Japanese yen (¥ — JPY)"
-"currency@solid_vnd","Vietnamese dong (₫ — VND)"
-"currency@solid_btc","Bitcoin (₿ — BTC)"
-"currency@solid_ltc","Litecoin (Ł — LTC)"
-"currency@solid_eth","Ethereum (ETH)"
-"withdrawal-error@amount-limit","The withdrawal limit has been exceeded"
-"promo-gift@bonus","bonus"
-"promo-gift@freeSpins","Risk free trades"
-"promo-gift@tradeRoom","trading room"
-"promo-gift@tickets","tickets"
-"home@account-label","Your account"
-"home@account-type","Account types"
-"home@account-button","Make a deposit"
-"home@tr-label","Trading room"
-"home@tr-slogan","Profitable trading with top traders"
-"home@tr-text","Cooperative trading with only the most experienced Binarium traders. Valuable signals, advice and priceless experience."
-"home@tr-btn","Enter the room"
-"home@assets-title","Assets with high profitability"
-"home@asset-timer-label","Time remaining until the end of trading"
-"home@asset-timer-days","days"
-"home@asset-timer-hours","h"
-"home@asset-timer-minutes","m"
-"home@asset-timer-seconds","s"
-"home@asset-timer-btn","Trading"
-"tr@title","Trading room"
-"tr@subtitle","an instrument for confident and simple trading"
-"tr@text","Customers with access to the Trading Room get effective trading signals from our top traders and earn more."
-"tr@btn-deposit","Get access"
-"tr@btn-navigate","to the Trading Room"
-"tr@signal-title","What's a trading signal?"
-"tr@signal-text1","A trading signal is an example of a profitable trade according to our traders. Signals contain an asset, the recommended price and time to enter the trade, as well as its end."
-"tr@signal-text2","Traders assess the strength and reliability of each signal, and you decide if you want to use our team's prediction."
-"tr@advices-title","The Trading Room is"
-"tr@advice-1-title","Trading<br>advice"
-"tr@advice-1-text","How should you build your trading strategy? Recommendations from top traders."
-"tr@advice-2-title","The most recent news"
-"tr@advice-2-text","We track all the important events that may affect your trades."
-"tr@advice-3-title","Trader answers to your questions"
-"tr@advice-3-text","Learn how our team's strategies earn a profit."
-"tr@advice-4-title","Simple market<br>analytics"
-"tr@advice-4-text","No confusing charts: everything is clear and simple."
-"tr@advice-5-title","2 trading sessions for 4 hours a day"
-"tr@advice-5-text","Signals from Binarium traders from Monday through Thursday"
-"tr@advice-6-title","Around 30 signals a day"
-"tr@advice-6-text","Browser notification sounds ensure you never miss a signal."
-"tr@advice-7-title","Trading training"
-"tr@advice-7-text","Learn from the best!"
-"tr@join-title","How to join the Trading Room"
-"tr@join-text","Make a deposit of $500, €500 or ₽30,000. The deposit amount will remain in your account. Use it to earn even more with Binarium."
-"tr@business-text","Make a deposit of<br> at least $500, €500 or ₽30,000 to your account"
-"tr@business-list","<li>One of Binarium's top traders holds the session</li><li>Fast trade results</li>"
-"tr@vip-text","Make a deposit of<br> at least $5000, €5000 or ₽300,000 to your account"
-"tr@vip-list","<li>Your own personal manager</li><li>Detailed comments on every signal</li><li>Trades with an expiration time longer than 1 day</li><li>Trading based on the latest global news and events</li><li>Trading training</li>"
-"tr@popular","Popular choice"
-"tradeback@text","Binarium supports its users by compensating part of their losses. Tradeback is a tool to recoup part of your losing trades. It's credited to your account every Tuesday for the previous week's transactions."
-"tradeback@true","Accept tradeback"
-"tradeback@false","Decline tradeback"
-"tradeback@submit","Save changes"
-"BG6265@logo","Profitable investment platform"
-"BG6265@security","Security and protection for funds are provided by a European bank"
-"BG6265@ei-title","Effective investments"
-"BG6265@reg-inv-1","Register and get access to"
-"BG6265@reg-inv-2","the most up-to-date platform for free."
-"BG6265@reg-inv-3","$1000"
-"BG6265@reg-inv-4","on your demo account and 100% bonus on your first deposit."
-"BG6265@freereg","Free registration"
-"BG6265@eubank","Security and protection for funds are provided by a European bank"
-"BG6265@feature-1-title","51,289 traders"
-"BG6265@feature-1-text","online everyday"
-"BG6265@feature-2-title","$1,259,685"
-"BG6265@feature-2-text","withdrawn last week"
-"BG6265@feature-3-title","657 trades"
-"BG6265@feature-3-text","per minute"
-"BG6265@scroll-1-title","The <br>startup<br> deposit is $10"
-"BG6265@scroll-1-text","Low entry fee"
-"BG6265@scroll-2-title","The <br>minimum<br>trade amount is $1"
-"BG6265@scroll-2-text","Low-risk trading<br>"
-"BG6265@scroll-3-title","Profit of up to 90%<br>"
-"BG6265@scroll-3-text","Make profit at<br>the most favourable terms"
-"BG6265@platform-1","All platforms"
-"BG6265@platform-2","All devices"
-"BG6265@platform-3","Popular web browsers"
-"BG6265@start-trade","Start trading for free"
-"BG6265@start-to-trade","Start trading"
-"BG6265@tradeback-title","One unique feature is<br>partial reimbursement for unprofitable trades"
-"BG6265@tradeback-amount","Deposit amount"
-"BG6265@tradeback-name","Tradeback"
-"BG6265@tradeback-fund","Tradeback points"
-"BG6265@tradeback-fund-bonus","Bonus"
-"BG6265@tradeback-fund-real","Real funds"
-"BG6265@tradeback-openacc","Open an account for free"
-"BG6265@risk-warning","<p><span>Risk disclosure.</span> Trading operations made on Binarium platform involve a significant risk of loss of a capital. Please, read carefully the general trading conditions on our website before making any investments. You are given the right of personal, non-commercial use of the information located on this site. The right to use is limited, not exclusive. The company's activities are conducted outside the Russian Federation.</p>"
-"BG6265@home_login-email-placeholder","Your e-mail address"
-"BG6265@home_login-password-placeholder","Choose a password"
-"BG6265@home_pick-a-currency","Account currency"
-"BG6265@home_login-button-reg","Open an account for free"
-"BG6265@slide-1-text","Binarium offers a wide range of assets, from currency pairs to cryptocurrencies. It has assets that other platforms just don't offer. I especially want to note the ability to trade on weekends."
-"BG6265@slide-1-author","Dmitry"
-"BG6265@slide-1-place","Omsk, Russia"
-"BG6265@slide-2-text","I started trading with Binarium. I quickly figured out how it works. It has a great support team and lots of useful tools. I love that you can level up your account over time and get more privileges."
-"BG6265@slide-2-author","Alexander"
-"BGBG6265@slide-2-place","Kharkov, Ukraine"
-"BG6265@slide-3-text","Thanks to Binarium, I learned how to manage my capital and invest wisely."
-"BG6265@slide-3-author","Darshit"
-"BG6265@slide-3-place","Varca, India"
-"BG6265@slide-4-text","It's the best platform that never stands still. They add new assets, hold drawings, and let you withdraw profits even quicker. Thank you for the opportunity to make money."
-"BG6265@slide-4-author","Rameen"
-"BG6265@slide-4-place","Baku, Azerbaijan"
-"BG6265@slide-5-text","The best platform ever! It's easy to trade, even for beginners. You can quickly withdraw your profits, and the support team is quick to help. I really like the trading room and traders' tips. Thank you Binarium, I wish you good luck and success."
-"BG6265@slide-5-author","Olga"
-"BG6265@slide-5-place","Novosibirsk, Russia"
-"BG6265@slide-6-text","I want to thank Binarium for their professionalism and high-quality product. I don't anything to complain about in the almost 3 years I've been using the platform. Everything is easy to understand, fast, and top notch."
-"BG6265@slide-6-author","Leyla"
-"BG6265@slide-6-place","Taraz, Kazakhstan"
-"BG6265@slide-7-text","Thank you for the opportunity to earn money. The user-friendly design, fast withdrawal, tournaments with real money prizes, high % of payments, and the ability to trade on the weekend are the top pros. I definitely recommend it."
-"BG6265@slide-7-author","Lestari"
-"BG6265@slide-7-place","Denpasar, Indonesia"
-"BG6265@start-title","It's easy to get started"
-"BG6265@start-1-title","Register"
-"BG6265@start-1-text","Create a free account in just a few minutes."
-"BG6265@start-2-title","Explore the platform"
-"BG6265@start-2-text","Access all of Binarium's features on your demo account."
-"BG6265@start-3-title","Make a deposit"
-"BG6265@start-3-text","Use it to open trades and earn your first trading profit."
-"BG6265@start-4-title","Withdraw profit"
-"BG6265@start-4-text","Withdraw your earnings instantly."
-"BG6265@soc-reg-1","Quick registration via social media"
-"BG6265@soc-reg-2","or e-mail"
-"BG6265@fast-deposit","Easy deposit and quick withdrawal processes"
-"BG6265@copyright","© 2020 Binarium Ltd. 8 years on the market"
-"BG6265@soc","Our social media"
-"BG6265@fast-support","24/7 Binarium support"
-"BG6265@st-title","Start trading confidently<br>with Binarium"
-"BG6265@list-1","$1000 on the demo account"
-"BG6265@list-2","Deposits starting from $10"
-"BG6265@list-3","Withdraw funds within an hour"
-"BG6265@profit-1-title","7 days<br>a week"
-"BG6265@profit-1-text","Earn on the weekend"
-"BG6265@profit-2-title","Trading signals<br>and analytics"
-"BG6265@profit-2-text","Professional traders' tips in the Binarium trading room"
-"BG6265@profit-3-title","Profitable<br>tradeback"
-"BG6265@profit-3-text","Reimbursement for unprofitable trades"
-"BG6265@home_agree","I accept"
-"BG6265@home_agree-with-conditions","the terms and conditions of the service agreement"
-"avatar@change","Change"
-"avatar@error","File uploading error"
-"avatar@delete","Delete"
-"avatar@add","Add avatar"
-"avatar@save","Save"
-"var_support@email","support@binarium.com"
+﻿{
+  "about_title": "Trading platform Binarium provides professional services since 2012. The experience, accumulated during the work, allowed the company to supply traders from all corners of the world with everything that is necessary for comfortable trading.",
+  "about_advantage-1": "Modern trading platform",
+  "about_advantage-2": "Innovative technological infrastructure ",
+  "about_advantage-3": "Comprehensive training<br>base",
+  "about_advantage-4": "Qualified customer support",
+  "about_text-1": "The intuitively accessible interface of our platform and site will allow you to understand the underlying nuances of trading in the shortest possible time. Even a novice investor will not experience problems with the adaptation to the new trading floor.",
+  "about_text-2": "Withdrawal applications are processed promptly, and the advanced trading platform is regularly updated, which allows the immediate opening of transactions without gapping. Binarium is a client-oriented broker, so, first of all, everything is done for your comfort.",
+  "about_regnum": "Registration number",
+  "about_email": "E-mail:",
+  "about_phone": "Contact number:",
+  "about_phone-number": "+357(22)052784",
+  "asset-catalog_all": "All assets",
+  "asset-catalog_currencies": "Currencies",
+  "asset-catalog_cryptocurrencies": "Cryptocurrencies",
+  "asset-catalog_title": "Asset catalog",
+  "asset-catalog_start-trade": "Start trading",
+  "asset-catalog_session": "Trading session",
+  "asset-catalog_time-EUR/GBP": "Monday — Friday 07:00 — 16:00 GMT",
+  "asset-catalog_text-EUR/GBP": "The ratio is in such an order: the exchange rate of the pound sterling (GBP) for the euro (EUR). EUR/GBP is a cross-rate where the accounting unit is the British pound (GBP).",
+  "asset-catalog_time-EUR/USD": "Monday — Friday 00:00 – 23:59 GMT",
+  "asset-catalog_text-EUR/USD": "Euro (currency symbol - EUR) is the official currency for 17 countries of the Eurozone. Besides, it is used in 9 other countries. Eurocurrency has the largest monetary base in the world, even greater than the US dollar. The EUR / USD currency pair is a direct quotation, where the payment for the European currency is made by the US dollar.",
+  "asset-catalog_time-GBP/USD": "Monday — Friday 07:00 — 18:00 GMT",
+  "asset-catalog_text-GBP/USD": "The British pound or simply pound (currency symbol - GBP) is the national currency of the United Kingdom, as well as a legal mean of payment for the Falkland, St. Helena and Ascension Islands, as well as Tristan da Cunha and Gibraltar as UK overseas territories. This currency pair is a direct quotation, where the US dollar is the accounting unit.",
+  "asset-catalog_time-GBP/RUB": "Monday — Friday 07:00 — 16:00 GMT",
+  "asset-catalog_text-GBP/RUB": "The British pound or simply pound (currency symbol - GBP) is the national currency of the United Kingdom, as well as a legal mean of payment for the Falkland, St. Helena and Ascension Islands, as well as Tristan da Cunha and Gibraltar as UK overseas territories. This currency pair is a direct quotation, where the Russian rouble is the accounting unit.",
+  "asset-catalog_time-NZD/USD": "Monday — Friday 00:00 — 23:59 GMT",
+  "asset-catalog_text-NZD/USD": "The New Zealand dollar (currency symbol - NZD) is the official currency of New Zealand, Niue, Cook Islands, Tokelau, and Pitcairn. Also, this currency is called \"Kiwi\" - this is a kind of bird and one of the symbols of New Zealand. This currency pair is a direct quotation, where the US dollar (USD) is the accounting unit.",
+  "asset-catalog_time-USD/CHF": "Monday — Friday 07:00 — 18:00 GMT",
+  "asset-catalog_text-USD/CHF": "Swiss franc (currency symbol - CHF) - is a payment instrument of Switzerland and Liechtenstein. Monetary units are issued by the central bank of Switzerland. Coins, unlike banknotes, are issued by the federal mint. This currency pair is an indirect quote (an indirect currency pair), which expresses the value of the national currency in the US dollar (USD).",
+  "asset-catalog_time-EUR/RUB": "Monday — Friday 07:00 — 16:00 GMT",
+  "asset-catalog_text-EUR/RUB": "Euro (currency symbol - EUR) is the official currency for 17 countries of the Eurozone. Besides, it is used in 9 other countries. Eurocurrency has the largest monetary base in the world, even greater than the US dollar. This currency pair is a direct quotation, where the payment for the European currency is made by the Russian rouble.",
+  "asset-catalog_time-GBP/JPY": "Monday — Friday 00:00 — 23:59 GMT",
+  "asset-catalog_text-GBP/JPY": "The British pound or simply pound (currency symbol - GBP) is the national currency of the United Kingdom, as well as a legal mean of payment for the Falkland, St. Helena and Ascension Islands, as well as Tristan da Cunha and Gibraltar as UK overseas territories. This currency pair is a direct quotation, where the Japanese yen is the accounting unit.",
+  "asset-catalog_time-GBP/CHF": "Monday — Friday 00:00 — 23:59 GMT",
+  "asset-catalog_text-GBP/CHF": "The British pound or simply pound (currency symbol - GBP) is the national currency of the United Kingdom, as well as a legal mean of payment for the Falkland, St. Helena and Ascension Islands, as well as Tristan da Cunha and Gibraltar as UK overseas territories. This currency pair is a direct quotation, where the Swiss franc is the accounting unit.",
+  "asset-catalog_time-AUD/CHF": "Monday — Friday 00:00 — 23:59 GMT",
+  "asset-catalog_text-AUD/CHF": "The Australian dollar (AUD) is the fifth most traded currency in the world. The issuer is the Reserve Bank of Australia. It is actively used in currency exchange operations, as Australia maintains high-interest rates. Affected by the influence of trade relations with Japan, China, and the United States. Refers to \"commodity\" currencies, since the Australian economy depends heavily on the export of goods (in particular, gold and other metals). This currency pair is a direct quotation, where the Swiss franc is the accounting unit.",
+  "asset-catalog_time-EUR/CAD": "Monday — Friday 00:00 — 23:59 GMT",
+  "asset-catalog_text-EUR/CAD": "Euro (currency symbol - EUR) is the official currency for 17 countries of the Eurozone. Besides, it is used in 9 other countries. Eurocurrency has the largest monetary base in the world, even greater than the US dollar. Theis currency pair is a direct quotation, where the payment for the European currency is made by the Canadian dollar.",
+  "asset-catalog_time-AUD/JPY": "Monday — Friday 00:00 — 23:59 GMT",
+  "asset-catalog_text-AUD/JPY": "The Australian dollar (AUD) is the fifth most traded currency in the world. The issuer is the Reserve Bank of Australia. It is actively used in currency exchange operations, as Australia maintains high-interest rates. Affected by the influence of trade relations with Japan, China, and the United States. Refers to \"commodity\" currencies, since the Australian economy depends heavily on the export of goods (in particular, gold and other metals). This currency pair is a direct quotation, where the Japanese yen is the accounting unit.",
+  "asset-catalog_time-CAD/JPY": "Monday — Friday 00:00 — 23:59 GMT",
+  "asset-catalog_text-CAD/JPY": "The Canadian dollar (CAD, \"Loonie\", \"Little Dollar\") is the world's seventh largest currency by trading volume. The issuer is the Bank of Canada. Affected by its neighbor - the US economy. Refers to \"commodity\" currencies, as the Canadian economy depends on the export of goods (in particular, energy, timber, oil). This currency pair is a direct quotation, where the Japanese yen is the accounting unit.",
+  "asset-catalog_time-AUD/NZD": "Monday — Friday 00:00 — 23:59 GMT",
+  "asset-catalog_text-AUD/NZD": "The Australian dollar (AUD) is the fifth most traded currency in the world. The issuer is the Reserve Bank of Australia. It is actively used in currency exchange operations, as Australia maintains high-interest rates. Affected by the influence of trade relations with Japan, China, and the United States. Refers to \"commodity\" currencies, since the Australian economy depends heavily on the export of goods (in particular, gold and other metals). This currency pair is a direct quotation, where the New Zealand dollar is the accounting unit.",
+  "asset-catalog_time-EUR/AUD": "Monday — Friday 00:00 — 23:59 GMT",
+  "asset-catalog_text-EUR/AUD": "Euro (currency symbol - EUR) is the official currency for 17 countries of the Eurozone. Besides, it is used in 9 other countries. Eurocurrency has the largest monetary base in the world, even greater than the US dollar. This currency pair is a direct quotation, where the payment for the European currency is made by the Australian dollar.",
+  "asset-catalog_time-GBP/CAD": "Monday — Friday 00:00 — 23:59 GMT",
+  "asset-catalog_text-GBP/CAD": "The British pound or simply pound (currency symbol - GBP) is the national currency of the United Kingdom, as well as a legal mean of payment for the Falkland, St. Helena and Ascension Islands, as well as Tristan da Cunha and Gibraltar as UK overseas territories. This currency pair is a direct quotation, where the Canadian dollar is the accounting unit.",
+  "asset-catalog_time-NZD/JPY": "Monday — Friday 00:00 — 23:59 GMT",
+  "asset-catalog_text-NZD/JPY": "The New Zealand dollar (currency symbol - NZD) is the official currency of New Zealand, Niue, Cook Islands, Tokelau, and Pitcairn. Also, this currency is called \"Kiwi\" - this is a kind of bird and one of the symbols of New Zealand. This currency pair is a direct quotation, where the Japanese yen is the accounting unit.",
+  "asset-catalog_time-AUD/CAD": "Monday — Friday 00:00 — 23:59 GMT",
+  "asset-catalog_text-AUD/CAD": "The Australian dollar (AUD) is the fifth most traded currency in the world. The issuer is the Reserve Bank of Australia. It is actively used in currency exchange operations, as Australia maintains high-interest rates. Affected by the influence of trade relations with Japan, China, and the United States. Refers to \"commodity\" currencies, since the Australian economy depends heavily on the export of goods (in particular, gold and other metals). This currency pair is a direct quotation, where the Canadian dollar is the accounting unit.",
+  "asset-catalog_time-EUR/NZD": "Monday — Friday 00:00 — 23:59 GMT",
+  "asset-catalog_text-EUR/NZD": "Euro (currency symbol - EUR) is the official currency for 17 countries of the Eurozone. Besides, it is used in 9 other countries. Eurocurrency has the largest monetary base in the world, even greater than the US dollar. This currency pair is a direct quotation, where the payment for the European currency is made by the New Zealand dollar.",
+  "asset-catalog_time-EUR/CHF": "Monday — Friday 00:00 — 23:59 GMT",
+  "asset-catalog_text-EUR/CHF": "Euro (currency symbol - EUR) is the official currency for 17 countries of the Eurozone. Besides, it is used in 9 other countries. Eurocurrency has the largest monetary base in the world, even greater than the US dollar. This currency pair is a direct quotation, where the payment for the European currency is made by the Swiss franc.",
+  "asset-catalog_time-BTC/EUR": "Monday — Sunday 00:00 — 23:59 GMT",
+  "asset-catalog_text-BTC/EUR": "Bitcoin (BTC) is an electronic crypto-currency. To date, Bitcoin is the most popular crypto-currency. This currency pair is a direct quotation, where the Euro is an accounting unit.",
+  "asset-catalog_time-BTC/USD": "Monday — Sunday 00:00 — 23:59 GMT",
+  "asset-catalog_text-BTC/USD": "Bitcoin (BTC) is an electronic crypto-currency. To date, Bitcoin is the most popular crypto-currency. This currency pair is a direct quotation, where the US dollar is an accounting unit.",
+  "asset-catalog_time-BTC/GBP": "Monday — Sunday 00:00 — 23:59 GMT",
+  "asset-catalog_text-BTC/GBP": "Bitcoin (BTC) is an electronic crypto-currency. To date, Bitcoin is the most popular crypto-currency. This currency pair is a direct quotation, where the British pound is an accounting unit.",
+  "calendar_monday": "Mon",
+  "calendar_tuesday": "Tue",
+  "calendar_wednesday": "Wed",
+  "calendar_thursday": "Thu",
+  "calendar_friday": "Fri",
+  "calendar_saturday": "Sat",
+  "calendar_sunday": "Sun",
+  "calendar_pick-a-year": "Select year",
+  "calendar_month-1": "January",
+  "calendar_month-2": "February",
+  "calendar_month-3": "March",
+  "calendar_month-4": "April",
+  "calendar_month-5": "May",
+  "calendar_month-6": "June",
+  "calendar_month-7": "July",
+  "calendar_month-8": "August",
+  "calendar_month-9": "September",
+  "calendar_month-10": "October",
+  "calendar_month-11": "November",
+  "calendar_month-12": "December",
+  "deals-history_title": "Deals history",
+  "deals-history_pick-an-option": "Select an option type",
+  "deals-history_pick-an-asset": "Select asset",
+  "deals-history_button": "Apply",
+  "deals-history_empty": "Operations were not found for the selected period. Try changing or",
+  "deals-history_reset": "resetting",
+  "deals-history_filters": "filters",
+  "deals-history_table-date": "Date and time",
+  "deals-history_table-asset": "Asset",
+  "deals-history_table-value": "Value",
+  "deals-history_table-operation": "Operation",
+  "deals-history_table-close": "Closing time",
+  "deals-history_table-expiration": "Expiration",
+  "deals-history__table-start-exp": "Start and expiration of trade",
+  "deals-history__table-open-close": "Quotation at start and expiration",
+  "deals-history_table-sum": "Amount",
+  "deals-history_table-income": "Income",
+  "deals-history_table-profit": "Profit",
+  "deals-history_filter-deposits-all": "All options",
+  "deals-history_filter-deposits-turbo": "1—5 min",
+  "deals-history_filter-deposits-binary": "5+ min",
+  "deals-history_filter-assets-all": "All assets",
+  "faq_title": "Questions and answers",
+  "faq_help": "Help and support:",
+  "faq_choose": "Select a topic:",
+  "forgot_title": "Forgot your password?",
+  "forgot_mail-sended-title": "Instructions were sent",
+  "forgot_mail-sended": "A letter with further instructions on password recovery was sent to your mail! In case you did not receive the letter, please contact your manager, or support via <a class=\"open-chat-button\">online chat</a> or by e-mail <a href=\"mailto:support@binarium.com\">support@binarium.com</a>",
+  "forgot_type-email": "Specify e-mail for password recovery",
+  "forgot_instruction": "A letter with instructions for password recovery will be sent to your e-mail. If you do not remember the e-mail address you used to register - contact Binarium Support via <a class=\"open-chat-button\">online chat</a> or e-mail <a href=\"mailto:support@binarium.com\">support@binarium.com</a>",
+  "forgot_button": "Send",
+  "forgot_input-email": "Email",
+  "home_tournament-header": "Tournament",
+  "home_tournament-label-1": "Price",
+  "home_tournament-label-2": "Type",
+  "home_tournament-type-pay": "Pay",
+  "home_tournament-type-free": "Free",
+  "home_tournament-prize-label": "Prize fund",
+  "home_tournament-prize-button": "Participate",
+  "home_tournament-default-button": "Proceed ",
+  "home_tournament-default-title": "New tournament is on it's way!",
+  "home_tournament-default-info-1": "Follow the news.",
+  "home_tournament-default-info-2": "Participate and win!",
+  "home_slogan-title-alt": "Receive up to 60% more!",
+  "home_slogan-text-alt": "Fund your account right now and get a welcome bonus in the form of additional funds to your account of up to 60%.",
+  "home_slogan-header": "Promotion",
+  "home_slogan-title": "Being a trader is now 100% more profitable!",
+  "home_slogan-text": "You top up your account — we double it. Don't be late!",
+  "home_slogan-offer-valid": "Оffer valid",
+  "home_offer-deposit": "Top up",
+  "home_demo-banner-title": "Demo Account",
+  "home_demo-banner-preface": "Unique opportunity:",
+  "home_demo-banner-text-1": "Master the platform without risking your money",
+  "home_demo-banner-text-2": "Experiment with trading assets without placing a deposit",
+  "home_demo-banner-text-3": "10000 USD/ 60000 RUB for unlimited practice",
+  "home_demo-banner-button": "Practice",
+  "home_slogan": "Receive 90% of the profit from each successful transaction",
+  "home_button-login": "Login",
+  "home_button-register": "Sign Up",
+  "home_login-email-placeholder": "Email",
+  "home_login-password-placeholder": "Password",
+  "home_login-remember": "Remember me",
+  "home_login-remember-device": "Remember me",
+  "home_pick-a-currency": "Currency",
+  "home_pick-a-currency-dropdown": "Select your account currency",
+  "home_login-forgot": "Forgot your password?",
+  "home_login-button": "Login",
+  "home_login-button-reg": "Open an account<br>for free",
+  "home_agree": "I accept",
+  "home_agree-with-conditions": "terms and agreement",
+  "home_agree-with-conditions-error": "You must accept the agreement",
+  "home_payments": "Proven and fast withdrawal of funds",
+  "home_socials": "Social networks",
+  "home-wallet_text": "Almost done! Please select the account currency",
+  "home-wallet_button": "Start trading",
+  "home-offer-banner_title": "Оffer valid",
+  "new-password_title": "New password",
+  "new-password_hint": "Choose and set a new password",
+  "new-password_success": "Password successfully changed",
+  "new-password_enter-password": "New password",
+  "new-password_repeat-password": "Confirm password",
+  "new-password_button": "Save",
+  "payments_title": "Top up",
+  "payments_method": "Choose a method of deposit",
+  "payments_requisites": "Enter the details of the payment system",
+  "payments_enter-requisite": "Enter",
+  "payments_no-bonus": "No bonus",
+  "payments_attribute-card_card": "card number",
+  "payments_attribute-card_phone": "phone number",
+  "payments_attribute-qiwi_phone": "phone number",
+  "payments_attribute-webmoney_customer_purse": "Purse number",
+  "payments_attribute-yandex_money_customer_purse": "Purse number",
+  "payments_attribute-neteller_customer_purse": "Email or account ID",
+  "payments_pick-sum": "Select the amount of deposit",
+  "payments_pick-phone-with-code": "Enter a phone number including the country code",
+  "payments_pick-own-sum1": "Want to pick up you own amount?",
+  "payments_pick-own-sum2": "Use the input field",
+  "payments_popular-choice": "Popular choice",
+  "payments_system-loading": "Loading payment system",
+  "payments_bonus": "Bonus",
+  "payments_success-title": "Deposit successful",
+  "payments_success-body": "Thank you! Your deposit has been deposited to your account.<br><br>This message will close automatically. If this does not happen, click the button:",
+  "payments_success-button": "Continue",
+  "payments_fail-title": "Error",
+  "payments_fail-body": "An error occurred during the process. Please go back to the payment form, and try again:<br><br>This message will close automatically. If this does not happen, click the button:",
+  "payments_fail-button": "Back",
+  "payments_error-empty-sum": "Enter the amount of the deposit",
+  "payments_error-min-sum": "Minimal deposit {{min}}.",
+  "payments_error-max-sum": "Maximal deposit {{max}}.",
+  "payments_error-promotion": "Promotion is not available",
+  "payments_error-promotion-expired": "Promotion expired",
+  "payments_error-promotion-range": "The bonus is valid for deposits from {{min}} to {{max}}. If you wish to top up another amount, please delete the promo code",
+  "payments_error-promotion-max": "Maximum amount to activate promo code {{max}}",
+  "payments_error-promotion-min": "Minimum amount to activate promo code {{min}}",
+  "payments_error-promotion-type-1": "Available only for the first deposit",
+  "payments_error-promotion-type-2": "Available only for the second and subsequent deposits",
+  "payments_total-pay": "Amount to be paid",
+  "payments_total-deposit": "Receive on account",
+  "payments_deposit-button": "Make a deposit",
+  "payments_promo": "I have promo code",
+  "payments_disable-bonus": "Don't receive bonus",
+  "payments_hint-title": "What is a bonus?",
+  "payments_bonus-usage-title": "Bonus items",
+  "payments_bonus-usage-text1": "Bonus is additional funds that are provided by the company to increase the trading potential of traders",
+  "payments_bonus-usage-text2": "When making a deposit, a certain amount of bonus money may be credited to your account, size of bonus depends on the size of your deposit.",
+  "payments_bonus-usage-text3": "The bonus does not limit the amount of funds that you can withdraw: you can withdraw your profits at any time as well as the amount of your deposit. Please note that when withdrawing funds, all bonus funds that were not used in trades with a x40 turnover will be assigned inactive status and will be debited from your account.",
+  "payments_hint-preface": "Bonus is additional funds that are provided by the company to increase the trading potential of traders.",
+  "payments_hint-open-button": "Learn More",
+  "payments_hint-close-button": "Hide",
+  "payments_hint-text": "When making a deposit, a certain amount of bonus money may be credited to your account, size of bonus depends on the size of your deposit. The bonus does not limit the withdrawal of funds - you can withdraw profit, as well as the amount of your deposit, at any time. However, in case you withdraw part of the deposit, the unused bonus is canceled, as these funds are an addition to your deposit. To withdraw bonus funds, the turnover (the sum of all transactions, both profitable and unprofitable) must equal to the bonus multiplied by 30. The turnover starts to be calculated immediately after the bonus funds are credited. When opening transactions, we're using real funds firstly, and only then bonus ones. If the deposit had to be carried out in parts because of the limitations of payment systems, please contact support to get a total bonus. The bonus is not obligatory. You can refuse it.",
+  "payments-method_card": "Visa/Mastercard",
+  "payments-method_qiwi": "Qiwi",
+  "payments-method_qiwi_ecom": "Qiwi",
+  "payments-method_yandex_money_ecom": "Yandex money",
+  "payments-method_webmoney_1gp": "WebMoney",
+  "payments-method_alfaclick_1gp": "Alfaclick",
+  "payments-method_mobile_commerce_1gp": "Mobile commerce",
+  "payments_bonus_total": "Together with the selected deposit you will receive a <span>bonus in the amount of:</span>",
+  "payments-bonus_total-hint": "to the account",
+  "profile_personal": "Personal Information",
+  "profile_name": "Name",
+  "profile_surname": "Surname",
+  "profile_nickname": "Nickname",
+  "profile_birthday": "Date of Birth",
+  "profile_gender": "Gender",
+  "profile_gender-female": "Female",
+  "profile_gender-male": "Male",
+  "profile_contacts": "Contacts",
+  "profile_email": "Email",
+  "profile_email-hint": "To set up or change an email address, contact our support",
+  "profile_phone": "Phone",
+  "profile_country": "Country",
+  "profile_timezone": "Time Zone",
+  "profile_address": "Address",
+  "profile_pick-a-country": "Choose country",
+  "profile_pick-a-timezone": "Select time zone",
+  "profile_email-changing": "Change password",
+  "profile_current-password": "Current password",
+  "profile_new-password": "New password",
+  "profile_repeat-password": "Confirm password",
+  "profile_error-passwords-not-same": "Password and password confirmation do not match",
+  "profile_password_changed": "Password successfully changed",
+  "profile_button-saved": "Saved!",
+  "profile_button-save": "Save",
+  "profile_social": "Link a profile to social networks",
+  "profile_social-on": "Linked",
+  "profile_social-setup": "Link",
+  "profile_change": "Change",
+  "profile_warning": "Editable information is found in fields that can be changed.<br><br>If for any reason you want to change information that has been locked, then please get in touch with our support service: <a href=\"mailto:support@binarium.com\">support@binarium.com</a>",
+  "profile_confirm-warning": "Check your mail. We sent a message to the specified address with a confirmation link that you must click.",
+  "profile_email-not-confirmed": "Not confirmed",
+  "profile_email-confirmed": "Confirmed",
+  "profile_subscribe": "Receive information about bonuses and important events of the company",
+  "tools_title": "Trading sessions",
+  "tools_choose": "Select time zone:",
+  "tools_table-region": "Region",
+  "tools_table-center": "Financial centers",
+  "tools_table-open-time": "Opening time",
+  "tools_table-close-time": "Closing time",
+  "tools_region-1": "Asia",
+  "tools_region-2": "Europe",
+  "tools_region-3": "America",
+  "tools_region-4": "Oceania",
+  "tools_region-1-city-1": "Tokyo",
+  "tools_region-1-city-2": "Hong Kong",
+  "tools_region-1-city-3": "Singapore",
+  "tools_region-2-city-1": "Frankfurt",
+  "tools_region-2-city-2": "London",
+  "tools_region-3-city-1": "New York",
+  "tools_region-3-city-2": "Chicago",
+  "tools_region-4-city-1": "Wellington",
+  "tools_region-4-city-2": "Sydney",
+  "transactions_title": "Transaction history",
+  "transactions_pick-a-type": "Choose type",
+  "transactions_pick-a-status": "Choose status",
+  "transactions_button-submit": "Apply",
+  "transactions_result-not-found": "Operations were not found for the selected period. Try changing or",
+  "transactions_result-reset": "resetting",
+  "transactions_result-filters": "filters",
+  "transactions_table-date": "Date and time",
+  "transactions_table-type": "Transaction type",
+  "transactions_table-system": "Payment system",
+  "transactions_table-amount": "Amount",
+  "transactions_table-status": "Status",
+  "transactions_status-any": "Any status",
+  "transactions_status-process": "In process",
+  "transactions_status-new": "New",
+  "transactions_status-rejected": "Disapproved",
+  "transactions_status-success": "Successful",
+  "transactions_status-fail": "Failed",
+  "transactions_status-cancelled": "Canceled",
+  "transactions_comments-insufficient": "Insufficient funds",
+  "transactions_cancelled-by-user": "Canceled by user",
+  "transactions_requisites-overlap": "Deposit and withdrawal requisites must coincide",
+  "transactions_time-limit": "Exceeded withdrawal request limit on your account type",
+  "transactions_method-unavailable": "The selected payment method is not available. Please choose another payment method or try again later.",
+  "transactions_refunded": "Refund",
+  "transactions_verification-required": "Verification required",
+  "transactions_cancel-button": "Cancel",
+  "transactions_type-all": "All operations",
+  "transactions_type-deposit": "Deposit",
+  "transactions_type-withdrawal": "Withdrawal",
+  "transactions_type-bonus-deposit": "Bonus deposit",
+  "transactions_type-bonus-withdrawal": "Bonus withdrawal",
+  "transactions_type-deposit-bonus": "Enrolling the bonus",
+  "transactions_type-compensation": "Compensation",
+  "transactions_type-tournament-participation": "Tournament participation",
+  "transactions_type-tournament-cancelled": "Tournament cancellation",
+  "transactions_type-tournament-prize": "Tournament prize",
+  "transactions_type-enrolling-freespins": "Enrolling free spins",
+  "transactions_type-transfer-freespins": "Freespin value transition",
+  "transaction_type-no-turnover": "Insufficient trading turnover. <span class\"action-faq\">Learn more</span>.",
+  "transaction_instruction": "Instruction",
+  "transactions_type-tradeback": "Tradeback",
+  "withdrawal_title": "Withdrawal of funds",
+  "withdrawal_success-title": "Operation was successful",
+  "withdrawal_success-body": "The withdrawal request was successfuly sent.<br><br>This message will close automatically. If this does not happen, click the button:",
+  "withdrawal_success-button": "Continue",
+  "withdrawal_fail-title": "Error",
+  "withdrawal_fail-body": "An error occurred during the process. Please go back to the withdrawal form, and try again:<br><br>This message will close automatically. If this does not happen, click the button:",
+  "withdrawal_fail-button": "Back",
+  "withdrawal_label-amount": "Amount of payment",
+  "withdrawal_error-empty-amount": "Enter withdraw amount",
+  "withdrawal_error-pattern-phone": "Incorrect phone format",
+  "withdrawal_error-pattern-card": "Incorrect format",
+  "withdrawal_error-pattern-customer_purse": "Incorrect format",
+  "withdrawal_error-required": "This value should not be blank",
+  "withdrawal_error-method-required": "Payment method is required",
+  "withdrawal_error-sum-balance-limit": "Insufficient funds.",
+  "withdrawal_error-sum-bonus-limit": "Insufficient funds. Real funds: {{ real }}, Bonus funds: {{ bonus }}, to withdraw bonus please make {{ wager }} turnover.",
+  "withdrawal_error-sum-max-limit": "This value should be {{ limit }} or less",
+  "withdrawal_error-sum-min-limit": "This value should be {{ limit }} or more",
+  "withdrawal_hint-title": "Your application will be processed within 24 hours from the moment of registration.",
+  "withdrawal_hint-text": "If the application was issued outside the working hours of company’s financial department, it will be processed within the next working day.",
+  "withdrawal_method": "Funds withdrawal method",
+  "withdrawal_pick-a-method": "Choose payment method",
+  "withdrawal_submit-button": "Withdrawal",
+  "withdrawal_pick-a-country": "Choose country",
+  "withdrawal_limit-text": "The withdrawal limit for your <span class=\"open-act-button\">account type</span> has been exceeded",
+  "withdrawal@limit-with-counter": "The fund withdrawal limit has been exceeded.<br>Your <span class=\"open-act-button\">account type</span> allows {{limitCount}} requests totaling {{limitAmount}}.<br>You can make another request in {{limitTime}}.",
+  "menu_terminal": "Trading",
+  "menu_education": "Education",
+  "menu_asset-catalog": "Asset catalog",
+  "menu_faq": "Questions and answers",
+  "menu_trading-room": "Trading room",
+  "menu_sessions": "Trading sessions",
+  "menu_banner": "Bonus on the first deposit from",
+  "menu_company": "Company",
+  "menu_client-agreement": "Client agreement",
+  "menu_privacy": "Privacy",
+  "menu_partners": "For partners",
+  "menu_payments": "Bank",
+  "menu_deposit": "Top up",
+  "menu_deposit-short": "Deposit",
+  "menu_withdrawal": "Withdrawal",
+  "menu_transactions-history": "Transaction history",
+  "menu_transactions-history-hort": "Transactions",
+  "menu_profile-settings": "Profile",
+  "menu_profile": "User profile",
+  "menu_profile-personal": "Personal Information",
+  "menu_profile-contacts": "Contacts",
+  "menu_profile-security": "Security",
+  "menu_trading-history": "Deals history",
+  "menu_quit": "Exit",
+  "menu_about": "About company",
+  "menu_account-types": "Account types",
+  "menu_tradeback": "Tradeback options",
+  "footer_chat": "Online chat",
+  "footer_skype": "binarium.com",
+  "risk-warning": "<p><strong>Risk disclosure.</strong> Trading operations made on Binarium platform involve a significant risk of loss of a capital. Please, read carefully the general trading conditions on our website before making any investments. You are given the right of personal, non-commercial use of the information located on this site. The right to use is limited, not exclusive. The company's activities are conducted outside the Russian Federation.</p>",
+  "risk-warning-2": "<p>For more information, please contact customer support: <a href=\"mailto:support@binarium.com\">support@binarium.com</a> or +357(22)052784, +44(203)6957705</p>",
+  "contacts_address": "BINARIUM LIMITED St. Vincent and the Grenadines, Suite 305, Griffin Corporate Centre, P.O. Box 1510, Beachmont, Kingstown, St. Vincent and the Grenadines. 1599 СTD 2016.",
+  "contacts_phone": "+357(22)052784, +44(203)6957705",
+  "contacts_skype": "Binarium",
+  "copyright": "© 2010–2018 Binarium",
+  "preloader": "Loading...",
+  "main_company": "binarium.com",
+  "main-confirmation_success": "Account has been successfully confirmed!",
+  "terminal_connecting": "Connecting...",
+  "choose_usd": "US Dollar",
+  "choose_rub": "Russian rouble",
+  "choose_eur": "Euro",
+  "de1e3db3-5ed4-4941-aae4-59f3667cc3a3": "This value is not valid",
+  "23bd9dbf-6b9b-41cd-a99e-4844bcf3077f": "This email is already used",
+  "889954f14a3839c141bd8d5102094fbb": "This value is already used",
+  "bd79c0ab-ddba-46cc-a703-a7a4b08de310": "This value is not a valid email address",
+  "bf447c1c-0266-4e10-9c6c-573df282e413": "This value is not a valid email address",
+  "7da53a8b-56f3-4288-bb3e-ee9ede4ef9a1": "This value is not a valid email address",
+  "c1051bb4-d103-4f74-8988-acbcafc7fdc3": "This value should not be blank",
+  "9ff3fdc4-b214-49db-8718-39c315e33d45": "This value is too short. It should have  {{ limit }}  characters or more",
+  "d94b19cc-114f-4f44-9cc4-4138e80a87b9": "This value is too long. It should have {{ limit }}  characters or less",
+  "478618a7-95ba-473d-9101-cabd45e49115": "This value should be equal to {{ compared_value }}.",
+  "4dba5f9c79ae34be5884e1a3c8c45e92": "Incorrect username or password",
+  "3e5af93fb888b4aa77301a7603e113d5": "Incorrect password",
+  "2d28afcb-e32e-45fb-a815-01c431a86a69": "This value should be {{limit}} or less",
+  "76454e69-502c-46c5-9643-f447d837c4d5": "This value should be {{limit}} or more",
+  "ad32d13f-c3d4-423b-909a-857b961eb720": "This value should not be null.",
+  "8e179f1b-97aa-4560-a02f-2a8b42e49df7": "The value you selected is not a valid choice",
+  "853ff54c1a66d1a2379e0c46f8eb9ed4": "Invalid requisite",
+  "3ac1d32eb3c54e11ef9ea474da816ad6": "Requisites  '{{ name }}' should be set",
+  "661d3bc6c153e42a3658855010678cbd": "Unknown requisites '{{ names }}'",
+  "2d2ba82dd886ba3b69da804675842ff5": "Bad payment method",
+  "3c55616c0a7de9c064e6c2d86fa72bc2": "Invalid expiry time",
+  "f029308ab5f1672de0b7615c4fa33386": "Asset is currently closed",
+  "64fc8bbac184ae9dab80c8f592d1a6f7": "You have exceeded available investment amount limit",
+  "5561ccf1e94e6b9d88080bdbbcba1821": "Insufficient funds",
+  "f3a5b44d01097d966072b90187a16ec6": "User not exists",
+  "51fd5caf0ad30e6acb3a75b8b7f6d060": "You are not allowed to change the status of processed request",
+  "e2b542cacda91ab48e3679c2ab5dcccd": "Authorization failed. For more details please contact our client support support@binarium.com",
+  "49c5c5c04b86448073e0ad2d301f0c6b": "Invalid confirmation token",
+  "d5bf716058e9fbe0e6421f5b5411ba20": "Invalid confirmation token",
+  "e8ec85fce83f6b6e04bb49f438381427": "Invalid confirmation token",
+  "c8436b2478dc5fd6af15689a9d2810da": "User is already confirmed",
+  "d5e955d0cee0f4a7d9a479199c63de17": "Promotion is inactive. Please, contact support.",
+  "eddb08702cbefa9884cef818628c974a": "Promotion is not available",
+  "bf599b567d8917869091c487340e2859": "Available only for {{ type }}",
+  "610aa76a6751508f0ceaf186be7b693c": "Usage limit exceeded",
+  "6a82075cde0a344289ae2cf6d0f73366": "Unavailable for {{ currency }}",
+  "22f18a313eb0d296133d98d76a148039": "Already used",
+  "4e4576a0a8e91e314950c51c0e31ff1d": "Not started yet",
+  "815d8681d42943165c03f84b46f9f05c": "Expired",
+  "74cb32e3f0b86ad10394c5b855630273": "Maximum amount to activate promo code {{ limit }}",
+  "571256386b4e6805e277369710f672c4": "Minimum amount to activate promo code {{ limit }}",
+  "677bde876b1abe32d86d79182e83bffb": "Social account is already in use",
+  "da02b2e252e8e33948721cc03b006d38": "This email is already in use",
+  "equaltoerror": "Passwords must be equal",
+  "passwordpattern": "Value must include letters and digits",
+  "error_date-period-order": "Date \"From\" should be less than the date \"To\"",
+  "error-404_title": "The page you specified was not found.",
+  "error-404_text": "Please make sure that the link is correct or select the section you are interested in using the menu at the top of the site.<br><br>If this error occurred while loading one of the pages of the site, please report this to our customer support – <a href=\"mailto:support@binarium.com\">support@binarium.com</a>",
+  "error-429_title": "The limit of the maximum possible server requests was exceeded.",
+  "error-429_text": "Please try logging in to the platform in 15 minutes.",
+  "error-500_title": "Server error",
+  "error-500_text": "At the moment, the server receives too many requests. Now we are dealing with this error and will restore the server’s performance in a flash! Thank you for your patience and understanding.",
+  "dummy_banned_country-title": "Access to the site is restricted in your country",
+  "dummy_banned_country-text": "Your region has been determined by your IP address",
+  "dummy_unsupported_browser-title": "Sorry, your browser is not supported.",
+  "dummy_unsupported_browser-text": "Try to update to the latest version or install one of the list",
+  "dummy_unsupported_device-title": "Sorry, your device is not supported.",
+  "dummy_unsupported_device-text": "Try to open site from a desktop pc",
+  "time_day": "day",
+  "landing_title": "Profitable investment<br>platform ",
+  "landing_slogan": "Register now and get USD 10000<br>on your demo account for free! Welcome<br>bonus on your first deposit up to USD 1500.",
+  "landing_security-1": "Secured funds<br>in EU bank",
+  "landing_security-2": "Strict privacy policy",
+  "landing_security-3": "Established in 2012",
+  "landing_platform-title": "Simple and user-friendly<br>trading platform",
+  "landing_platform-text": "Having all the necessary features for<br>professionals, our trading platform is easily accessible<br>even for newcomers!",
+  "landing_advantage-1-title": "Free USD 10 000 demo account",
+  "landing_advantage-1-text": "Practice without any risk, using all the available features.",
+  "landing_advantage-2-title": "Deposit from USD 5",
+  "landing_advantage-2-text": "Affordable start without any large investments.",
+  "landing_advantage-3-title": "Trades from USD 1",
+  "landing_advantage-3-text": "Test trading strategies without the risk of loosing large amount of money.",
+  "landing_advantage-4-title": "12 trading indicators ",
+  "landing_advantage-4-text": "Use popular trading indicators without breaking away from trade.",
+  "landing_payments-title": "Top up and money withdrawal",
+  "landing_payments-advantage-1-title": "Secured transactions with 3D Secure",
+  "landing_payments-advantage-1-text": "Your credit card details will always be protected.",
+  "landing_payments-advantage-2-title": "Wide range of payment systems ",
+  "landing_payments-advantage-2-text": "Top up and withdraw money from your account in any suitable way.",
+  "landing_payments-advantage-3-title": "No hidden commissions",
+  "landing_payments-advantage-3-text": "Don't be scared of high commissions of the payment systems, we cover them for you!",
+  "landing_payments-advantage-4-title": "Quick money withdrawal",
+  "landing_payments-advantage-4-text": "Use immediate withdrawal option and spend money as of today!",
+  "landing_bonus-message": "Congrats! You have received<br>100% bonus. We wish you<br>a profitable trading.<br><br>Binarium team",
+  "landing_bonus-title": "Get 100% bonus on your<br>first deposit!",
+  "landing_bonus-text": "Binarium always supports your determination with a special<br>bonus on your first deposit. Get 100% bonus on your<br>first deposit over USD 50 following 3 simple steps.",
+  "landing_bonus-button": "Get Bonus",
+  "landing_bonus-steps-title": "How does it work?",
+  "landing_bonus-step-1-title": "Registration",
+  "landing_bonus-step-1-text": "It will take less<br>than 15 seconds of your time.",
+  "landing_bonus-step-2-title": "Deposit",
+  "landing_bonus-step-2-text": "Top up your account<br>from USD 50 and more.",
+  "landing_bonus-step-3-title": "100% bonus",
+  "landing_bonus-step-3-text": "Get your bonus<br>and start trading!",
+  "landing_contact-us": "Contact us",
+  "payments-promo_title": "Welcome bonus",
+  "payments-promo_heading-1": "Deposit from 30 $ now<br>and get a special bonus!",
+  "payments-promo_heading-2": "Deposit from 30 € now<br>and get a special bonus!",
+  "payments-promo_heading-3": "Deposit from 1500 ₽ now<br>and get a special bonus!",
+  "payments-promo_button": "Get bonus",
+  "payments-freespins": "Risk free trades",
+  "payments-promo_code": "Promo code",
+  "payments-promo_copy": "copy",
+  "payments-step": "Step",
+  "payments-promo_footer-1": "Offer is available for first deposit from 30 $ to 500 $.<br>The received bonus does not limit the withdrawal of funds from your account.",
+  "payments-promo_footer-2": "Offer is available for first deposit from 30 € to 500 €.<br>The received bonus does not limit the withdrawal of funds from your account.",
+  "payments-promo_footer-3": "Offer is available for first deposit from 1500 ₽ to 30000 ₽.<br>The received bonus does not limit the withdrawal of funds from your account.",
+  "welcome_title": "Complete the registration <span class=\"nobr\"> and get</span> your welcome bonus",
+  "welcome_advantage-1": "Security of funds <span class=\"nobr\"> in Europen</span> bank",
+  "welcome_advantage-2": "Privacy Policy",
+  "welcome_advantage-3": "Providing services <span class=\"nobr\">since 2012</span>",
+  "welcome_advantage-4": "Secure SSL certificate protection",
+  "welcome_point-1-title": "Fill in the empty fields and get a bonus",
+  "welcome_point-1-title-all": "Fill in all the empty fields and get a bonus",
+  "welcome_point-1-text": "By filling in all the empty fields you confirm your identity.",
+  "welcome_point-2-title": "Activate the bonus",
+  "welcome_point-2-text": "First Deposit bonus doubles the amount on your account.",
+  "welcome_point-3-title": "Choose account type and start trading",
+  "welcome_point-3-text": "Opening a real trading account you can use your demo account for free.",
+  "welcome_bonus-yes": "100% bonus on first deposit",
+  "welcome_bonus-no": "I don't want to use the bonus",
+  "welcome_button-demo": "Open<br>demo account",
+  "welcome_button-real": "Start",
+  "welcome_button-start-trading": "Start trading",
+  "welcome_demo-value-1": "Free 1000$ for training",
+  "welcome_demo-value-2": "Free 1000€ for training",
+  "welcome_demo-value-3": "Free 60000₽ for training",
+  "welcome_real-value-1": "Minimum 10$ deposit.",
+  "welcome_real-value-2": "Minimum 10€ deposit.",
+  "welcome_real-value-3": "Minimum 600₽ deposit.",
+  "welcome_real-bonus-value-1": "100% bonus starting from 30$",
+  "welcome_real-bonus-value-2": "100% bonus starting from 30€,",
+  "welcome_real-bonus-value-3": "100% bonus starting from USD 50",
+  "welcome_form-required": "You are required to fill in all the requested fields.",
+  "welcome_form-phone": "Phone number (with a country code)",
+  "welcome_form-phone-nocode": "Phone number",
+  "welcome_invalid-name-pattern": "Incorrect name format",
+  "welcome_invalid-name-length": "Min length {{length}} symbols",
+  "welcome_invalid-surname-pattern": "Incorrect surname format",
+  "welcome_invalid-phone-pattern": "Incorrect phone format",
+  "landing_traderoom-title": "Trading room",
+  "landing_traderoom-preface": "Effective tool for working with the best platform traders online:",
+  "landing_traderoom-icon-1": "Effective trading<br>signals",
+  "landing_traderoom-icon-2": "Simple market<br>analytics",
+  "landing_traderoom-icon-3": "Exclusive<br>bonuses",
+  "landing_traderoom-icon-4": "The best traders on the platform",
+  "landing_traderoom-button": "Get access to the trading room",
+  "landing_traderoom-deposit": "Deposit",
+  "landing_traderoom-description": "Trading room is available for clients with a minimum <span>{{ amount }}</span> balance on their account",
+  "landing_traderoom-footer-1": "If you have a questions, you can",
+  "landing_traderoom-footer-2": "write",
+  "landing_traderoom-footer-3": "in online support or call +357 (22) 052 784",
+  "account-types_title": "Account types",
+  "account-types_base": "Basic",
+  "account-types_premium": "Premium",
+  "account-types_from": "from",
+  "account-types_title-0": "Traders online-support",
+  "account-types_body-0": "Have a question? The trader is always ready to answer in Skype at any time of the day.",
+  "account-types_title-1": "Basic training",
+  "account-types_body-1": "Start trading with a professional trader",
+  "account-types_title-2": "One beneficial trading strategy",
+  "account-types_body-2": "Trade simply and efficiently — personal selection of one most suitable strategy for you.",
+  "account-types_title-3": "Analysis of your trades",
+  "account-types_body-3": "We will find the strengths and weaknesses in your trading, give useful recommendations for increasing the profitability of trades.",
+  "account-types_title-4": "Сooperative trade one time a week",
+  "account-types_body-4": "You have a unique opportunity to open trades with a prof-trader one day a week- increase your profits and improve your skills.",
+  "account-types_title-5": "One withdrawal of funds in a day",
+  "account-types_title-6": "Access to the trading room",
+  "account-types_body-6": "Just follow the trades of one of the best traders online, copy them and make a profit.",
+  "account-types_title-7": "Increased bonus",
+  "account-types_title-8": "Risk-free trades",
+  "account-types_title-9": "Individual training",
+  "account-types_body-9": "Personal training course. One-on-one with trader on Skype at a convenient time for you.",
+  "account-types_title-10": "Development of personal strategy",
+  "account-types_body-10": "The most profitable and comfortable trading strategy is developed together with you.",
+  "account-types_title-11": "Сooperative trade three times a week",
+  "account-types_body-11": "You have a unique opportunity to open trades with a prof-trader three days a week- increase your profits and improve your skills.",
+  "account-types_title-12": "Withdrawal of funds without limit",
+  "account-types_button-base": "Open basic",
+  "account-types_button-premium": "Open premium",
+  "st_title": "Strategies",
+  "st_more": "Learn More",
+  "st_btn-use-strategy": "Use strategy",
+  "st_btn-use-indicator": "Use indicator",
+  "st_btn-start": "Start trading",
+  "st_popular": "Popular",
+  "ec_title": "Economic calendar",
+  "reg-success_close": "Close",
+  "home_button-close": "Close",
+  "reg-success_title": "Successful registration",
+  "reg-success_text": "In order to complete your registration, please click the confirmation link in the email that we have sent to you.",
+  "reg-success_footer": "If you have any questions please contact our client support:<br>+357 (22) 052784",
+  "home_login-button-get-bonus": "Get Bonus",
+  "table-swipe": "Please scroll left or right",
+  "modal_close": "Close",
+  "gdpr_title": "Your privacy is important to us",
+  "gdpr_text": "<p>We’re happy to announce that we’re in full compliance with GDPR meaning you get more control over data you shared with us and what we in turn to do with it.</p><p>To continue using our services in future please confirm you are consent for the processing of your personal data for any and all purposes and on all the conditions set forth in this Policy.</p><p>I have read the <a target=\"_blank\" href=\"/main/privacy\">Data Protection Policy</a> (hereinafter referred to as \"Policy\") on Your website https://binarium.com and I hereby present to the company BINARIUM LIMITED, HE 321566 (the \"Company\") my consent for the processing of my personal data for any and all purposes and on all the conditions set forth in this Policy.<br><br>I undertake to fulfill all the User`s obligations provided by the Policy including but not limited to the provision of an immediate notification to the Company if there are any changes to my personal data.</p>",
+  "gdpr_disagree": "I do not accept terms of private policy",
+  "gdpr_agree": "Agree and proceed",
+  "strategy-cat_all": "All",
+  "strategy-cat_simple": "Simple",
+  "strategy-cat_basic": "Basic",
+  "strategy-cat_advanced": "Advanced",
+  "cookie-request_text": "By continuing to use our site, you agree to our use of cookies that ensure its proper operation.",
+  "cookie-request_link": "Learn More",
+  "cookie-request_button": "OK",
+  "landing-fast-trading_pin-1": "Secured funds<br>in EU bank",
+  "landing-fast-trading_pin-2": "Strict privacy policy",
+  "landing-fast-trading_pin-3": "Established in 2012",
+  "landing-fast-trading_title-text": "<span>Earning money quickly</span> on the Binarium trading platform is very easy",
+  "landing-fast-trading_title-button": "Try now",
+  "landing-fast-trading_tutorial-title": "How can I earn money in 30 seconds?",
+  "landing-fast-trading_tutorial-step-1-text-1": "Select the future direction of the chart",
+  "landing-fast-trading_tutorial-step-1-text-2": "Top",
+  "landing-fast-trading_tutorial-step-1-text-3": "or",
+  "landing-fast-trading_tutorial-step-1-text-4": "Down",
+  "landing-fast-trading_tutorial-step-2-text-1": "In just a few seconds you will get",
+  "landing-fast-trading_tutorial-step-2-text-2": "up to 85% profit",
+  "landing-fast-trading_reg-info": "Try<br>now",
+  "landing-fast-trading_platform-title": "Profitable investment<br>platform ",
+  "landing-fast-trading_platform-info-1-title": "Free training<br> account with 1000$",
+  "landing-fast-trading_platform-info-1-text": "Practice without any risk, using all the available features.",
+  "landing-fast-trading_platform-info-2-title": "Simple trading<br>platform",
+  "landing-fast-trading_platform-info-2-text": "The platform that will even help a newbie easily understand how trading works.",
+  "landing-fast-trading_platform-info-3-title": "Free<br>training",
+  "landing-fast-trading_platform-info-3-text": "Individual classes, trading strategies, topical news.",
+  "landing-fast-trading_platform-info-4-title": "Quick<br>money withdrawal",
+  "landing-fast-trading_platform-info-4-text": "Use immediate withdrawal option and spend money as of today!",
+  "landing-fast-trading_platform-aside-1-title": "Minimum top-up",
+  "landing-fast-trading_platform-aside-1-text": "10$",
+  "landing-fast-trading_platform-aside-2-title": "Trading transactions from",
+  "landing-fast-trading_platform-aside-2-text": "1$",
+  "landing-fast-trading_platform-aside-3-title": "High profitability up to",
+  "landing-fast-trading_platform-aside-3-text": "85%",
+  "landing-success-trading_pin-1": "Secured funds<br>in EU bank",
+  "landing-success-trading_pin-2": "Strict privacy policy",
+  "landing-success-trading_pin-3": "Established in 2012",
+  "landing-success-trading_slide-1-name": "Paul Dubovik",
+  "landing-success-trading_slide-1-position": "entrepreneur, Moscow",
+  "landing-success-trading_slide-1-text": "I have several income sources - business with China, Internet projects, trading. And trading is my favorite. Everything is extremely simple - I start either a bear or bull transaction, and in less than a minute I make 75-85% profit.<br>I particularly enjoy the trading room - it became available to me immediately after I added a 200-dollar deposit. Binarium is the only trading platform that provides its users with truly independent and profitable signals in the trading room.",
+  "landing-success-trading_slide-2-name": "Oksana Sumtsova",
+  "landing-success-trading_slide-2-position": "accountant, Perm",
+  "landing-success-trading_slide-2-text": "I trade on Binarium platform when I have free time at work. All you need to make it happen is a computer and an Internet connection. It didn't take me long to figure out how everything works, I completed training on the platform, reviewed a few strategies, and I now get regular income from trading - greater than my paycheck.<br><br>And after work, I only dedicate my time to household chores and my family - because to me, it's the most important thing.",
+  "landing-success-trading_slide-3-name": "Anton Moroz",
+  "landing-success-trading_slide-3-position": "electrical engineer, Saratov",
+  "landing-success-trading_slide-3-text": "I have been working with Binarium for 5 years. During this time, I tried many other platforms - but only Binarium has been constantly improving and working at a stable pace all this time. Almost instantaneous withdrawals, bonuses for each deposit, and a large selection of tools.<br><br>I spend a few hours a week on the platform, and as a result I get a nice bonus to my salary. The Trends tool has also been recently introduced on the platform, and since then trading has become even easier. Technical analysis is carried out on the platform, and all I have to do is choose the strongest signals and start profitable transactions in one click.",
+  "landing-success-trading_slide-4-name": "Igor Avdeev",
+  "landing-success-trading_slide-4-position": "programmer, Yekaterinburg",
+  "landing-success-trading_slide-4-text": "I have been interested in cryptocurrency for a while - even before it became mainstream. I am following the market, and I would really like to make money on exchange rate fluctuations, but I had some negative experience with one exchange platform where my money was pretty much stolen.<br><br>The most important thing for me at the moment is a large income in terms of cryptocurrency assets and money safety. Binarium offers the highest interest rates for cryptocurrencies, while ensuring safety of funds by a European bank. My knowledge of the market helps, and I regularly withdraw large amounts with no problem whatsoever.",
+  "landing-success-trading_platform-title": "Profitable investment<br>platform ",
+  "landing-success-trading_platform-1-title": "High<br>profitability up to",
+  "landing-success-trading_platform-2-title": "Trading<br>transactions from",
+  "landing-success-trading_platform-2-text": "1$",
+  "landing-success-trading_platform-3-title": "Minimum<br>top-up",
+  "landing-success-trading_platform-3-text": "10$",
+  "landing-success-trading_platform-4-title": "Fast<br>transactions",
+  "landing-success-trading_platform-4-text": "1 min.",
+  "landing-success-trading_platform-5-title": "Withdrawal<br>of funds",
+  "landing-success-trading_platform-5-text": "1 hour",
+  "landing-success-trading_platform-6-title": "Minimum<br>withdrawal amount",
+  "landing-success-trading_platform-6-text": "5$",
+  "landing-success-trading_tutorial-title": "<span>Trade successfully</span> on Binarium platform",
+  "landing-success-trading_tutorial-step-1-title": "Select asset",
+  "landing-success-trading_tutorial-step-1-text": "For example, <strong>Bitcoin</strong>",
+  "landing-success-trading_tutorial-step-2-title": "Enter transaction amount",
+  "landing-success-trading_tutorial-step-2-text": "For example, <strong>25$</strong>\n ",
+  "landing-success-trading_tutorial-step-3-title": "Start a transaction",
+  "landing-success-trading_tutorial-step-3-text": "Suppose, <span class=\"lst-adv__up\">Top</span>",
+  "landing-success-trading_tutorial-step-4-title": "Get the profit",
+  "landing-success-trading_tutorial-step-4-text": "Trade with <strong>Binarium</strong>",
+  "landing-success-trading_tutorial-button": "Try now",
+  "landing_social-form-title": "Register via social networks",
+  "landing-promo_title": "Double<br>your deposit",
+  "landing-promo_text": "Top up a real<br>account within an hour<br> after registration and<br>get<span>a bonus up to</span>",
+  "landing-promo_amount": "500$\n \n",
+  "act_label-1": "Account type",
+  "act_label-2": "Deposit amount",
+  "act_label-3": "Maximum withdrawal amount in 24 hours",
+  "act_label-4": "Additional bonus for deposits",
+  "act_label-5": "Tradeback",
+  "act_label-6": "Trading room",
+  "act_label-7": "Number of available requests per day",
+  "act_button": "Open",
+  "act_unlimited": "No limit",
+  "act_trading-room-standart": "Standard",
+  "act_trading-room-premium": "Premium",
+  "act_tradeback": "Tradeback—partial refund of the trader’s losing trades. Credited every Tuesday at 12:00 (0:00 UTC)",
+  "ac-types@title": "Account type",
+  "ac-types@label_depositSum": "Deposit amount",
+  "ac-types@label_tradeback": "Tradeback",
+  "ac-types@label_tradebackEnrolment": "Tradeback points",
+  "ac-types@label_assets": "Trading assets",
+  "ac-types@label_withdrawalCountLimit": "Withdrawal requests, per day",
+  "ac-types@label_withdrawalAmountLimit": "Withdrawal limit, per month",
+  "ac-types@label_withdrawalDayAmountLimit": "Withdrawal limit, per day",
+  "ac-types@label_tradingRoom": "Trading room",
+  "ac-types@label_openDealsSum": "Max number of open trades (at one time)",
+  "ac-types@value_real": "real funds",
+  "ac-types@value_bonus": "bonus",
+  "ac-types@value_nolimit": "no limit",
+  "ac-types@btn": "increase",
+  "ac-types@self": "Your account",
+  "ac-types@tradeback-hint": "Tradeback—partial refund of the trader’s losing trades. Credited every Tuesday at 12:00 (0:00 UTC)",
+  "captcha@title": "You're not a robot, right?",
+  "captcha@text": "Please click the checkbox below.",
+  "currency@solid_usd": "US Dollar ($ — USD)",
+  "currency@solid_rub": "Russian Ruble (₽ — RUB)",
+  "currency@solid_eur": "Euro (€ — EUR)",
+  "currency@solid_uah": "Ukrainian Hryvnia (₴ — UAH)",
+  "currency@solid_aud": "Australian Dollar (A$ — AUD)",
+  "currency@solid_thb": "Thai baht (฿ — THB)",
+  "currency@solid_kzt": "Kazakhstani tenge (₸ — KZT)",
+  "currency@solid_brl": "Brazilian real (R$ — BRL)",
+  "currency@solid_try": "Turkish lira (₺ — TRY)",
+  "currency@solid_inr": "Indian rupee (₹ — INR)",
+  "currency@solid_idr": "Indonesian rupiah (Rp — IDR)",
+  "currency@solid_jpy": "Japanese yen (¥ — JPY)",
+  "currency@solid_vnd": "Vietnamese dong (₫ — VND)",
+  "currency@solid_btc": "Bitcoin (₿ — BTC)",
+  "currency@solid_ltc": "Litecoin (Ł — LTC)",
+  "currency@solid_eth": "Ethereum (ETH)",
+  "withdrawal-error@amount-limit": "The withdrawal limit has been exceeded",
+  "promo-gift@bonus": "bonus",
+  "promo-gift@freeSpins": "Risk free trades",
+  "promo-gift@tradeRoom": "trading room",
+  "promo-gift@tickets": "tickets",
+  "home@account-label": "Your account",
+  "home@account-type": "Account types",
+  "home@account-button": "Top up",
+  "home@tr-label": "Trading room",
+  "home@tr-slogan": "Profitable trading with top traders",
+  "home@tr-text": "Cooperative trading with only the most experienced Binarium traders. Valuable signals, advice and priceless experience.",
+  "home@tr-btn": "Enter the room",
+  "home@assets-title": "Assets with high profitability",
+  "home@asset-timer-label": "Time remaining until the end of trading",
+  "home@asset-timer-days": "days",
+  "home@asset-timer-hours": "h",
+  "home@asset-timer-minutes": "m",
+  "home@asset-timer-seconds": "s",
+  "home@asset-timer-btn": "Trading",
+  "tr@title": "Trading room",
+  "tr@subtitle": "an instrument for confident and simple trading",
+  "tr@text": "Customers with access to the Trading Room get effective trading signals from our top traders and earn more.",
+  "tr@btn-deposit": "Get access",
+  "tr@btn-navigate": "to the Trading Room",
+  "tr@signal-title": "What's a trading signal?",
+  "tr@signal-text1": "A trading signal is an example of a profitable trade according to our traders. Signals contain an asset, the recommended price and time to enter the trade, as well as its end.",
+  "tr@signal-text2": "Traders assess the strength and reliability of each signal, and you decide if you want to use our team's prediction.",
+  "tr@advices-title": "The Trading Room is",
+  "tr@advice-1-title": "Trading<br>advice",
+  "tr@advice-1-text": "How should you build your trading strategy? Recommendations from top traders.",
+  "tr@advice-2-title": "The most recent news",
+  "tr@advice-2-text": "We track all the important events that may affect your trades.",
+  "tr@advice-3-title": "Trader answers to your questions",
+  "tr@advice-3-text": "Learn how our team's strategies earn a profit.",
+  "tr@advice-4-title": "Simple market<br>analytics",
+  "tr@advice-4-text": "No confusing charts: everything is clear and simple.",
+  "tr@advice-5-title": "2 trading sessions for 4 hours a day",
+  "tr@advice-5-text": "Signals from Binarium traders from Monday through Thursday",
+  "tr@advice-6-title": "Around 30 signals a day",
+  "tr@advice-6-text": "Browser notification sounds ensure you never miss a signal.",
+  "tr@advice-7-title": "Trading training",
+  "tr@advice-7-text": "Learn from the best!",
+  "tr@join-title": "How to join the Trading Room",
+  "tr@join-text": "Make a deposit of $500, €500 or ₽30,000. The deposit amount will remain in your account. Use it to earn even more with Binarium.",
+  "tr@business-text": "Make a deposit of<br> at least $500, €500 or ₽30,000 to your account",
+  "tr@business-list": "<li>One of Binarium's top traders holds the session</li><li>Fast trade results</li>",
+  "tr@vip-text": "Make a deposit of<br> at least $5000, €5000 or ₽300,000 to your account",
+  "tr@vip-list": "<li>Your own personal manager</li><li>Detailed comments on every signal</li><li>Trades with an expiration time longer than 1 day</li><li>Trading based on the latest global news and events</li><li>Trading training</li>",
+  "tr@popular": "Popular choice",
+  "tradeback@text": "Binarium supports its users by compensating part of their losses. Tradeback is a tool to recoup part of your losing trades. It's credited to your account every Tuesday for the previous week's transactions.",
+  "tradeback@true": "Accept tradeback",
+  "tradeback@false": "Decline tradeback",
+  "tradeback@submit": "Save changes",
+  "BG6265@logo": "Profitable investment<br>platform ",
+  "BG6265@security": "Security and protection for funds are provided by a European bank",
+  "BG6265@ei-title": "Effective investments",
+  "BG6265@reg-inv-1": "Register and get access to",
+  "BG6265@reg-inv-2": "the most up-to-date platform for free.",
+  "BG6265@reg-inv-3": "$1000",
+  "BG6265@reg-inv-4": "on your demo account and 100% bonus on your first deposit.",
+  "BG6265@freereg": "Free registration",
+  "BG6265@eubank": "Security and protection for funds are provided by a European bank",
+  "BG6265@feature-1-title": "51,289 traders",
+  "BG6265@feature-1-text": "online everyday",
+  "BG6265@feature-2-title": "$1,259,685",
+  "BG6265@feature-2-text": "withdrawn last week",
+  "BG6265@feature-3-title": "657 trades",
+  "BG6265@feature-3-text": "per minute",
+  "BG6265@scroll-1-title": "The <br>startup<br> deposit is $10",
+  "BG6265@scroll-1-text": "Low entry fee",
+  "BG6265@scroll-2-title": "The <br>minimum<br>trade amount is $1",
+  "BG6265@scroll-2-text": "Low-risk trading<br>",
+  "BG6265@scroll-3-title": "Profit of up to 90%<br>",
+  "BG6265@scroll-3-text": "Make profit at<br>the most favourable terms",
+  "BG6265@platform-1": "All platforms",
+  "BG6265@platform-2": "All devices",
+  "BG6265@platform-3": "Popular web browsers",
+  "BG6265@start-trade": "Start trading for free",
+  "BG6265@start-to-trade": "Start trading",
+  "BG6265@tradeback-title": "One unique feature is<br>partial reimbursement for unprofitable trades",
+  "BG6265@tradeback-amount": "Deposit amount",
+  "BG6265@tradeback-name": "Tradeback",
+  "BG6265@tradeback-fund": "Tradeback points",
+  "BG6265@tradeback-fund-bonus": "Bonus",
+  "BG6265@tradeback-fund-real": "Real funds",
+  "BG6265@tradeback-openacc": "Open an account for free",
+  "BG6265@risk-warning": "<p><span>Risk disclosure.</span> Trading operations made on Binarium platform involve a significant risk of loss of a capital. Please, read carefully the general trading conditions on our website before making any investments. You are given the right of personal, non-commercial use of the information located on this site. The right to use is limited, not exclusive. The company's activities are conducted outside the Russian Federation.</p>",
+  "BG6265@home_login-email-placeholder": "Your e-mail address",
+  "BG6265@home_login-password-placeholder": "Choose a password",
+  "BG6265@home_pick-a-currency": "Currency",
+  "BG6265@home_login-button-reg": "Open an account for free",
+  "BG6265@slide-1-text": "Binarium offers a wide range of assets, from currency pairs to cryptocurrencies. It has assets that other platforms just don't offer. I especially want to note the ability to trade on weekends.",
+  "BG6265@slide-1-author": "Dmitry",
+  "BG6265@slide-1-place": "Omsk, Russia",
+  "BG6265@slide-2-text": "I started trading with Binarium. I quickly figured out how it works. It has a great support team and lots of useful tools. I love that you can level up your account over time and get more privileges.",
+  "BG6265@slide-2-author": "Alexander",
+  "BGBG6265@slide-2-place": "Kharkov, Ukraine",
+  "BG6265@slide-3-text": "Thanks to Binarium, I learned how to manage my capital and invest wisely.",
+  "BG6265@slide-3-author": "Darshit",
+  "BG6265@slide-3-place": "Varca, India",
+  "BG6265@slide-4-text": "It's the best platform that never stands still. They add new assets, hold drawings, and let you withdraw profits even quicker. Thank you for the opportunity to make money.",
+  "BG6265@slide-4-author": "Rameen",
+  "BG6265@slide-4-place": "Baku, Azerbaijan",
+  "BG6265@slide-5-text": "The best platform ever! It's easy to trade, even for beginners. You can quickly withdraw your profits, and the support team is quick to help. I really like the trading room and traders' tips. Thank you Binarium, I wish you good luck and success.",
+  "BG6265@slide-5-author": "Olga",
+  "BG6265@slide-5-place": "Novosibirsk, Russia",
+  "BG6265@slide-6-text": "I want to thank Binarium for their professionalism and high-quality product. I don't anything to complain about in the almost 3 years I've been using the platform. Everything is easy to understand, fast, and top notch.",
+  "BG6265@slide-6-author": "Leyla",
+  "BG6265@slide-6-place": "Taraz, Kazakhstan",
+  "BG6265@slide-7-text": "Thank you for the opportunity to earn money. The user-friendly design, fast withdrawal, tournaments with real money prizes, high % of payments, and the ability to trade on the weekend are the top pros. I definitely recommend it.",
+  "BG6265@slide-7-author": "Lestari",
+  "BG6265@slide-7-place": "Denpasar, Indonesia",
+  "BG6265@start-title": "It's easy to get started",
+  "BG6265@start-1-title": "Registration",
+  "BG6265@start-1-text": "Create a free account in just a few minutes.",
+  "BG6265@start-2-title": "Explore the platform",
+  "BG6265@start-2-text": "Access all of Binarium's features on your demo account.",
+  "BG6265@start-3-title": "Deposit",
+  "BG6265@start-3-text": "Use it to open trades and earn your first trading profit.",
+  "BG6265@start-4-title": "Withdraw profit",
+  "BG6265@start-4-text": "Withdraw your earnings instantly.",
+  "BG6265@soc-reg-1": "Quick registration via social media",
+  "BG6265@soc-reg-2": "or e-mail",
+  "BG6265@fast-deposit": "Easy deposit and quick withdrawal processes",
+  "BG6265@copyright": "© 2020 Binarium Ltd. 8 years on the market",
+  "BG6265@soc": "Our social media",
+  "BG6265@fast-support": "24/7 Binarium support",
+  "BG6265@st-title": "Start trading confidently<br>with Binarium",
+  "BG6265@list-1": "$1000 on the demo account",
+  "BG6265@list-2": "Deposits starting from $10",
+  "BG6265@list-3": "Withdraw funds within an hour",
+  "BG6265@profit-1-title": "7 days<br>a week",
+  "BG6265@profit-1-text": "Earn on the weekend",
+  "BG6265@profit-2-title": "Trading signals<br>and analytics",
+  "BG6265@profit-2-text": "Professional traders' tips in the Binarium trading room",
+  "BG6265@profit-3-title": "Profitable<br>tradeback",
+  "BG6265@profit-3-text": "Reimbursement for unprofitable trades",
+  "BG6265@home_agree": "I accept",
+  "BG6265@home_agree-with-conditions": "terms and agreement",
+  "avatar@change": "Change",
+  "avatar@error": "File uploading error",
+  "avatar@delete": "Delete",
+  "avatar@add": "Add avatar",
+  "avatar@save": "Save",
+  "var_support@email": "support@binarium.com"
+}
