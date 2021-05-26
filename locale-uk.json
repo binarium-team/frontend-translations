@@ -523,7 +523,7 @@
   "welcome_invalid-name-pattern": "Некоректний формат імені",
   "welcome_invalid-name-length": "Мінімальна довжина {{length}} символів",
   "welcome_invalid-surname-pattern": "Некоректний формат прізвища",
-  "welcome_invalid-phone-pattern": "Невірний номер телефону",
+  "welcome_invalid-phone-pattern": "Некоректний формат телефону",
   "landing_traderoom-title": "Торгова кімната",
   "landing_traderoom-preface": "Ефективний інструмент для роботи з кращими трейдерами платформи Binarium онлайн:",
   "landing_traderoom-icon-1": "Ефективні торгові сигнали",
