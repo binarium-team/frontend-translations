@@ -400,6 +400,7 @@
   "76454e69-502c-46c5-9643-f447d837c4d5": "Giá trị này nên là {{limit}} hoặc cao hơn",
   "ad32d13f-c3d4-423b-909a-857b961eb720": "Giá trị này không được trống.",
   "8e179f1b-97aa-4560-a02f-2a8b42e49df7": "Giá trị bạn chọn không phải là một lựa chọn hợp lệ",
+  "81a59798b0424ab80ff5da93e148763a": "Ủy quyền thất bại. Để biết thêm chi tiết vui lòng liên hệ bộ phận hỗ trợ khách hàng của chúng tôi tại support@binarium.com",
   "853ff54c1a66d1a2379e0c46f8eb9ed4": "Thông tin không hợp lệ",
   "3ac1d32eb3c54e11ef9ea474da816ad6": "Yếu tố cần thiết '{{ name }}' cần được đặt",
   "661d3bc6c153e42a3658855010678cbd": "Không rõ yếu tố cần thiết '{{ names }}'",

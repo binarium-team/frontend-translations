@@ -400,6 +400,7 @@
   "76454e69-502c-46c5-9643-f447d837c4d5": "Questo valore deve essere {{limit}} o più",
   "ad32d13f-c3d4-423b-909a-857b961eb720": "Questo valore non deve essere nullo.",
   "8e179f1b-97aa-4560-a02f-2a8b42e49df7": "Il valore selezionato non è una scelta valida",
+  "81a59798b0424ab80ff5da93e148763a": "Autorizzazione non riuscita. Per maggiori dettagli contatta il nostro supporto clienti all'indirizzo support@binarium.com",
   "853ff54c1a66d1a2379e0c46f8eb9ed4": "Requisito non valido",
   "3ac1d32eb3c54e11ef9ea474da816ad6": "I requisiti \"{{ name }}\" devono essere impostati",
   "661d3bc6c153e42a3658855010678cbd": "Requisiti \"{{ names }}\" sconosciuti",
